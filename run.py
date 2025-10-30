@@ -1,28 +1,40 @@
 import os
 import json
 import time
+import subprocess
 import luftfartygsregistret as lfr
 from services.writer import Writer
 
-# === Start timer ===
+GITHUB_USER = "Lingonjr1"
+REPO = "luftfartygregister"
+TOKEN = "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"  
+
+def git_commit_and_push(message="Auto update"):
+    """Push changes to GitHub automatically."""
+    remote_url = f"https://{GITHUB_USER}:{TOKEN}@github.com/{GITHUB_USER}/{REPO}.git"
+    try:
+        subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True)
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", message], check=True)
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        print("✅ Changes committed and pushed to GitHub.")
+    except subprocess.CalledProcessError as e:
+        print("⚠️ Git push failed:", e)
+
 start_time = time.time()
 
 print("📡 Hämtar alla luftfartyg med detaljer...\n")
 register = lfr.get_aircrafts_with_details()
 
-# Spara aktuellt register
 Writer.write_json(register, "register.json")
 
-# Ta bort anonyma ägare
 register_light = [lfr.remove_anonymous_owners(a) for a in register]
 
-# Spara lätt version + CSV
 Writer.write_json(register_light, "register_light.json")
 Writer.write_csv(register_light, "register.csv")
 
 print("✅ Hämtning klar.\n")
 
-# === Jämför med tidigare fil ===
 previous_file = "register_previous.json"
 if os.path.exists(previous_file):
     with open(previous_file, "r", encoding="utf-8") as f:
@@ -37,9 +49,8 @@ def index_by_code(data):
 old = index_by_code(old_data)
 new = index_by_code(register)
 
-# === Hitta tillagda, borttagna och ändrade poster ===
 def normalize(obj):
-    """Sortera nycklar för stabil jämförelse"""
+    """Sortera register för stabil jämförelse"""
     return json.dumps(obj, sort_keys=True, ensure_ascii=False)
 
 added = [a for code, a in new.items() if code not in old]
@@ -50,7 +61,6 @@ changed = [
     if code in old and normalize(old[code]) != normalize(new[code])
 ]
 
-# === Sammanfattning ===
 summary = {
     "added_count": len(added),
     "removed_count": len(removed),
@@ -62,19 +72,11 @@ summary = {
 
 Writer.write_json(summary, "updates.json")
 
-# === Resultat i terminalen ===
-print("=========================================")
-print(f"\033[92mTillagda poster:\033[0m {len(added)}")
-print(f"\033[91mBorttagna poster:\033[0m {len(removed)}")
-print(f"\033[93mÄndrade poster:\033[0m {len(changed)}")
-print("=========================================")
-print("Sparade sammanställning till updates.json")
-
-# === Flytta över aktuellt register som nytt "previous" ===
 os.replace("register.json", previous_file)
 
-# === Mät tid ===
+git_commit_and_push("Automatisk uppdatering av luftfartygsregister")
+
 end_time = time.time()
 elapsed = end_time - start_time
 minutes, seconds = divmod(round(elapsed), 60)
-print(f"\n Tog {minutes} minuter och {seconds} sekunder att skanna.")
+print(f"\nTog {minutes} minuter och {seconds} sekunder att skanna.")

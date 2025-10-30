@@ -38,6 +38,6 @@ python scrape_ts_register.py
 
 echo.
 echo ==============================================
-echo Task complete! Check your output files.
+echo Skanning avklarad kolla: https://github.com/Lingonjr1/luftfartygregister/commits/main/register_light.json
 echo ==============================================
 pause
