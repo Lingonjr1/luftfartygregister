@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:odrs="http://schema.theodi.org/odrs#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:pubeu="http://publications.europa.eu/resource/authority/"
+    xmlns:geosparql="http://www.opengis.net/ont/geosparql#"
+    xmlns:prov="http://www.w3.org/ns/prov#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <dcat:Catalog rdf:about="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/refs/heads/master/dcat-ap.rdf">
+        <dcterms:title xml:lang="sv">Svenska luftfartygsregistret</dcterms:title>
+        <dcterms:description xml:lang="sv">Det svenska luftfartygsregistret exporterat på JSON och CSV från Transportstyrelsens webbplats</dcterms:description>
+        <dcterms:title xml:lang="en">Swedish aircraft register</dcterms:title>
+        <dcterms:description xml:lang="en">The Swedish aircraft register exported as JSON and CSV from the website of Transportstyrelsen</dcterms:description>
+        <dcat:dataset rdf:resource="https://github.com/civictechsweden/oppna-luftfartygsregistret"/>
+        <dcterms:publisher rdf:resource="https://civictech.se/owner.rdf"/>
+        <dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    </dcat:Catalog>
+    <dcat:Dataset rdf:about="https://github.com/civictechsweden/oppna-luftfartygsregistret">
+        <dcterms:title xml:lang="sv">Svenska luftfartygsregistret</dcterms:title>
+        <dcterms:description xml:lang="sv">Det svenska luftfartygsregistret exporterat på JSON och CSV från Transportstyrelsens webbplats</dcterms:description>
+        <dcterms:title xml:lang="en">Swedish aircraft register</dcterms:title>
+        <dcterms:description xml:lang="en">The Swedish aircraft register exported as JSON and CSV from the website of Transportstyrelsen</dcterms:description>
+        <dcat:distribution rdf:resource="https://github.com/civictechsweden/oppna-luftfartygsregistret/blob/master/register.csv"/>
+        <dcat:distribution rdf:resource="https://github.com/civictechsweden/oppna-luftfartygsregistret/blob/master/register.json"/>
+        <dcat:distribution rdf:resource="https://github.com/civictechsweden/oppna-luftfartygsregistret/blob/master/register_light.json"/>
+        <dcterms:publisher rdf:resource="https://civictech.se/owner.rdf"/>
+        <dcterms:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+        <dcterms:subject rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/TopicCategory/transportation"/>
+        <dcterms:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcterms:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        <prov:qualifiedAttribution rdf:nodeID="owner"/>
+        <dcat:keyword xml:lang="sv">Luftfartyg</dcat:keyword>
+        <dcat:keyword xml:lang="en">Aircraft</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Register</dcat:keyword>
+        <dcat:keyword xml:lang="en">Register</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Flygplan</dcat:keyword>
+        <dcat:keyword xml:lang="en">Airplane</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Transportstyrelsen</dcat:keyword>
+        <dcat:keyword xml:lang="en">Transport</dcat:keyword>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcterms:issued>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dcterms:spatial rdf:resource="http://sws.geonames.org/2661886"/>
+        <dcterms:temporal>
+            <dcterms:PeriodOfTime rdf:nodeID="temporal">
+                <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-01</dcat:startDate>
+                <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31</dcat:endDate>
+            </dcterms:PeriodOfTime>
+        </dcterms:temporal>
+        <dcat:contactPoint rdf:resource="https://civictech.se/kontakt"/>
+    </dcat:Dataset>
+    <dcat:Distribution rdf:about="https://github.com/civictechsweden/oppna-luftfartygsregistret/blob/master/register.csv">
+        <dcterms:title xml:lang="sv">Register (utan anonyma)</dcterms:title>
+        <dcterms:title xml:lang="en">Register (without anonymous)</dcterms:title>
+        <dcterms:description xml:lang="sv">Registret på CSV</dcterms:description>
+        <dcterms:description xml:lang="en">The register as CSV</dcterms:description>
+        <dcterms:format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">text/csv</dcterms:format>
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.csv"/>
+        <dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.csv"/>
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://github.com/civictechsweden/oppna-luftfartygsregistret/blob/master/register_light.json">
+        <dcterms:title xml:lang="sv">Register (utan anonyma)</dcterms:title>
+        <dcterms:title xml:lang="en">Register (without anonymous)</dcterms:title>
+        <dcterms:description xml:lang="sv">Registret på JSON</dcterms:description>
+        <dcterms:description xml:lang="en">The register as JSON</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register_light.json"/>
+        <dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register_light.json"/>
+    </dcat:Distribution>
+    <dcat:Distribution rdf:about="https://github.com/civictechsweden/oppna-luftfartygsregistret/blob/master/register.json">
+        <dcterms:title xml:lang="sv">Register (innan rensning, med listan av anonymerade ägare)</dcterms:title>
+        <dcterms:title xml:lang="en">Register (before cleaning, with the list of anonymised owners)</dcterms:title>
+        <dcterms:description xml:lang="sv">Registret på JSON</dcterms:description>
+        <dcterms:description xml:lang="en">The register as JSON</dcterms:description>
+        <dcterms:format>application/json</dcterms:format>
+        <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.json"/>
+        <dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/civictechsweden/oppna-luftfartygsregistret/master/register.json"/>
+    </dcat:Distribution>
+    <prov:Attribution rdf:nodeID="owner">
+        <prov:agent rdf:resource="https://civictech.se/owner.rdf"/>
+        <dcat:hadRole rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResponsiblePartyRole/owner"/>
+    </prov:Attribution>
+</rdf:RDF>
