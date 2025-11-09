@@ -14770,7 +14770,7 @@
         "Tillverkningsnummer": "18050969",
         "Tillverkningsår": "1960",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-07",
         "Registreringsdatum": "1972-10-20",
         "owners": [
             {
@@ -26414,7 +26414,7 @@
         "Tillverkningsnummer": "35810",
         "Tillverkningsår": "1962",
         "Max startvikt (kg)": "9741,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
         "Registreringsdatum": "2014-05-28",
         "owners": [
             {
@@ -26439,7 +26439,7 @@
         "Tillverkningsnummer": "35556",
         "Tillverkningsår": "1969",
         "Max startvikt (kg)": "11500,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
         "Registreringsdatum": "2017-04-18",
         "owners": [
             {
@@ -33041,10 +33041,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 502535,
-                "name": "Motala Flygklubb",
-                "address": "Skärstad Nedre Bostället 425 591 94 MOTALA Sweden",
-                "since": "1990-02-07"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -35147,7 +35147,7 @@
         "Tillverkningsnummer": "60",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-31",
         "Registreringsdatum": "1968-12-30",
         "owners": [
             {
@@ -36585,6 +36585,13 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -59079,7 +59086,7 @@
         "Tillverkningsnummer": "28-7816195",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-27",
         "Registreringsdatum": "1978-09-29",
         "owners": [
             {
@@ -90772,10 +90779,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 732651,
-                "name": "Helipistas S.L",
-                "address": "Heliport Teresa Vila s/n ES-08231 Ullastrell (Barcelona) Spain",
-                "since": "2025-06-04"
+                "id": 500012,
+                "name": "HeliAir Sweden AB",
+                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
+                "since": "2025-11-05"
             },
             {
                 "type": "Registrerad innehavare",
@@ -96722,7 +96729,7 @@
         "Tillverkningsnummer": "20050",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "3800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-05",
         "Registreringsdatum": "2015-12-03",
         "owners": [
             {
@@ -106440,7 +106447,7 @@
         "Tillverkningsnummer": "7138C",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-07-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-02",
         "Registreringsdatum": "1990-07-10",
         "owners": [
             {
@@ -117440,6 +117447,31 @@
         ]
     },
     {
+        "code": "SE-LMG",
+        "Luftfartygstyp": "CESSNA-F172P",
+        "Tillverkningsnummer": "F17202131",
+        "Tillverkningsår": "1981",
+        "Max startvikt (kg)": "1089,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-11-03",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 503148,
+                "name": "Växjö Flygklubb",
+                "address": "Sweden",
+                "since": "2025-11-03"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-LMM",
         "Avregistrerad": "2000-12-20",
         "Orsak": "Exported",
@@ -118609,10 +118641,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 600034,
-                "name": "Lipican Aer d.o.o.",
-                "address": "Sečovlje 19 SI-6333 SECOVLJE Slovenia",
-                "since": "2020-01-22"
+                "id": 727924,
+                "name": "Empterwik Rental AB",
+                "address": "Sweden",
+                "since": "2025-11-06"
             },
             {
                 "type": "Registrerad innehavare",
@@ -122217,10 +122249,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503760,
-                "name": "Erik Thun AB",
-                "address": "Box 900 531 19 LIDKÖPING Sweden",
-                "since": "2018-10-31"
+                "id": 727924,
+                "name": "Empterwik Rental AB",
+                "address": "Sweden",
+                "since": "2025-11-06"
             },
             {
                 "type": "Registrerad innehavare",
@@ -126077,7 +126109,7 @@
         "Tillverkningsnummer": "BH100/188",
         "Tillverkningsår": "1972",
         "Max startvikt (kg)": "1066,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-31",
         "Registreringsdatum": "2012-04-04",
         "owners": [
             {
@@ -130067,7 +130099,7 @@
         "Tillverkningsnummer": "U20605022",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "1723,6",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-03",
         "Registreringsdatum": "2019-07-19",
         "owners": [
             {
@@ -138748,7 +138780,7 @@
         "Tillverkningsnummer": "9262",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-06",
         "Registreringsdatum": "2020-03-03",
         "owners": [
             {
@@ -138798,7 +138830,7 @@
         "Tillverkningsnummer": "9316",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-17",
         "Registreringsdatum": "2019-12-18",
         "owners": [
             {
@@ -138982,7 +139014,7 @@
         "Tillverkningsnummer": "42076",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "78999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-26",
         "Registreringsdatum": "2020-01-13",
         "owners": [
             {
@@ -139972,7 +140004,7 @@
         "Tillverkningsnummer": "0484",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "268000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-28",
         "Registreringsdatum": "2021-03-26",
         "owners": [
             {
@@ -148177,10 +148209,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 502529,
+                "name": "Malmö Segelflygklubb",
+                "address": "Snogeholmsvägen 1241-56 275 93 SJÖBO Sweden",
+                "since": "2025-11-06"
             },
             {
                 "type": "Registrerad innehavare",
@@ -154693,7 +154725,7 @@
         "Tillverkningsnummer": "312",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "350,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-29",
         "Registreringsdatum": "1981-03-27",
         "owners": [
             {
@@ -156244,7 +156276,7 @@
         "Tillverkningsnummer": "3173",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "650,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-04",
         "Registreringsdatum": "1985-02-19",
         "owners": [
             {
@@ -156691,7 +156723,7 @@
         "Tillverkningsnummer": "6293",
         "Tillverkningsår": "1984",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2024-07-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-05",
         "Registreringsdatum": "1984-09-10",
         "owners": [
             {
@@ -165302,7 +165334,7 @@
         "Tillverkningsnummer": "018 CS",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-27",
         "Registreringsdatum": "1997-07-10",
         "owners": [
             {
@@ -169815,6 +169847,31 @@
         ]
     },
     {
+        "code": "SE-UYN",
+        "Luftfartygstyp": "HPH-304TS",
+        "Tillverkningsnummer": "051-TS",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "850,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-11-05",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-UYO",
         "Luftfartygstyp": "ROLLADEN-SCHNEIDER-LS6-18 W",
         "Tillverkningsnummer": "6377",
@@ -172851,6 +172908,9 @@
     },
     {
         "code": "SE-VDX",
+        "Avregistrerad": "2025-11-06",
+        "Orsak": "Exported",
+        "Land": "Finland",
         "Luftfartygstyp": "AM-FIB 582",
         "Tillverkningsnummer": "04B4716/0431117",
         "Tillverkningsår": "2004",
@@ -172859,7 +172919,7 @@
         "Registreringsdatum": "2004-06-17",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -174478,10 +174538,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 502561,
+                "name": "Salaortens Flygklubb",
+                "address": "Sweden",
+                "since": "2025-11-03"
             },
             {
                 "type": "Registrerad innehavare",
@@ -177854,6 +177914,9 @@
     },
     {
         "code": "SE-VMK",
+        "Avregistrerad": "2025-11-04",
+        "Orsak": "Exported",
+        "Land": "Spain",
         "Luftfartygstyp": "SEAMAX-M22",
         "Tillverkningsnummer": "107/2010",
         "Tillverkningsår": "2010",
@@ -177862,7 +177925,7 @@
         "Registreringsdatum": "2011-06-15",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -210506,7 +210569,7 @@
         "Tillverkningsnummer": "104",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-14",
         "Registreringsdatum": "2024-01-30",
         "owners": [
             {
