@@ -1,11 +1,8 @@
 {
-    "added_count": 2,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7797,
-    "added": [
-        "SE-LMG",
-        "SE-UYN"
-    ],
+    "changed_count": 7799,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -4272,6 +4269,7 @@
         "SE-LMD",
         "SE-LME",
         "SE-LMF",
+        "SE-LMG",
         "SE-LMM",
         "SE-LMN",
         "SE-LMR",
@@ -6185,6 +6183,7 @@
         "SE-UYK",
         "SE-UYL",
         "SE-UYM",
+        "SE-UYN",
         "SE-UYO",
         "SE-UYP",
         "SE-UYT",
