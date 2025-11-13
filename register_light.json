@@ -15249,7 +15249,7 @@
         "Tillverkningsnummer": "7489",
         "Tillverkningsår": "2017",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2017-03-03",
         "owners_amount": 1,
         "owners": [
@@ -66595,7 +66595,7 @@
         "Tillverkningsnummer": "1406",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-14",
         "Registreringsdatum": "2021-06-22",
         "owners_amount": 1,
         "owners": [
@@ -83521,7 +83521,7 @@
         "Tillverkningsnummer": "BB-1293",
         "Tillverkningsår": "1989",
         "Max startvikt (kg)": "5670,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-11",
         "Registreringsdatum": "2025-09-18",
         "owners_amount": 1,
         "owners": [
@@ -90234,10 +90234,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 609554,
-                "name": "OSM Aviation Academy AS",
-                "address": "Strandveien 50 NO-1366 Lysaker Norway",
-                "since": "2018-11-22"
+                "id": 504055,
+                "name": "OSM Aviation Academy AB",
+                "address": "Hässlögatan 2 E 721 31 VÄSTERÅS Sweden",
+                "since": "2025-11-12"
             }
         ]
     },
@@ -103611,14 +103611,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -122282,16 +122282,8 @@
         "Max startvikt (kg)": "472,5",
         "Luftvärdighetshandling giltig t.o.m.": "2026-04-29",
         "Registreringsdatum": "2011-03-04",
-        "owners_amount": 1,
-        "owners": [
-            {
-                "type": "Registrerad ägare",
-                "id": 607241,
-                "name": "Brinkarna Construction AB",
-                "address": "Fredriksfors 325 824 72 Delsbo Sweden",
-                "since": "2018-10-03"
-            }
-        ]
+        "owners_amount": 2,
+        "owners": []
     },
     {
         "code": "SE-VOR",
