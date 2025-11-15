@@ -29392,7 +29392,15 @@
         "Luftvärdighetshandling giltig t.o.m.": "2025-12-19",
         "Registreringsdatum": "1970-03-16",
         "owners_amount": 1,
-        "owners": []
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 736127,
+                "name": "Brogården Air AB",
+                "address": "Voltvägen 36 A 831 48 Östersund Sweden",
+                "since": "2025-11-14"
+            }
+        ]
     },
     {
         "code": "SE-FKU",
@@ -74266,7 +74274,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 505071,
                 "name": "Skydive Syd AB",
-                "address": "Tegelbruksvägen 11 241 34 ESLÖV Sweden",
+                "address": "Staffansvägen 14 273 55 BRÖSARP Sweden",
                 "since": "2015-12-01"
             }
         ]
@@ -79754,7 +79762,7 @@
         "Tillverkningsnummer": "20216",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "20820,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-03",
         "Registreringsdatum": "2014-04-01",
         "owners_amount": 1,
         "owners": [
@@ -88943,7 +88951,7 @@
         "Tillverkningsnummer": "20264",
         "Tillverkningsår": "1992",
         "Max startvikt (kg)": "20820,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2018-10-24",
         "owners_amount": 1,
         "owners": [
@@ -98929,6 +98937,25 @@
         ]
     },
     {
+        "code": "SE-RSJ",
+        "Luftfartygstyp": "EMBRAER ERJ-190-200LR",
+        "Tillverkningsnummer": "19000720",
+        "Tillverkningsår": "2016",
+        "Max startvikt (kg)": "50790,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-11-14",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 734338,
+                "name": "Jin Shan 55 Ireland Company Limited",
+                "address": "First Floor, 2-4 Ely Place IE-DO2 FR58 DUBLIN 2 Ireland",
+                "since": "2025-11-14"
+            }
+        ]
+    },
+    {
         "code": "SE-RSK",
         "Luftfartygstyp": "EMBRAER ERJ-190-200LR",
         "Tillverkningsnummer": "19000120",
@@ -99086,7 +99113,7 @@
         "Tillverkningsnummer": "19000452",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "50790,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-29",
         "Registreringsdatum": "2023-06-28",
         "owners_amount": 1,
         "owners": [
@@ -99257,7 +99284,7 @@
         "Tillverkningsnummer": "63564",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-22",
         "Registreringsdatum": "2023-01-23",
         "owners_amount": 1,
         "owners": [
@@ -101104,14 +101131,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102844,14 +102871,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104314,18 +104341,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -105253,14 +105280,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
