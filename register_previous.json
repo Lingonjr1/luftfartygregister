@@ -40990,7 +40990,7 @@
         "Tillverkningsnummer": "F150-0412",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "725,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-20",
         "Registreringsdatum": "1969-02-24",
         "owners": [
             {
@@ -93370,7 +93370,7 @@
         "Tillverkningsnummer": "57234",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "0,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2015-11-25",
         "owners": [
             {
@@ -93395,7 +93395,7 @@
         "Tillverkningsnummer": "57232",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "0,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2015-11-03",
         "owners": [
             {
@@ -96704,7 +96704,7 @@
         "Tillverkningsnummer": "10191",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "1134,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-12",
         "Registreringsdatum": "2020-12-16",
         "owners": [
             {
@@ -99581,7 +99581,7 @@
         "Tillverkningsnummer": "801003",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "1290,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-31",
         "Registreringsdatum": "1996-06-13",
         "owners": [
             {
@@ -121199,7 +121199,7 @@
         "Tillverkningsnummer": "LJ-1782",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "4581,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-18",
         "Registreringsdatum": "2024-04-30",
         "owners": [
             {
@@ -124529,7 +124529,7 @@
         "Tillverkningsnummer": "172S10160",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-01",
         "Registreringsdatum": "2010-04-27",
         "owners": [
             {
@@ -126084,7 +126084,7 @@
         "Tillverkningsnummer": "42.181",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "1785,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-12",
         "Registreringsdatum": "2010-09-23",
         "owners": [
             {
@@ -129615,7 +129615,7 @@
         "Tillverkningsnummer": "1354",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "22800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-15",
         "Registreringsdatum": "2016-11-16",
         "owners": [
             {
@@ -130387,7 +130387,7 @@
         "Tillverkningsnummer": "FL-300",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "6804,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-17",
         "Registreringsdatum": "2020-10-27",
         "owners": [
             {
@@ -131340,7 +131340,7 @@
     },
     {
         "code": "SE-MNK",
-        "Luftfartygstyp": "BRISTELL B23-915",
+        "Luftfartygstyp": "BRISTELL B23-915 IFR",
         "Tillverkningsnummer": "0141",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "750,0",
@@ -138989,7 +138989,7 @@
         "Tillverkningsnummer": "42074",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "78999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-02",
         "Registreringsdatum": "2019-12-10",
         "owners": [
             {
@@ -139089,7 +139089,7 @@
         "Tillverkningsnummer": "42072",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "78999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-11",
         "Registreringsdatum": "2019-12-13",
         "owners": [
             {
@@ -140754,7 +140754,7 @@
         "Tillverkningsnummer": "62926",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-17",
         "Registreringsdatum": "2023-12-18",
         "owners": [
             {
@@ -150437,20 +150437,6 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -168038,6 +168024,9 @@
     },
     {
         "code": "SE-UUG",
+        "Avregistrerad": "2025-11-20",
+        "Orsak": "Exported",
+        "Land": "Netherlands",
         "Luftfartygstyp": "SCHLEICHER-ASW27-18E",
         "Tillverkningsnummer": "29516",
         "Tillverkningsår": "2007",
@@ -168046,7 +168035,7 @@
         "Registreringsdatum": "2008-06-03",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -169877,7 +169866,7 @@
         "Tillverkningsnummer": "051-TS",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-18",
         "Registreringsdatum": "2025-11-05",
         "owners": [
             {
@@ -204529,6 +204518,8 @@
     },
     {
         "code": "SE-YZN",
+        "Avregistrerad": "2025-11-21",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "TL-2 ESO 2",
         "Tillverkningsnummer": "980902/990202",
         "Tillverkningsår": "1999",
@@ -204537,7 +204528,7 @@
         "Registreringsdatum": "1999-11-08",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
