@@ -13805,6 +13805,8 @@
     },
     {
         "code": "SE-CSH",
+        "Avregistrerad": "2025-11-24",
+        "Orsak": "Total write-off",
         "Luftfartygstyp": "PIPER PA-22-150",
         "Tillverkningsnummer": "22-7137",
         "Tillverkningsår": "1959",
@@ -13813,7 +13815,7 @@
         "Registreringsdatum": "1960-03-09",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 502526,
                 "name": "Lycksele Flygklubb",
                 "address": "Sweden",
@@ -94852,10 +94854,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500055,
-                "name": "Svenskt Industriflyg AB",
-                "address": "Hangar 7, Bromma Flygplats 168 67  Bromma Sweden",
-                "since": "2025-07-10"
+                "id": 740075,
+                "name": "Awexia Executive Search AB",
+                "address": "Hovslagargatan 5B 111 48 STOCKHOLM Sweden",
+                "since": "2025-11-24"
             },
             {
                 "type": "Registrerad innehavare",
@@ -131539,6 +131541,31 @@
         ]
     },
     {
+        "code": "SE-MNV",
+        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Tillverkningsnummer": "040",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-11-24",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2025-11-24"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-MNX",
         "Luftfartygstyp": "BLACKWING-BW-650",
         "Tillverkningsnummer": "033",
@@ -163050,7 +163077,7 @@
         "Tillverkningsnummer": "E 137G 105",
         "Tillverkningsår": "1983",
         "Max startvikt (kg)": "420,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-21",
         "Registreringsdatum": "2011-11-28",
         "owners": [
             {
@@ -169738,7 +169765,7 @@
         "Tillverkningsnummer": "6328",
         "Tillverkningsår": "1984",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-12",
         "Registreringsdatum": "2020-02-04",
         "owners": [
             {

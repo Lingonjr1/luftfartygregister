@@ -8881,6 +8881,8 @@
     },
     {
         "code": "SE-CSH",
+        "Avregistrerad": "2025-11-24",
+        "Orsak": "Total write-off",
         "Luftfartygstyp": "PIPER PA-22-150",
         "Tillverkningsnummer": "22-7137",
         "Tillverkningsår": "1959",
@@ -8890,7 +8892,7 @@
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 502526,
                 "name": "Lycksele Flygklubb",
                 "address": "Sweden",
@@ -66190,10 +66192,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500055,
-                "name": "Svenskt Industriflyg AB",
-                "address": "Hangar 7, Bromma Flygplats 168 67  Bromma Sweden",
-                "since": "2025-07-10"
+                "id": 740075,
+                "name": "Awexia Executive Search AB",
+                "address": "Hovslagargatan 5B 111 48 STOCKHOLM Sweden",
+                "since": "2025-11-24"
             }
         ]
     },
@@ -92362,6 +92364,25 @@
         ]
     },
     {
+        "code": "SE-MNV",
+        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Tillverkningsnummer": "040",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-11-24",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2025-11-24"
+            }
+        ]
+    },
+    {
         "code": "SE-MNX",
         "Luftfartygstyp": "BLACKWING-BW-650",
         "Tillverkningsnummer": "033",
@@ -102871,14 +102892,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -103638,14 +103659,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -103666,14 +103687,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -113536,7 +113557,7 @@
         "Tillverkningsnummer": "E 137G 105",
         "Tillverkningsår": "1983",
         "Max startvikt (kg)": "420,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-21",
         "Registreringsdatum": "2011-11-28",
         "owners_amount": 1,
         "owners": [
@@ -117387,7 +117408,7 @@
         "Tillverkningsnummer": "6328",
         "Tillverkningsår": "1984",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-12",
         "Registreringsdatum": "2020-02-04",
         "owners_amount": 1,
         "owners": [
