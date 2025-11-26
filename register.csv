@@ -1875,7 +1875,7 @@ SE-GCG,,,,PIPER PA-18-150,18-8441,1966,"795,0",2026-09-30,1973-07-12,1,Registrer
 SE-GCH,,,,PIPER PA-18-150,18-8361-1400,1966,"795,0",2026-10-31,1973-06-28,1,,,,,
 SE-GCI,2007-01-15,Non-airworthy,,PIPER PA-18-150,18-8363,1966,"795,0",1987-05-31,1973-06-07,6,,,,,
 SE-GCK,,,,PIPER PA-18-150,18-7918,1963,"795,0",2026-06-30,1973-07-12,1,,,,,
-SE-GCL,,,,PIPER PA-18-150,18-7919,1963,"795,0",1996-06-30,1973-06-07,1,Registrerad ägare,533124.0,No1 Flightengineering AB,Bleckåsen 385 835 93 ALSEN Sweden,2022-03-07
+SE-GCL,,,,PIPER PA-18-150,18-7919,1963,"795,0",1996-06-30,1973-06-07,1,,,,,
 SE-GCM,,,,PIPER PA-18-150/180,18-7920,1963,"795,0",2026-09-30,1973-06-07,1,,,,,
 SE-GCN,2008-08-07,Total write-off,,PIPER PA-18-150,18-7921,1963,"795,0",1975-06-30,1973-06-07,1,Senast registrerad ägare,502553.0,Nyköpings Flygklubb,Box 190 611 25 NYKÖPING Sweden,1973-09-05
 SE-GCO,1999-02-11,Exported,United Kingdom,PIPER PA-18-150,18-7922,1963,"795,0",1999-05-31,1974-02-13,1,Senast registrerad ägare,503780.0,AirCo Flying Service/Tradonor AB,Bidalite lyckeborg 306 385 95 TORSÅS Sweden,1999-01-12
@@ -5269,8 +5269,8 @@ SE-SUC,2000-05-18,Owners request,,SCHEIBE-BERGFALKE II/55,211,1956,"440,0",,1956
 SE-SUF,2004-03-24,Owners request,,SCHEIBE-BERGFALKE II/55,215,1956,"440,0",,1956-06-29,1,Senast registrerad ägare,502542.0,Norbergs Flygklubb,Sweden,1992-03-18
 SE-SUI,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,217,1956,"440,0",,1956-08-07,1,Senast registrerad ägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1978-04-12
 SE-SUL,1996-02-28,Owners request,,SCHEIBE-BERGFALKE II/55,218,1956,"440,0",,1956-11-22,1,Senast registrerad ägare,502628.0,Östersunds Segelflygklubb,Sweden,1994-06-23
-SE-SUM,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,219,1956,"440,0",,1957-07-19,2,Senast registrerad ägare,502522.0,Ljusdals Flygklubb,Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden,1981-03-02
 SE-SUM,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,219,1956,"440,0",,1957-07-19,2,Senast registrerad delägare,502522.0,Ljusdals Flygklubb,Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden,1981-03-02
+SE-SUM,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,219,1956,"440,0",,1957-07-19,2,Senast registrerad ägare,502522.0,Ljusdals Flygklubb,Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden,1981-03-02
 SE-SUR,2015-11-05,Exported,Lithuania,SCHEIBE-BERGFALKE II/55,223,1956,"440,0",,1956-09-25,1,Senast registrerad ägare,502535.0,Motala Flygklubb,Skärstad Nedre Bostället 425 591 94 MOTALA Sweden,1992-03-18
 SE-SUT,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,231,1957,"440,0",,1957-04-25,1,Senast registrerad ägare,502479.0,Falbygdens Flygklubb,Falköpings Flygplats 521 91 FALKÖPING Sweden,1992-12-07
 SE-SUU,2011-10-17,Owners request,,SCHEIBE-BERGFALKE II/55,232,1957,"440,0",2011-04-26,1957-05-17,1,,,,,
@@ -5419,8 +5419,8 @@ SE-TEN,2013-05-22,Exported,Hungary,SCHEIBE-BERGFALKE III,5579,1966,"465,0",,1967
 SE-TEO,,,,SCHEIBE-BERGFALKE III,5589,1966,"465,0",,1967-04-26,1,Registrerad ägare,502477.0,Eskilstuna Flygklubb,Ekeby Flygfält 632 23 ESKILSTUNA Sweden,1988-09-06
 SE-TEP,2007-01-19,Non-airworthy,,SCHEIBE-BERGFALKE III,5590,1966,"465,0",,1967-04-27,2,Senast registrerad ägare,502567.0,Siljansnäs Flygklubb,Vindmyrevägen 7 793 60 SILJANSNÄS Sweden,1979-04-23
 SE-TEP,2007-01-19,Non-airworthy,,SCHEIBE-BERGFALKE III,5590,1966,"465,0",,1967-04-27,2,Senast registrerad delägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1979-04-23
-SE-TER,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5591,1966,"465,0",,1967-07-19,2,Senast registrerad delägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1973-08-23
 SE-TER,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5591,1966,"465,0",,1967-07-19,2,Senast registrerad ägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1973-08-23
+SE-TER,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5591,1966,"465,0",,1967-07-19,2,Senast registrerad delägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1973-08-23
 SE-TES,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5592,1967,"465,0",,1967-04-26,2,Senast registrerad delägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1967-04-26
 SE-TES,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5592,1967,"465,0",,1967-04-26,2,Senast registrerad ägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1967-04-26
 SE-TEW,2007-10-30,Exported,Lithuania,SCHEIBE-BERGFALKE III,5600,1967,"465,0",,1967-07-12,1,Senast registrerad ägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1998-04-15
@@ -5507,8 +5507,8 @@ SE-TLA,2010-12-13,Scrapped,,SCHEIBE-BERGFALKE IV,5808,1971,"505,0",,1971-10-05,1
 SE-TLB,2007-11-15,Exported,Germany,SCHEIBE-BERGFALKE IV,5809,1971,"505,0",,1972-04-28,1,Senast registrerad ägare,502600.0,Uppsala Flygklubb,Sundbro Flygplats 743 05 BÄLINGE Sweden,1992-03-18
 SE-TLC,,,,SCHEIBE-BERGFALKE IV,5810,1971,"505,0",2018-04-30,1971-08-18,1,Registrerad ägare,502508.0,Katrineholms Flygklubb,Sweden,1995-01-25
 SE-TLD,2006-03-07,Exported,Netherlands,SCHEIBE-BERGFALKE IV,5801,1969,"505,0",,1972-07-06,1,,,,,
-SE-TLF,1989-10-31,Exported,Germany,SCHEIBE-BERGFALKE IV,5816,1972,"505,0",,1972-06-16,2,Senast registrerad ägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1978-04-20
 SE-TLF,1989-10-31,Exported,Germany,SCHEIBE-BERGFALKE IV,5816,1972,"505,0",,1972-06-16,2,Senast registrerad delägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1972-06-16
+SE-TLF,1989-10-31,Exported,Germany,SCHEIBE-BERGFALKE IV,5816,1972,"505,0",,1972-06-16,2,Senast registrerad ägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1978-04-20
 SE-TLG,2013-02-25,Exported,Slovakia,SCHEIBE-BERGFALKE IV,5821,1972,"505,0",2013-01-15,1972-07-06,1,,,,,
 SE-TLH,2003-06-24,Total write-off,,SCHEIBE-BERGFALKE IV,5830,1973,"505,0",,1973-08-13,2,Senast registrerad ägare,502488.0,Gotlands Flygklubb,Hangarvägen 6 621 41 Visby Sweden,1973-08-13
 SE-TLH,2003-06-24,Total write-off,,SCHEIBE-BERGFALKE IV,5830,1973,"505,0",,1973-08-13,2,Senast registrerad delägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1973-08-13

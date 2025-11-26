@@ -35210,15 +35210,7 @@
         "Luftvärdighetshandling giltig t.o.m.": "1996-06-30",
         "Registreringsdatum": "1973-06-07",
         "owners_amount": 1,
-        "owners": [
-            {
-                "type": "Registrerad ägare",
-                "id": 533124,
-                "name": "No1 Flightengineering AB",
-                "address": "Bleckåsen 385 835 93 ALSEN Sweden",
-                "since": "2022-03-07"
-            }
-        ]
+        "owners": []
     },
     {
         "code": "SE-GCM",
@@ -101152,14 +101144,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -103659,14 +103651,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -105212,18 +105204,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },

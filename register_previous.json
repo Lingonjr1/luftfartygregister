@@ -51615,10 +51615,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 533124,
-                "name": "No1 Flightengineering AB",
-                "address": "Bleckåsen 385 835 93 ALSEN Sweden",
-                "since": "2022-03-07"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
