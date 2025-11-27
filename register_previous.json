@@ -128063,7 +128063,7 @@
         "Tillverkningsnummer": "802A-0845",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "7257,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-24",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-24",
         "Registreringsdatum": "2021-04-15",
         "owners": [
             {
@@ -170739,6 +170739,31 @@
                 "name": "Blackwing Sweden AB",
                 "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
                 "since": "2025-09-18"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-V41",
+        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Tillverkningsnummer": "041",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-11-26",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2025-11-26"
             },
             {
                 "type": "Registrerad innehavare",
