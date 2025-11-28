@@ -175620,10 +175620,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 502514,
-                "name": "Köpings Flygklubb",
-                "address": "Flygfältet Strö 2 731 94 KÖPING Sweden",
-                "since": "2012-04-19"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
