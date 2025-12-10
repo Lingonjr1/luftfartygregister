@@ -16004,6 +16004,25 @@
         ]
     },
     {
+        "code": "SE-DRO",
+        "Luftfartygstyp": "BOMBARDIER-BD-700-1A10",
+        "Tillverkningsnummer": "60148",
+        "Tillverkningsår": "2024",
+        "Max startvikt (kg)": "45132,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-12-09",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 502843,
+                "name": "Försvarets Materielverk",
+                "address": "115 88 STOCKHOLM Sweden",
+                "since": "2025-12-09"
+            }
+        ]
+    },
+    {
         "code": "SE-DRR",
         "Avregistrerad": "1997-10-24",
         "Orsak": "Exported",
@@ -84011,7 +84030,7 @@
         "Tillverkningsnummer": "029",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2026-07-24",
         "Registreringsdatum": "2025-07-01",
         "owners_amount": 1,
         "owners": [
@@ -84646,7 +84665,7 @@
         "Tillverkningsnummer": "31-8012041",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "2948,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-16",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-08",
         "Registreringsdatum": "1994-08-03",
         "owners_amount": 1,
         "owners": [
@@ -101629,14 +101648,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -102920,14 +102939,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -103687,14 +103706,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
