@@ -13011,7 +13011,7 @@
         "Tillverkningsnummer": "50629",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-11",
         "Registreringsdatum": "2021-06-17",
         "owners": [
             {
@@ -93297,7 +93297,7 @@
         "Tillverkningsnummer": "947",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "1451,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-10",
         "Registreringsdatum": "2012-06-25",
         "owners": [
             {
@@ -93869,7 +93869,7 @@
         "Tillverkningsnummer": "31524",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "6800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-13",
         "Registreringsdatum": "2013-12-10",
         "owners": [
             {
@@ -104398,7 +104398,7 @@
         "Tillverkningsnummer": "2841277",
         "Tillverkningsår": "1989",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-29",
         "Registreringsdatum": "1989-12-18",
         "owners": [
             {
@@ -140862,7 +140862,7 @@
         "Tillverkningsnummer": "62907",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-09",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-09",
         "Registreringsdatum": "2025-01-10",
         "owners": [
             {
@@ -201087,6 +201087,8 @@
     },
     {
         "code": "SE-YRO",
+        "Avregistrerad": "2025-12-10",
+        "Orsak": "Owners request",
         "Luftfartygstyp": "AIR CREATION-GTE XP 15",
         "Tillverkningsnummer": "0695097",
         "Tillverkningsår": "1995",
@@ -201095,7 +201097,7 @@
         "Registreringsdatum": "1995-11-24",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,

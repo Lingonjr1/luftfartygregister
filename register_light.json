@@ -8416,7 +8416,7 @@
         "Tillverkningsnummer": "50629",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-11",
         "Registreringsdatum": "2021-06-17",
         "owners_amount": 1,
         "owners": [
@@ -64986,7 +64986,7 @@
         "Tillverkningsnummer": "947",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "1451,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-10",
         "Registreringsdatum": "2012-06-25",
         "owners_amount": 1,
         "owners": [
@@ -65426,7 +65426,7 @@
         "Tillverkningsnummer": "31524",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "6800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-13",
         "Registreringsdatum": "2013-12-10",
         "owners_amount": 1,
         "owners": [
@@ -73147,7 +73147,7 @@
         "Tillverkningsnummer": "2841277",
         "Tillverkningsår": "1989",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-29",
         "Registreringsdatum": "1989-12-18",
         "owners_amount": 1,
         "owners": [
@@ -99539,7 +99539,7 @@
         "Tillverkningsnummer": "62907",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-09",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-09",
         "Registreringsdatum": "2025-01-10",
         "owners_amount": 1,
         "owners": [
@@ -102939,14 +102939,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104409,18 +104409,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -105259,18 +105259,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },
@@ -133055,6 +133055,8 @@
     },
     {
         "code": "SE-YRO",
+        "Avregistrerad": "2025-12-10",
+        "Orsak": "Owners request",
         "Luftfartygstyp": "AIR CREATION-GTE XP 15",
         "Tillverkningsnummer": "0695097",
         "Tillverkningsår": "1995",
