@@ -2590,7 +2590,7 @@
         "Tillverkningsnummer": "82720-761",
         "Tillverkningsår": "1940",
         "Max startvikt (kg)": "830,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-31",
         "Registreringsdatum": "1990-05-31",
         "owners": [
             {
@@ -12099,7 +12099,7 @@
         "Tillverkningsnummer": "18-6520-1409",
         "Tillverkningsår": "1958",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "1963-04-30",
         "owners": [
             {
@@ -32606,7 +32606,7 @@
         "Tillverkningsnummer": "3735-1352",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "1065,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "1964-08-27",
         "owners": [
             {
@@ -32631,7 +32631,7 @@
         "Tillverkningsnummer": "3736",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "1065,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2024-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "1964-06-30",
         "owners": [
             {
@@ -70297,7 +70297,7 @@
         "Tillverkningsnummer": "51407",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "1882,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "1990-12-19",
         "owners": [
             {
@@ -128372,6 +128372,8 @@
     },
     {
         "code": "SE-MIA",
+        "Avregistrerad": "2025-12-11",
+        "Orsak": "Total write-off",
         "Luftfartygstyp": "CESSNA-172S",
         "Tillverkningsnummer": "172S10633",
         "Tillverkningsår": "2007",
@@ -128380,7 +128382,7 @@
         "Registreringsdatum": "2014-06-19",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 502609,
                 "name": "Västerås Flygklubb",
                 "address": "Flygplatsen Johannisberg 725 91 VÄSTERÅS Sweden",
@@ -183255,6 +183257,31 @@
         ]
     },
     {
+        "code": "SE-XBV",
+        "Luftfartygstyp": "VAN´S-RV3B",
+        "Tillverkningsnummer": "10704",
+        "Tillverkningsår": "2021",
+        "Max startvikt (kg)": "499,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-12-11",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-XBZ",
         "Avregistrerad": "1982-11-22",
         "Orsak": "Owners request",
@@ -183867,7 +183894,7 @@
         "Tillverkningsnummer": "1420-672",
         "Tillverkningsår": "1972",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "1993-09-27",
         "owners": [
             {
@@ -186410,7 +186437,7 @@
         "Tillverkningsnummer": "700-628",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "630,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "1990-11-20",
         "owners": [
             {
@@ -187554,7 +187581,7 @@
         "Tillverkningsnummer": "190-638",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "520,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "1991-11-20",
         "owners": [
             {
@@ -190953,7 +190980,7 @@
         "Tillverkningsnummer": "91648-1371",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2010-10-14",
         "owners": [
             {
@@ -192721,7 +192748,7 @@
         "Tillverkningsnummer": "LAA 347A-15350",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2020-07-10",
         "owners": [
             {
