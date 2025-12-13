@@ -8830,7 +8830,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "1976-02-11"
             }
         ]
@@ -35261,7 +35261,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "1973-09-05"
             }
         ]
@@ -77613,7 +77613,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "1991-12-18"
             }
         ]
@@ -84495,7 +84495,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "2004-03-26"
             }
         ]
@@ -89939,7 +89939,7 @@
                 "type": "Registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "2016-03-04"
             }
         ]
@@ -92028,7 +92028,7 @@
                 "type": "Registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "2023-04-19"
             }
         ]
@@ -101650,14 +101650,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -102575,7 +102575,7 @@
                 "type": "Senast registrerad delägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "1961-07-06"
             },
             {
@@ -102941,14 +102941,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -103708,14 +103708,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -103736,14 +103736,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105261,18 +105261,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },
@@ -105350,14 +105350,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -105797,7 +105797,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "1977-05-10"
             }
         ]
@@ -108009,7 +108009,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "1991-10-25"
             }
         ]
@@ -108067,7 +108067,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "1987-05-19"
             }
         ]
@@ -111566,7 +111566,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502553,
                 "name": "Nyköpings Flygklubb",
-                "address": "Box 190 611 25 NYKÖPING Sweden",
+                "address": "Humlestigen 8 611 61 NYKÖPING Sweden",
                 "since": "1990-03-20"
             }
         ]
