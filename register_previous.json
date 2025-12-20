@@ -23514,6 +23514,31 @@
         ]
     },
     {
+        "code": "SE-DRP",
+        "Luftfartygstyp": "BOMBARDIER-BD-700-1A10",
+        "Tillverkningsnummer": "60178",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "45132,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-12-19",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 502843,
+                "name": "Försvarets Materielverk",
+                "address": "115 88 STOCKHOLM Sweden",
+                "since": "2025-12-19"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-DRR",
         "Avregistrerad": "1997-10-24",
         "Orsak": "Exported",
@@ -33664,17 +33689,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 502530,
-                "name": "Malungs Flygklubb",
-                "address": "Sweden",
-                "since": "2010-08-17"
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": 503592,
-                "name": "Frivilliga Flygkåren",
-                "address": "Hässlögatan 20 721 31 VÄSTERÅS Sweden",
-                "since": "2010-08-17"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -73444,7 +73462,7 @@
         "Tillverkningsnummer": "28-8116220",
         "Tillverkningsår": "1981",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-09",
         "Registreringsdatum": "1981-04-04",
         "owners": [
             {
@@ -89122,7 +89140,7 @@
         "Tillverkningsnummer": "10581",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "1134,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-08",
         "Registreringsdatum": "2005-03-01",
         "owners": [
             {
@@ -89764,7 +89782,7 @@
         "Tillverkningsnummer": "51214",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "1882,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-05-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-05-02",
         "Registreringsdatum": "2010-11-29",
         "owners": [
             {
@@ -90502,7 +90520,7 @@
         "Tillverkningsnummer": "1225",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-19",
         "Registreringsdatum": "2001-07-06",
         "owners": [
             {
@@ -91589,7 +91607,7 @@
         "Tillverkningsnummer": "45340",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "1837,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-07-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-07-14",
         "Registreringsdatum": "2010-03-31",
         "owners": [
             {
@@ -94633,6 +94651,9 @@
     },
     {
         "code": "SE-JSP",
+        "Avregistrerad": "2025-12-15",
+        "Orsak": "Exported",
+        "Land": "Spain",
         "Luftfartygstyp": "MBB-BK117-D2",
         "Tillverkningsnummer": "20185",
         "Tillverkningsår": "2017",
@@ -94641,14 +94662,14 @@
         "Registreringsdatum": "2017-12-21",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 500483,
                 "name": "Avincis Aviation Sweden AB",
                 "address": "Stockevägen 68 832 56 Frösön Sweden",
                 "since": "2017-12-21"
             },
             {
-                "type": "Registrerad innehavare",
+                "type": "Senast registrerad innehavare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -123234,7 +123255,7 @@
         "Tillverkningsnummer": "17281251",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1111,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-24",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2006-01-30",
         "owners": [
             {
@@ -126573,7 +126594,7 @@
         "Tillverkningsnummer": "20252",
         "Tillverkningsår": "1992",
         "Max startvikt (kg)": "20820,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-13",
         "Registreringsdatum": "2011-12-27",
         "owners": [
             {
@@ -129955,10 +129976,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 594713,
-                "name": "T Carlsson Trading AB",
-                "address": "Persikovägen 24 333 33 SMÅLANDSSTENAR Sweden",
-                "since": "2017-11-01"
+                "id": 726659,
+                "name": "World Aviation Maintenance SL",
+                "address": "Ctra Barrio de la Fortuna S/N Madrid Cuatro Vientos Airport, Hangar 6, Sector C ES-28054 Madrid Spain",
+                "since": "2025-12-17"
             },
             {
                 "type": "Registrerad innehavare",
@@ -130767,7 +130788,21 @@
                 "id": 538768,
                 "name": "Blackwing Sweden AB",
                 "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
-                "since": "2023-10-05"
+                "since": "2021-08-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -130784,7 +130819,7 @@
         "Tillverkningsnummer": "4697061",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "1999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2022-01-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-15",
         "Registreringsdatum": "2021-05-11",
         "owners": [
             {
@@ -130972,7 +131007,7 @@
                 "type": "Registrerad ägare",
                 "id": 726659,
                 "name": "World Aviation Maintenance SL",
-                "address": "Cuatro Vientos Airport, Hangar 6 ES-28054 Madrid Spain",
+                "address": "Ctra Barrio de la Fortuna S/N Madrid Cuatro Vientos Airport, Hangar 6, Sector C ES-28054 Madrid Spain",
                 "since": "2024-11-28"
             },
             {
@@ -137626,7 +137661,7 @@
         "Tillverkningsnummer": "32620",
         "Tillverkningsår": "1960",
         "Max startvikt (kg)": "12110,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-07",
         "Registreringsdatum": "2023-02-16",
         "owners": [
             {
@@ -140123,6 +140158,31 @@
                 "name": "SAS Sverige AB",
                 "address": "SAS, Avd STOUU 195 87 STOCKHOLM Sweden",
                 "since": "2021-06-22"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-RSG",
+        "Luftfartygstyp": "AIRBUS-A350-941",
+        "Tillverkningsnummer": "0764",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "268000,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-17",
+        "Registreringsdatum": "2025-12-18",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 503770,
+                "name": "SAS Sverige AB",
+                "address": "SAS, Avd STOUU 195 87 STOCKHOLM Sweden",
+                "since": "2025-12-18"
             },
             {
                 "type": "Registrerad innehavare",
@@ -170805,6 +170865,9 @@
     },
     {
         "code": "SE-V41",
+        "Avregistrerad": "2025-12-18",
+        "Orsak": "Exported",
+        "Land": "Germany",
         "Luftfartygstyp": "BLACKWING-BW-650",
         "Tillverkningsnummer": "041",
         "Tillverkningsår": "2025",
@@ -170813,7 +170876,7 @@
         "Registreringsdatum": "2025-11-26",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 538768,
                 "name": "Blackwing Sweden AB",
                 "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
@@ -186090,6 +186153,31 @@
         ]
     },
     {
+        "code": "SE-XHJ",
+        "Luftfartygstyp": "EAA-FRA150L",
+        "Tillverkningsnummer": "133-687",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "798,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-12-19",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-XHK",
         "Luftfartygstyp": "BEAGLE-AUSTER-6A",
         "Tillverkningsnummer": "3744-559",
@@ -191649,7 +191737,7 @@
         "Luftfartygstyp": "SAAB-MFI15-200A",
         "Tillverkningsnummer": "850-1077",
         "Tillverkningsår": "2004",
-        "Max startvikt (kg)": "999,0",
+        "Max startvikt (kg)": "1200,0",
         "Luftvärdighetshandling giltig t.o.m.": "2025-06-30",
         "Registreringsdatum": "2005-05-18",
         "owners": [
@@ -196304,6 +196392,8 @@
     },
     {
         "code": "SE-YFO",
+        "Avregistrerad": "2025-12-15",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "VECTOR-610",
         "Tillverkningsnummer": "1387-374",
         "Tillverkningsår": "1982",
@@ -196312,7 +196402,7 @@
         "Registreringsdatum": "1984-07-05",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -207685,6 +207775,8 @@
     },
     {
         "code": "SE-ZFF",
+        "Avregistrerad": "2025-12-16",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "THUNDER-AX7-77",
         "Tillverkningsnummer": "1499",
         "Tillverkningsår": "1990",
@@ -207693,7 +207785,7 @@
         "Registreringsdatum": "2019-09-04",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 615866,
                 "name": "Upplands Ballongflyg AB",
                 "address": "Orrspelsgatan 65 B 741 45 Knivsta Sweden",
