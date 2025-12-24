@@ -47739,10 +47739,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500242,
-                "name": "Arlanda Helicopter AB",
-                "address": "Sjövillan Hus 208 111 49 Stockholm Sweden",
-                "since": "2025-09-19"
+                "id": 500012,
+                "name": "HeliAir Sweden AB",
+                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
+                "since": "2025-12-23"
             }
         ]
     },
@@ -48860,6 +48860,25 @@
                 "name": "First European Aviation Company Sp. z o.o.",
                 "address": "Ul. Księżycowa 1 PL-01-934 Warszawa Poland",
                 "since": "2024-02-15"
+            }
+        ]
+    },
+    {
+        "code": "SE-HZD",
+        "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
+        "Tillverkningsnummer": "9795",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-12-23",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 503542,
+                "name": "Executive Helicopter Maintenance Limited",
+                "address": "Barratoor, Kylebrack IE-H62 HF80 Loughrea Co. Galway Ireland",
+                "since": "2025-12-23"
             }
         ]
     },
@@ -66232,10 +66251,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500012,
-                "name": "HeliAir Sweden AB",
-                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
-                "since": "2025-11-28"
+                "id": 500242,
+                "name": "Arlanda Helicopter AB",
+                "address": "Sjövillan Hus 208 111 49 Stockholm Sweden",
+                "since": "2025-12-23"
             }
         ]
     },
@@ -102967,14 +102986,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -103734,14 +103753,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -103762,14 +103781,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105287,18 +105306,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
@@ -105376,14 +105395,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -117601,6 +117620,25 @@
         ]
     },
     {
+        "code": "SE-UYR",
+        "Luftfartygstyp": "SCHLEICHER-AS 34 Me",
+        "Tillverkningsnummer": "34034",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "575,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-12-23",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 718803,
+                "name": "Foxflyg AB",
+                "address": "Sweden",
+                "since": "2025-12-23"
+            }
+        ]
+    },
+    {
         "code": "SE-UYT",
         "Luftfartygstyp": "GROB-G103C TWIN III SL",
         "Tillverkningsnummer": "35033",
@@ -122951,6 +122989,9 @@
     },
     {
         "code": "SE-VRH",
+        "Avregistrerad": "2025-12-23",
+        "Orsak": "Exported",
+        "Land": "Czech Republic",
         "Luftfartygstyp": "J-RO",
         "Tillverkningsnummer": "37",
         "Tillverkningsår": "2015",

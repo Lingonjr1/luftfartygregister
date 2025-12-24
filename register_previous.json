@@ -69550,10 +69550,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500242,
-                "name": "Arlanda Helicopter AB",
-                "address": "Sjövillan Hus 208 111 49 Stockholm Sweden",
-                "since": "2025-09-19"
+                "id": 500012,
+                "name": "HeliAir Sweden AB",
+                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
+                "since": "2025-12-23"
             },
             {
                 "type": "Registrerad innehavare",
@@ -71256,6 +71256,31 @@
                 "name": "First European Aviation Company Sp. z o.o.",
                 "address": "Ul. Księżycowa 1 PL-01-934 Warszawa Poland",
                 "since": "2024-02-15"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-HZD",
+        "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
+        "Tillverkningsnummer": "9795",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-12-23",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 503542,
+                "name": "Executive Helicopter Maintenance Limited",
+                "address": "Barratoor, Kylebrack IE-H62 HF80 Loughrea Co. Galway Ireland",
+                "since": "2025-12-23"
             },
             {
                 "type": "Registrerad innehavare",
@@ -94928,10 +94953,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500012,
-                "name": "HeliAir Sweden AB",
-                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
-                "since": "2025-11-28"
+                "id": 500242,
+                "name": "Arlanda Helicopter AB",
+                "address": "Sjövillan Hus 208 111 49 Stockholm Sweden",
+                "since": "2025-12-23"
             },
             {
                 "type": "Registrerad innehavare",
@@ -170077,6 +170102,31 @@
         ]
     },
     {
+        "code": "SE-UYR",
+        "Luftfartygstyp": "SCHLEICHER-AS 34 Me",
+        "Tillverkningsnummer": "34034",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "575,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2025-12-23",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 718803,
+                "name": "Foxflyg AB",
+                "address": "Sweden",
+                "since": "2025-12-23"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-UYT",
         "Luftfartygstyp": "GROB-G103C TWIN III SL",
         "Tillverkningsnummer": "35033",
@@ -180286,6 +180336,9 @@
     },
     {
         "code": "SE-VRH",
+        "Avregistrerad": "2025-12-23",
+        "Orsak": "Exported",
+        "Land": "Czech Republic",
         "Luftfartygstyp": "J-RO",
         "Tillverkningsnummer": "37",
         "Tillverkningsår": "2015",
@@ -180294,7 +180347,7 @@
         "Registreringsdatum": "2017-02-28",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
