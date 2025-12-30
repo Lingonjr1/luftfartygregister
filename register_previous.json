@@ -53020,7 +53020,7 @@
         "Tillverkningsnummer": "81",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "1060,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-20",
         "Registreringsdatum": "1998-11-13",
         "owners": [
             {
@@ -66800,7 +66800,7 @@
         "Tillverkningsnummer": "2394",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "1451,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "1987-05-08",
         "owners": [
             {
@@ -76647,7 +76647,7 @@
         "Tillverkningsnummer": "28-8216224",
         "Tillverkningsår": "1982",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-19",
         "Registreringsdatum": "1983-05-06",
         "owners": [
             {
@@ -87078,7 +87078,7 @@
         "Tillverkningsnummer": "53418",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "2268,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-22",
         "Registreringsdatum": "2000-05-19",
         "owners": [
             {
@@ -126193,10 +126193,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500213,
-                "name": "OSM Aviation Airtech AB",
-                "address": "Hässlögatan 2 E 721 31 Västerås Sweden",
-                "since": "2025-09-24"
+                "id": 504055,
+                "name": "OSM Aviation Academy AB",
+                "address": "Hässlögatan 2 E 721 31 VÄSTERÅS Sweden",
+                "since": "2025-12-30"
             },
             {
                 "type": "Registrerad innehavare",
@@ -129546,7 +129546,7 @@
         "Tillverkningsnummer": "8908",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "1633,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-21",
         "Registreringsdatum": "2022-12-22",
         "owners": [
             {
@@ -129596,7 +129596,7 @@
         "Tillverkningsnummer": "1308",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "22800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-29",
         "Registreringsdatum": "2015-12-30",
         "owners": [
             {
@@ -129846,7 +129846,7 @@
         "Tillverkningsnummer": "1574",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "23000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-18",
         "Registreringsdatum": "2019-12-19",
         "owners": [
             {
@@ -157731,10 +157731,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 502535,
+                "name": "Motala Flygklubb",
+                "address": "Skärstad Nedre Bostället 425 591 94 MOTALA Sweden",
+                "since": "2025-12-29"
             },
             {
                 "type": "Registrerad innehavare",
@@ -210385,7 +210385,7 @@
         "Tillverkningsnummer": "12404",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "816,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-22",
         "Registreringsdatum": "2020-10-21",
         "owners": [
             {
