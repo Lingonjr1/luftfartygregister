@@ -6545,10 +6545,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 720730,
+                "name": "Svedinos Bil- och Flygmuseum AB",
+                "address": "Sweden",
+                "since": "2026-01-07"
             },
             {
                 "type": "Registrerad innehavare",
@@ -43972,10 +43972,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 720730,
+                "name": "Svedinos Bil- och Flygmuseum AB",
+                "address": "Sweden",
+                "since": "2026-01-07"
             },
             {
                 "type": "Registrerad innehavare",
@@ -69545,7 +69545,7 @@
         "Tillverkningsnummer": "51304",
         "Tillverkningsår": "1989",
         "Max startvikt (kg)": "1882,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-11",
         "Registreringsdatum": "1989-12-13",
         "owners": [
             {
@@ -89327,7 +89327,7 @@
         "Tillverkningsnummer": "51368",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "2018,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-28",
         "Registreringsdatum": "2005-05-02",
         "owners": [
             {
@@ -141499,7 +141499,7 @@
         "Tillverkningsnummer": "193",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "8300,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-20",
         "Registreringsdatum": "2021-09-21",
         "owners": [
             {
@@ -159644,7 +159644,7 @@
         "Tillverkningsnummer": "166",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-25",
         "Registreringsdatum": "2008-06-25",
         "owners": [
             {
@@ -161401,7 +161401,7 @@
         "Tillverkningsnummer": "4780",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-02",
         "Registreringsdatum": "1990-06-21",
         "owners": [
             {
@@ -181772,7 +181772,7 @@
         "Tillverkningsnummer": "20164221-1547",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-07",
         "Registreringsdatum": "2016-07-14",
         "owners": [
             {
@@ -181875,7 +181875,7 @@
         "Tillverkningsnummer": "2001-1007",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-27",
         "Registreringsdatum": "2016-11-30",
         "owners": [
             {
@@ -182498,7 +182498,7 @@
         "Tillverkningsnummer": "056",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-01",
         "Registreringsdatum": "2018-08-13",
         "owners": [
             {
@@ -187111,6 +187111,13 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,

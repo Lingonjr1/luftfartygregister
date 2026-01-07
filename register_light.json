@@ -4293,7 +4293,15 @@
         "Luftvärdighetshandling giltig t.o.m.": "1976-07-31",
         "Registreringsdatum": "1947-09-06",
         "owners_amount": 1,
-        "owners": []
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 720730,
+                "name": "Svedinos Bil- och Flygmuseum AB",
+                "address": "Sweden",
+                "since": "2026-01-07"
+            }
+        ]
     },
     {
         "code": "SE-BGA",
@@ -29941,7 +29949,15 @@
         "Luftvärdighetshandling giltig t.o.m.": "2017-06-30",
         "Registreringsdatum": "1976-08-10",
         "owners_amount": 1,
-        "owners": []
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 720730,
+                "name": "Svedinos Bil- och Flygmuseum AB",
+                "address": "Sweden",
+                "since": "2026-01-07"
+            }
+        ]
     },
     {
         "code": "SE-FNB",
@@ -47733,7 +47749,7 @@
         "Tillverkningsnummer": "51304",
         "Tillverkningsår": "1989",
         "Max startvikt (kg)": "1882,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-11",
         "Registreringsdatum": "1989-12-13",
         "owners_amount": 1,
         "owners": [
@@ -61987,7 +62003,7 @@
         "Tillverkningsnummer": "51368",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "2018,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-28",
         "Registreringsdatum": "2005-05-02",
         "owners_amount": 1,
         "owners": [
@@ -100004,7 +100020,7 @@
         "Tillverkningsnummer": "193",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "8300,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-20",
         "Registreringsdatum": "2021-09-21",
         "owners_amount": 1,
         "owners": [
@@ -101695,14 +101711,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -102986,14 +103002,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104456,18 +104472,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -105306,18 +105322,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
@@ -105395,14 +105411,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -111406,7 +111422,7 @@
         "Tillverkningsnummer": "166",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-25",
         "Registreringsdatum": "2008-06-25",
         "owners_amount": 1,
         "owners": [
@@ -112540,7 +112556,7 @@
         "Tillverkningsnummer": "4780",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-02",
         "Registreringsdatum": "1990-06-21",
         "owners_amount": 1,
         "owners": [
@@ -123779,7 +123795,7 @@
         "Tillverkningsnummer": "20164221-1547",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-07",
         "Registreringsdatum": "2016-07-14",
         "owners_amount": 1,
         "owners": []
@@ -123826,7 +123842,7 @@
         "Tillverkningsnummer": "2001-1007",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-27",
         "Registreringsdatum": "2016-11-30",
         "owners_amount": 1,
         "owners": [
@@ -124171,7 +124187,7 @@
         "Tillverkningsnummer": "056",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-01",
         "Registreringsdatum": "2018-08-13",
         "owners_amount": 1,
         "owners": []
@@ -126367,7 +126383,7 @@
         "Max startvikt (kg)": "725,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
         "Registreringsdatum": "2009-10-05",
-        "owners_amount": 1,
+        "owners_amount": 2,
         "owners": []
     },
     {
