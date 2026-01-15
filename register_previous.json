@@ -110852,7 +110852,7 @@
         "Tillverkningsnummer": "F172-2238",
         "Tillverkningsår": "1985",
         "Max startvikt (kg)": "1089,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-30",
         "Registreringsdatum": "1993-09-09",
         "owners": [
             {
@@ -131484,6 +131484,31 @@
         ]
     },
     {
+        "code": "SE-MNL",
+        "Luftfartygstyp": "BLACKWING-BW-650SW",
+        "Tillverkningsnummer": "036",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-01-14",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2026-01-14"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-MNM",
         "Luftfartygstyp": "TECNAM-P2010 TDI",
         "Tillverkningsnummer": "315",
@@ -141124,7 +141149,7 @@
         "Tillverkningsnummer": "44877",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-11",
         "Registreringsdatum": "2025-02-12",
         "owners": [
             {
@@ -142235,7 +142260,7 @@
         "Tillverkningsnummer": "11832",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-25",
         "Registreringsdatum": "2024-01-26",
         "owners": [
             {
@@ -142260,7 +142285,7 @@
         "Tillverkningsnummer": "11885",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-08",
         "Registreringsdatum": "2024-02-09",
         "owners": [
             {
