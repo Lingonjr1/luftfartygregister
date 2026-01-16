@@ -75556,7 +75556,7 @@
         "Tillverkningsnummer": "23175",
         "Tillverkningsår": "1947",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1981-08-11",
         "owners": [
             {
@@ -170132,7 +170132,7 @@
         "Tillverkningsnummer": "34034",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-14",
         "Registreringsdatum": "2025-12-23",
         "owners": [
             {
@@ -170244,13 +170244,6 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
