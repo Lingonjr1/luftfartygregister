@@ -3082,7 +3082,7 @@
         "Tillverkningsnummer": "12517-1155",
         "Tillverkningsår": "1944",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "1946-12-16",
         "owners": [
             {
@@ -19704,6 +19704,31 @@
                 "name": "Svenskt Industriflyg AB",
                 "address": "Hangar 7, Bromma Flygplats 168 67  Bromma Sweden",
                 "since": "2018-02-16"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-DJJ",
+        "Luftfartygstyp": "DASSAULT-FALCON-7X",
+        "Tillverkningsnummer": "161",
+        "Tillverkningsår": "2012",
+        "Max startvikt (kg)": "31751,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-26",
+        "Registreringsdatum": "2026-01-19",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 500055,
+                "name": "Svenskt Industriflyg AB",
+                "address": "Hangar 7, Bromma Flygplats 168 67  Bromma Sweden",
+                "since": "2026-01-19"
             },
             {
                 "type": "Registrerad innehavare",
@@ -93518,7 +93543,7 @@
         "Tillverkningsnummer": "57170",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "0,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "2016-01-04",
         "owners": [
             {
@@ -93618,7 +93643,7 @@
         "Tillverkningsnummer": "57237",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "0,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "2016-01-04",
         "owners": [
             {
@@ -99172,7 +99197,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2004-10-14"
             },
             {
@@ -107865,7 +107890,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2011-10-07"
             },
             {
@@ -108022,7 +108047,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2011-01-14"
             },
             {
@@ -108717,7 +108742,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2007-09-18"
             },
             {
@@ -109586,7 +109611,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2006-05-05"
             },
             {
@@ -113647,7 +113672,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "1999-11-08"
             },
             {
@@ -115116,7 +115141,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2001-02-26"
             },
             {
@@ -117701,7 +117726,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2007-09-06"
             },
             {
@@ -118606,7 +118631,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2001-09-28"
             },
             {
@@ -118856,7 +118881,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2011-10-28"
             },
             {
@@ -118946,7 +118971,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2004-11-29"
             },
             {
@@ -120076,7 +120101,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2009-12-22"
             },
             {
@@ -120132,7 +120157,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2010-03-31"
             },
             {
@@ -120998,7 +121023,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2005-03-03"
             },
             {
@@ -122305,7 +122330,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2009-07-09"
             },
             {
@@ -124879,7 +124904,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2010-09-30"
             },
             {
@@ -125605,7 +125630,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2010-08-26"
             },
             {
@@ -126734,7 +126759,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2012-02-03"
             },
             {
@@ -126868,7 +126893,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2013-06-12"
             },
             {
@@ -127172,7 +127197,7 @@
         "Tillverkningsnummer": "20159",
         "Tillverkningsår": "1989",
         "Max startvikt (kg)": "20820,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-08",
         "Registreringsdatum": "2018-12-14",
         "owners": [
             {
@@ -129578,7 +129603,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2015-11-06"
             },
             {
@@ -129603,7 +129628,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2015-12-30"
             },
             {
@@ -129628,7 +129653,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2016-02-08"
             },
             {
@@ -129653,7 +129678,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2016-06-17"
             },
             {
@@ -129678,7 +129703,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2016-08-05"
             },
             {
@@ -129703,7 +129728,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2016-10-07"
             },
             {
@@ -129728,7 +129753,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2016-11-16"
             },
             {
@@ -129753,7 +129778,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2016-12-05"
             },
             {
@@ -129778,7 +129803,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2016-12-20"
             },
             {
@@ -129828,7 +129853,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2017-12-01"
             },
             {
@@ -129853,7 +129878,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2019-12-19"
             },
             {
@@ -129878,7 +129903,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2020-01-15"
             },
             {
@@ -129903,7 +129928,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2022-08-30"
             },
             {
@@ -129928,7 +129953,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2023-01-27"
             },
             {
@@ -130255,7 +130280,7 @@
         "Tillverkningsnummer": "1235",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "4740,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-19",
         "Registreringsdatum": "2017-12-13",
         "owners": [
             {
@@ -131571,7 +131596,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2025-04-01"
             },
             {
@@ -131596,7 +131621,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2025-06-12"
             },
             {
@@ -131671,7 +131696,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2025-08-22"
             },
             {
@@ -135438,7 +135463,7 @@
                 "type": "Registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2025-02-19"
             },
             {
@@ -135711,7 +135736,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 500100,
                 "name": "Braathens Regional Airways AB",
-                "address": "Box 61 161 26 Bromma Sweden",
+                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
                 "since": "2024-06-25"
             },
             {
@@ -142551,7 +142576,7 @@
         "Tillverkningsnummer": "21534",
         "Tillverkningsår": "1992",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-11",
         "Registreringsdatum": "2015-03-05",
         "owners": [
             {
@@ -154779,7 +154804,7 @@
         "Tillverkningsnummer": "116",
         "Tillverkningsår": "1974",
         "Max startvikt (kg)": "350,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-11",
         "Registreringsdatum": "1980-06-27",
         "owners": [
             {
@@ -156766,7 +156791,7 @@
         "Tillverkningsnummer": "21251",
         "Tillverkningsår": "1985",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-11",
         "Registreringsdatum": "1985-05-14",
         "owners": [
             {
@@ -159560,7 +159585,7 @@
         "Tillverkningsnummer": "4615",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-11",
         "Registreringsdatum": "1987-05-05",
         "owners": [
             {
@@ -168693,7 +168718,7 @@
         "Tillverkningsnummer": "225",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "700,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-11",
         "Registreringsdatum": "2012-08-27",
         "owners": [
             {
@@ -188933,7 +188958,7 @@
         "Tillverkningsnummer": "848-868",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "1995-10-24",
         "owners": [
             {
@@ -190027,7 +190052,7 @@
         "Tillverkningsnummer": "1-898",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "790,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "2001-05-08",
         "owners": [
             {
@@ -190155,7 +190180,7 @@
         "Tillverkningsnummer": "1408-1008",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "617,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "2003-09-03",
         "owners": [
             {
@@ -191064,7 +191089,7 @@
         "Tillverkningsnummer": "1",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "370,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "2022-05-19",
         "owners": [
             {
@@ -191841,7 +191866,7 @@
         "Tillverkningsnummer": "2025-1219",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "953,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "2004-08-20",
         "owners": [
             {
@@ -193534,7 +193559,7 @@
         "Tillverkningsnummer": "DY-K 02-05-1293",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "499,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "2009-01-26",
         "owners": [
             {
@@ -193611,7 +193636,7 @@
         "Tillverkningsnummer": "3-2321-971",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "885,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "2008-06-18",
         "owners": [
             {
