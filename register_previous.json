@@ -2903,7 +2903,7 @@
         "Tillverkningsnummer": "11708-317",
         "Tillverkningsår": "1943",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "1998-10-26",
         "owners": [
             {
@@ -71422,7 +71422,7 @@
         "Tillverkningsnummer": "20171",
         "Tillverkningsår": "2017",
         "Max startvikt (kg)": "3800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-29",
         "Registreringsdatum": "2024-05-16",
         "owners": [
             {
@@ -96908,7 +96908,7 @@
         "Tillverkningsnummer": "20072",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "3800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-19",
         "Registreringsdatum": "2016-04-01",
         "owners": [
             {
@@ -188529,18 +188529,15 @@
     },
     {
         "code": "SE-XMI",
-        "Avregistrerad": "2013-05-22",
-        "Orsak": "Exported",
-        "Land": "Norway",
         "Luftfartygstyp": "VAN´S-RV6",
         "Tillverkningsnummer": "20285-642",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "730,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2013-03-31",
-        "Registreringsdatum": "1992-11-09",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-01-20",
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
