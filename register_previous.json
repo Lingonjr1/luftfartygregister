@@ -131584,6 +131584,31 @@
         ]
     },
     {
+        "code": "SE-MNO",
+        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Tillverkningsnummer": "042",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-01-19",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2026-01-19"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-MNP",
         "Luftfartygstyp": "ATR-72-212A",
         "Tillverkningsnummer": "1254",
@@ -135461,10 +135486,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500100,
-                "name": "Braathens Regional Airways AB",
-                "address": "Tornvägen 17A 190 60 Stockholm-Arlanda Sweden",
-                "since": "2025-02-19"
+                "id": 741662,
+                "name": "MDAC 10 (Ireland) Limited",
+                "address": "32 Molesworth Street IE-Dublin Ireland",
+                "since": "2026-01-19"
             },
             {
                 "type": "Registrerad innehavare",
