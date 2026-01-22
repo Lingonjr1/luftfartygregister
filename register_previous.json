@@ -46713,7 +46713,7 @@
         "Tillverkningsnummer": "F17200856",
         "Tillverkningsår": "1972",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-20",
         "Registreringsdatum": "1972-06-21",
         "owners": [
             {
@@ -109786,6 +109786,8 @@
     },
     {
         "code": "SE-KXP",
+        "Avregistrerad": "2026-01-22",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "BAE-ATP",
         "Tillverkningsnummer": "2056",
         "Tillverkningsår": "1992",
@@ -109794,7 +109796,7 @@
         "Registreringsdatum": "2013-05-15",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 617318,
                 "name": "Swedish ATP Management AB",
                 "address": "Arenagatan 20 215 33 Malmö Sweden",
@@ -119454,6 +119456,8 @@
     },
     {
         "code": "SE-LPS",
+        "Avregistrerad": "2026-01-22",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "BAE-ATP",
         "Tillverkningsnummer": "2043",
         "Tillverkningsår": "1991",
@@ -119462,7 +119466,7 @@
         "Registreringsdatum": "2013-11-14",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 504931,
                 "name": "West Atlantic Aircraft Management AB",
                 "address": "Hangarvägen 4 233 71   MALMÖ-STURUP Sweden",
@@ -129646,7 +129650,7 @@
         "Tillverkningsnummer": "1313",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "22800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-07",
         "Registreringsdatum": "2016-02-08",
         "owners": [
             {
@@ -129946,7 +129950,7 @@
         "Tillverkningsnummer": "1528",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "23000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-25",
         "Registreringsdatum": "2023-01-27",
         "owners": [
             {
@@ -132671,10 +132675,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500817,
-                "name": "Swedish Air Force Historic Flight",
+                "id": 741661,
+                "name": "Flygaktiebolaget Viking Air",
                 "address": "Sweden",
-                "since": "2023-03-24"
+                "since": "2026-01-22"
             },
             {
                 "type": "Registrerad innehavare",
@@ -137315,7 +137319,7 @@
         "Tillverkningsnummer": "32379",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "113398,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "2024-01-22",
         "owners": [
             {
