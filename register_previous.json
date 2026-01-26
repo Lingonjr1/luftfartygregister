@@ -91411,7 +91411,7 @@
         "Tillverkningsnummer": "CH34",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "3860,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "2003-07-16",
         "owners": [
             {
@@ -139812,7 +139812,7 @@
         "Tillverkningsnummer": "42094",
         "Tillverkningsår": "2017",
         "Max startvikt (kg)": "78999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-20",
         "Registreringsdatum": "2019-10-23",
         "owners": [
             {
@@ -140428,7 +140428,7 @@
         "Tillverkningsnummer": "19000155",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "50790,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-21",
         "Registreringsdatum": "2023-03-21",
         "owners": [
             {
@@ -186963,45 +186963,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 503304,
+                "name": "Zlin-klubben Borlänge",
+                "address": "Sweden",
+                "since": "2026-01-26"
             },
             {
                 "type": "Registrerad innehavare",
