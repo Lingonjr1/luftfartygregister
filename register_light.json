@@ -38188,7 +38188,7 @@
         "Tillverkningsnummer": "28-7690149",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-14",
         "Registreringsdatum": "1976-04-07",
         "owners_amount": 1,
         "owners": [
@@ -68759,7 +68759,7 @@
         "Tillverkningsnummer": "1181",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "1225,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "2024-12-05",
         "owners_amount": 1,
         "owners": [
@@ -87971,7 +87971,7 @@
         "Tillverkningsnummer": "894",
         "Tillverkningsår": "2009",
         "Max startvikt (kg)": "22800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-07",
         "Registreringsdatum": "2010-01-07",
         "owners_amount": 1,
         "owners": [
@@ -99492,7 +99492,7 @@
         "Tillverkningsnummer": "43361",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-20",
         "Registreringsdatum": "2023-03-21",
         "owners_amount": 1,
         "owners": [
@@ -101323,14 +101323,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -101772,14 +101772,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103063,14 +103063,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -103858,14 +103858,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105383,18 +105383,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
