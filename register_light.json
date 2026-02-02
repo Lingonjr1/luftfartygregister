@@ -15297,7 +15297,7 @@
         "Tillverkningsnummer": "7499",
         "Tillverkningsår": "2017",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-29",
         "Registreringsdatum": "2017-03-30",
         "owners_amount": 1,
         "owners": [
@@ -29109,7 +29109,7 @@
         "Tillverkningsnummer": "28-26250",
         "Tillverkningsår": "1969",
         "Max startvikt (kg)": "975,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2022-10-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-01",
         "Registreringsdatum": "1970-02-13",
         "owners_amount": 1,
         "owners": []
@@ -35154,7 +35154,7 @@
         "Tillverkningsnummer": "18-8545",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1974-05-16",
         "owners_amount": 1,
         "owners": [
@@ -49426,7 +49426,7 @@
         "Tillverkningsnummer": "28R-7931046",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "1315,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-03",
         "Registreringsdatum": "1979-04-23",
         "owners_amount": 1,
         "owners": []
@@ -68493,7 +68493,7 @@
         "Tillverkningsnummer": "7382",
         "Tillverkningsår": "2012",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-14",
         "Registreringsdatum": "2022-04-07",
         "owners_amount": 1,
         "owners": [
@@ -79734,6 +79734,17 @@
         "owners": []
     },
     {
+        "code": "SE-LFG",
+        "Luftfartygstyp": "PIPER-PA28-140",
+        "Tillverkningsnummer": "28-7425100",
+        "Tillverkningsår": "1975",
+        "Max startvikt (kg)": "975,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-02-02",
+        "owners_amount": 1,
+        "owners": []
+    },
+    {
         "code": "SE-LFK",
         "Avregistrerad": "2001-02-16",
         "Orsak": "Exported",
@@ -80586,7 +80597,7 @@
         "Tillverkningsnummer": "0168",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "1270,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-11",
         "Registreringsdatum": "1998-03-24",
         "owners_amount": 1,
         "owners": [
@@ -84889,7 +84900,7 @@
         "Tillverkningsnummer": "1479",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-27",
         "Registreringsdatum": "2005-02-23",
         "owners_amount": 1,
         "owners": [
@@ -84908,7 +84919,7 @@
         "Tillverkningsnummer": "1480",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-27",
         "Registreringsdatum": "2005-02-23",
         "owners_amount": 1,
         "owners": [
@@ -84927,7 +84938,7 @@
         "Tillverkningsnummer": "1481",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-27",
         "Registreringsdatum": "2005-02-23",
         "owners_amount": 1,
         "owners": [
@@ -84946,7 +84957,7 @@
         "Tillverkningsnummer": "1482",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-27",
         "Registreringsdatum": "2005-02-23",
         "owners_amount": 1,
         "owners": [
@@ -84965,7 +84976,7 @@
         "Tillverkningsnummer": "1483",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-27",
         "Registreringsdatum": "2005-02-23",
         "owners_amount": 1,
         "owners": [
@@ -87358,7 +87369,7 @@
         "Tillverkningsnummer": "1870",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-27",
         "Registreringsdatum": "2008-07-23",
         "owners_amount": 1,
         "owners": [
@@ -87756,7 +87767,7 @@
         "Tillverkningsnummer": "42.124",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "1785,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-03",
         "Registreringsdatum": "2013-02-15",
         "owners_amount": 1,
         "owners": [
@@ -101772,14 +101783,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103858,14 +103869,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105383,18 +105394,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
