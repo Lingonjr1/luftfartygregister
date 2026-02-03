@@ -1,10 +1,8 @@
 {
-    "added_count": 1,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7813,
-    "added": [
-        "SE-LFG"
-    ],
+    "changed_count": 7814,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -4147,6 +4145,7 @@
         "SE-LFD",
         "SE-LFE",
         "SE-LFF",
+        "SE-LFG",
         "SE-LFK",
         "SE-LFL",
         "SE-LFN",
