@@ -21681,7 +21681,7 @@
         "Tillverkningsnummer": "18-8076",
         "Tillverkningsår": "1963",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-28",
         "Registreringsdatum": "1964-02-06",
         "owners_amount": 2,
         "owners": [
@@ -43526,6 +43526,8 @@
     },
     {
         "code": "SE-HIZ",
+        "Avregistrerad": "2026-02-05",
+        "Orsak": "Owners request",
         "Luftfartygstyp": "ENSTROM-F28A",
         "Tillverkningsnummer": "225",
         "Tillverkningsår": "1974",
@@ -99028,7 +99030,7 @@
         "Tillverkningsnummer": "0391",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "268000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-28",
         "Registreringsdatum": "2024-02-26",
         "owners_amount": 1,
         "owners": [
@@ -105394,18 +105396,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
@@ -105483,14 +105485,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",

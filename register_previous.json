@@ -30950,7 +30950,7 @@
         "Tillverkningsnummer": "18-8076",
         "Tillverkningsår": "1963",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-28",
         "Registreringsdatum": "1964-02-06",
         "owners": [
             {
@@ -63913,6 +63913,8 @@
     },
     {
         "code": "SE-HIZ",
+        "Avregistrerad": "2026-02-05",
+        "Orsak": "Owners request",
         "Luftfartygstyp": "ENSTROM-F28A",
         "Tillverkningsnummer": "225",
         "Tillverkningsår": "1974",
@@ -63921,7 +63923,7 @@
         "Registreringsdatum": "1980-02-07",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -140203,7 +140205,7 @@
         "Tillverkningsnummer": "0391",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "268000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-28",
         "Registreringsdatum": "2024-02-26",
         "owners": [
             {
