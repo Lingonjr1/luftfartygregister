@@ -3057,7 +3057,7 @@
         "Tillverkningsnummer": "11243-234",
         "Tillverkningsår": "1943",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1946-10-23",
         "owners": [
             {
@@ -3875,7 +3875,7 @@
         "Tillverkningsnummer": "6296-707",
         "Tillverkningsår": "1947",
         "Max startvikt (kg)": "1360,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-12-31",
         "Registreringsdatum": "1950-11-01",
         "owners": [
             {
@@ -6515,7 +6515,7 @@
         "Tillverkningsnummer": "4413",
         "Tillverkningsår": "1947",
         "Max startvikt (kg)": "635,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1947-08-28",
         "owners": [
             {
@@ -34389,7 +34389,7 @@
         "Tillverkningsnummer": "15061007",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "725,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-02",
         "Registreringsdatum": "1965-05-04",
         "owners": [
             {
@@ -42656,7 +42656,7 @@
         "Tillverkningsnummer": "066-1349",
         "Tillverkningsår": "1971",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1976-07-23",
         "owners": [
             {
@@ -106740,7 +106740,7 @@
         "Tillverkningsnummer": "91283",
         "Tillverkningsår": "1954",
         "Max startvikt (kg)": "1165,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-09-30",
         "Registreringsdatum": "1990-09-26",
         "owners": [
             {
@@ -128298,7 +128298,7 @@
         "Tillverkningsnummer": "0657",
         "Tillverkningsår": "1993",
         "Max startvikt (kg)": "1090,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "2019-02-07",
         "owners": [
             {
@@ -132126,7 +132126,7 @@
         "Tillverkningsnummer": "62.C007",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "2300,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-02",
         "Registreringsdatum": "2024-02-01",
         "owners": [
             {
@@ -141080,7 +141080,7 @@
         "Tillverkningsnummer": "62911",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-11",
         "Registreringsdatum": "2024-03-12",
         "owners": [
             {
@@ -180605,6 +180605,9 @@
     },
     {
         "code": "SE-VRN",
+        "Avregistrerad": "2026-02-09",
+        "Orsak": "Exported",
+        "Land": "France",
         "Luftfartygstyp": "MTO SPORT",
         "Tillverkningsnummer": "M00902",
         "Tillverkningsår": "2012",
@@ -180613,7 +180616,7 @@
         "Registreringsdatum": "2012-04-23",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 512603,
                 "name": "pw-pureelectric AB",
                 "address": "Lundkallgata 19 794 92 ORSA Sweden",
@@ -184598,7 +184601,7 @@
         "Tillverkningsnummer": "1400-164",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1981-09-03",
         "owners": [
             {
@@ -185508,7 +185511,7 @@
         "Tillverkningsnummer": "153L-170A-453",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "650,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1992-06-30",
         "owners": [
             {
@@ -188108,7 +188111,7 @@
         "Tillverkningsnummer": "110-760",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "680,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1990-06-11",
         "owners": [
             {
@@ -191516,7 +191519,7 @@
         "Tillverkningsnummer": "91158-1530",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-09-30",
         "Registreringsdatum": "2014-08-25",
         "owners": [
             {
@@ -192713,7 +192716,7 @@
         "Tillverkningsnummer": "81-1299",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "2008-07-08",
         "owners": [
             {
