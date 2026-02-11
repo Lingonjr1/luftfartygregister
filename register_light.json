@@ -35998,7 +35998,7 @@
         "Tillverkningsnummer": "487-79",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "816,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-05",
         "Registreringsdatum": "2023-10-11",
         "owners_amount": 1,
         "owners": [
@@ -64034,7 +64034,7 @@
         "Tillverkningsnummer": "53878",
         "Tillverkningsår": "2009",
         "Max startvikt (kg)": "2381,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-16",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-16",
         "Registreringsdatum": "2009-04-21",
         "owners_amount": 1,
         "owners": [
@@ -66222,7 +66222,7 @@
         "Tillverkningsnummer": "0689",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "1225,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-10",
         "Registreringsdatum": "2023-09-21",
         "owners_amount": 1,
         "owners": [
@@ -104546,18 +104546,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -105396,18 +105396,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },
@@ -105485,14 +105485,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
