@@ -86640,7 +86640,7 @@
         "Tillverkningsnummer": "1018",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-05",
         "Registreringsdatum": "1999-02-05",
         "owners": [
             {
@@ -141330,7 +141330,7 @@
         "Tillverkningsnummer": "9520",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-03",
         "Registreringsdatum": "2020-06-26",
         "owners": [
             {
@@ -175309,6 +175309,9 @@
     },
     {
         "code": "SE-VHM",
+        "Avregistrerad": "2026-02-12",
+        "Orsak": "Exported",
+        "Land": "India",
         "Luftfartygstyp": "FEELING",
         "Tillverkningsnummer": "0070",
         "Tillverkningsår": "2000",
@@ -175317,7 +175320,7 @@
         "Registreringsdatum": "2006-05-12",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
