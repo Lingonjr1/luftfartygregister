@@ -52862,10 +52862,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503771,
-                "name": "Ensio Invest AB",
-                "address": "Box 4146 181 04 LIDINGÖ Sweden",
-                "since": "2015-07-03"
+                "id": 698798,
+                "name": "Swedair Management AB",
+                "address": "Tomtebogatan 7A 553 13 Jönköping Sweden",
+                "since": "2026-02-13"
             }
         ]
     },
@@ -90362,7 +90362,7 @@
         "Tillverkningsnummer": "42.325",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "1785,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-12",
         "Registreringsdatum": "2016-12-20",
         "owners_amount": 1,
         "owners": [
@@ -101785,14 +101785,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103843,14 +103843,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -103871,14 +103871,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105485,14 +105485,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
