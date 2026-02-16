@@ -21465,7 +21465,7 @@
         "Tillverkningsnummer": "10500",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "97000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-22",
         "Registreringsdatum": "2022-02-23",
         "owners": [
             {
@@ -57319,7 +57319,7 @@
         "Tillverkningsnummer": "28-7716200",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "1107,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-12",
         "Registreringsdatum": "1977-07-13",
         "owners": [
             {
@@ -71254,6 +71254,31 @@
         "owners": [
             {
                 "type": "Senast registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-HYZ",
+        "Luftfartygstyp": "SAFARI 400",
+        "Tillverkningsnummer": "S-2125-1182",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "750,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-02-16",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -121866,7 +121891,7 @@
         "Tillverkningsnummer": "D4.187",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "1150,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-16",
         "Registreringsdatum": "2006-03-29",
         "owners": [
             {
@@ -124540,7 +124565,7 @@
                 "type": "Registrerad ägare",
                 "id": 504615,
                 "name": "Feringeflyg AB",
-                "address": "Feringe Flygplats 340 15 Vittaryd Sweden",
+                "address": "Feringe Flygplats 34155 Vittaryd Sweden",
                 "since": "2012-04-25"
             },
             {
@@ -129927,7 +129952,7 @@
         "Tillverkningsnummer": "1626",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "23000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-14",
         "Registreringsdatum": "2020-01-15",
         "owners": [
             {
@@ -138411,7 +138436,7 @@
         "Tillverkningsnummer": "60079",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "45132,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-11",
         "Registreringsdatum": "2025-06-04",
         "owners": [
             {
@@ -138589,7 +138614,7 @@
         "Tillverkningsnummer": "7723",
         "Tillverkningsår": "2017",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-11",
         "Registreringsdatum": "2017-06-30",
         "owners": [
             {
@@ -159831,7 +159856,7 @@
         "Tillverkningsnummer": "171",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-15",
         "Registreringsdatum": "1987-05-25",
         "owners": [
             {
@@ -160048,7 +160073,7 @@
         "Tillverkningsnummer": "21357",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-15",
         "Registreringsdatum": "1988-03-01",
         "owners": [
             {
@@ -164656,7 +164681,7 @@
         "Tillverkningsnummer": "21755",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-15",
         "Registreringsdatum": "2003-04-24",
         "owners": [
             {
@@ -172773,6 +172798,8 @@
     },
     {
         "code": "SE-VDC",
+        "Avregistrerad": "2026-02-16",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "FIB-POLARIS",
         "Tillverkningsnummer": "01A4485/013903",
         "Tillverkningsår": "2001",
@@ -172781,7 +172808,7 @@
         "Registreringsdatum": "2001-05-21",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -211429,7 +211456,7 @@
         "Tillverkningsnummer": "90/98",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "880,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-18",
         "Registreringsdatum": "2019-05-02",
         "owners": [
             {
