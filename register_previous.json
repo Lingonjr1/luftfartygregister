@@ -94682,7 +94682,7 @@
         "Tillverkningsnummer": "31999",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "7000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-23",
         "Registreringsdatum": "2023-02-24",
         "owners": [
             {
@@ -109704,6 +109704,9 @@
     },
     {
         "code": "SE-KXK",
+        "Avregistrerad": "2026-02-17",
+        "Orsak": "Exported",
+        "Land": "United States of America",
         "Luftfartygstyp": "SAAB-2000",
         "Tillverkningsnummer": "2000-012",
         "Tillverkningsår": "1995",
@@ -109712,7 +109715,7 @@
         "Registreringsdatum": "2018-10-31",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 727924,
                 "name": "Empterwik Rental AB",
                 "address": "Sweden",
