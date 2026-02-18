@@ -26198,7 +26198,7 @@
         "Tillverkningsnummer": "29670",
         "Tillverkningsår": "1955",
         "Max startvikt (kg)": "6665,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-31",
         "Registreringsdatum": "1995-07-07",
         "owners": [
             {
@@ -201817,6 +201817,8 @@
     },
     {
         "code": "SE-YSM",
+        "Avregistrerad": "2026-02-18",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "AVID FLYER",
         "Tillverkningsnummer": "389-680",
         "Tillverkningsår": "1988",
@@ -201825,7 +201827,7 @@
         "Registreringsdatum": "2000-09-12",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
