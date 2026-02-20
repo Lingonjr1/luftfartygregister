@@ -97006,10 +97006,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500571,
-                "name": "H-Bird Aviation Services AB",
-                "address": "Cirrusvägen 9 (Hangar 4) 168 67 BROMMA Sweden",
-                "since": "2023-01-13"
+                "id": 500450,
+                "name": "Jonair Affärsflyg AB",
+                "address": "Västra Esplanaden 2 903 26 Umeå Sweden",
+                "since": "2026-02-20"
             }
         ]
     },
@@ -103888,14 +103888,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -104563,18 +104563,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -105502,14 +105502,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
