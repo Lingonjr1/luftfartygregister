@@ -73374,7 +73374,7 @@
         "Tillverkningsnummer": "28-8490023",
         "Tillverkningsår": "1984",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-15",
         "Registreringsdatum": "1992-03-06",
         "owners_amount": 1,
         "owners": [
@@ -96855,7 +96855,7 @@
         "Tillverkningsnummer": "30671",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "79015,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-10",
         "Registreringsdatum": "2022-03-11",
         "owners_amount": 1,
         "owners": [
@@ -100130,7 +100130,7 @@
         "Tillverkningsnummer": "209",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "8300,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-25",
         "Registreringsdatum": "2021-09-21",
         "owners_amount": 1,
         "owners": [
@@ -103860,14 +103860,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -103888,14 +103888,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -116434,7 +116434,7 @@
         "Tillverkningsnummer": "150",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "565,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-01",
         "Registreringsdatum": "2005-07-13",
         "owners_amount": 1,
         "owners": [
