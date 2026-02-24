@@ -32892,7 +32892,7 @@
         "Tillverkningsnummer": "28-20064",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "885,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-16",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-16",
         "Registreringsdatum": "1964-08-04",
         "owners": [
             {
@@ -76312,7 +76312,7 @@
         "Tillverkningsnummer": "161",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-23",
         "Registreringsdatum": "1983-06-03",
         "owners": [
             {
@@ -92077,7 +92077,7 @@
                 "type": "Registrerad ägare",
                 "id": 626448,
                 "name": "RA Alvearium AB",
-                "address": "Rådjursgatan 3 722 42 Västerås Sweden",
+                "address": "Kävsta 1 725 93 Västerås Sweden",
                 "since": "2024-11-19"
             },
             {
@@ -107356,7 +107356,7 @@
         "Tillverkningsnummer": "28-7990534",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-08",
         "Registreringsdatum": "1991-02-13",
         "owners": [
             {
@@ -110782,7 +110782,7 @@
         "Tillverkningsnummer": "160AI-0008",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-14",
         "Registreringsdatum": "2011-04-28",
         "owners": [
             {
@@ -112133,7 +112133,7 @@
         "Tillverkningsnummer": "287",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-23",
         "Registreringsdatum": "1995-05-31",
         "owners": [
             {
@@ -128274,7 +128274,7 @@
         "Tillverkningsnummer": "802-0849",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "7257,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-15",
         "Registreringsdatum": "2021-05-11",
         "owners": [
             {
@@ -129955,7 +129955,7 @@
         "Tillverkningsnummer": "1626",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "23000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2027-02-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-01-14",
         "Registreringsdatum": "2020-01-15",
         "owners": [
             {
@@ -169224,6 +169224,9 @@
     },
     {
         "code": "SE-UVN",
+        "Avregistrerad": "2026-02-24",
+        "Orsak": "Exported",
+        "Land": "Denmark",
         "Luftfartygstyp": "DIAMOND-HK36TS",
         "Tillverkningsnummer": "36506",
         "Tillverkningsår": "1996",
@@ -169232,7 +169235,7 @@
         "Registreringsdatum": "2016-06-14",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 502488,
                 "name": "Gotlands Flygklubb",
                 "address": "Hangarvägen 6 621 41 Visby Sweden",
@@ -182274,10 +182277,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 605920,
-                "name": "Skyrocket AB",
-                "address": "Armegränd 1 831 32 ÖSTERSUND Sweden",
-                "since": "2018-08-31"
+                "id": 743470,
+                "name": "Black Helicopters SRL",
+                "address": "Chaussée Brunehault(MJ) 386 BE-7050 Jurbise Belgium",
+                "since": "2026-02-24"
             },
             {
                 "type": "Registrerad innehavare",
@@ -211099,7 +211102,7 @@
         "Tillverkningsnummer": "10870",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "952,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-11",
         "Registreringsdatum": "2022-11-02",
         "owners": [
             {
