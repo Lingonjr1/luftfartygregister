@@ -61074,6 +61074,81 @@
         ]
     },
     {
+        "code": "SE-HAA",
+        "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
+        "Tillverkningsnummer": "9205",
+        "Tillverkningsår": "2022",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-02-25",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 500012,
+                "name": "HeliAir Sweden AB",
+                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
+                "since": "2026-02-25"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-HAB",
+        "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
+        "Tillverkningsnummer": "9360",
+        "Tillverkningsår": "2023",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-02-25",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 500012,
+                "name": "HeliAir Sweden AB",
+                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
+                "since": "2026-02-25"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-HAC",
+        "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
+        "Tillverkningsnummer": "9222",
+        "Tillverkningsår": "2022",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-02-25",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 500012,
+                "name": "HeliAir Sweden AB",
+                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
+                "since": "2026-02-25"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-HAJ",
         "Avregistrerad": "2019-05-22",
         "Orsak": "Exported",
@@ -66852,7 +66927,7 @@
         "Tillverkningsnummer": "1593",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "1451,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-26",
         "Registreringsdatum": "2004-01-30",
         "owners": [
             {
@@ -98146,7 +98221,7 @@
         "Tillverkningsnummer": "9103",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-24",
         "Registreringsdatum": "2025-04-08",
         "owners": [
             {
@@ -123121,7 +123196,7 @@
         "Tillverkningsnummer": "1773",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-25",
         "Registreringsdatum": "2007-06-13",
         "owners": [
             {
@@ -132737,6 +132812,31 @@
                 "name": "Flygaktiebolaget Viking Air",
                 "address": "Sweden",
                 "since": "2026-01-22"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-RAY",
+        "Luftfartygstyp": "BOMBARDIER-BD-700-1A11",
+        "Tillverkningsnummer": "9324",
+        "Tillverkningsår": "2008",
+        "Max startvikt (kg)": "41957,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-02-25",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 500055,
+                "name": "Svenskt Industriflyg AB",
+                "address": "Hangar 7, Bromma Flygplats 168 67  Bromma Sweden",
+                "since": "2026-02-25"
             },
             {
                 "type": "Registrerad innehavare",
@@ -143177,7 +143277,7 @@
         "Tillverkningsnummer": "10-269S170",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-24",
         "Registreringsdatum": "2019-08-27",
         "owners": [
             {

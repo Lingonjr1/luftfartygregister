@@ -1,8 +1,13 @@
 {
-    "added_count": 0,
+    "added_count": 4,
     "removed_count": 0,
     "changed_count": 7815,
-    "added": [],
+    "added": [
+        "SE-HAA",
+        "SE-HAB",
+        "SE-HAC",
+        "SE-RAY"
+    ],
     "removed": [],
     "changed": [
         "SE-001",
