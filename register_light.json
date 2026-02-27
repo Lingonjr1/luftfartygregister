@@ -37818,7 +37818,7 @@
         "Tillverkningsnummer": "F17201430",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-10",
         "Registreringsdatum": "1976-03-11",
         "owners_amount": 1,
         "owners": [
@@ -66674,7 +66674,7 @@
         "Tillverkningsnummer": "1119",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-11",
         "Registreringsdatum": "2024-01-25",
         "owners_amount": 1,
         "owners": [
@@ -85966,7 +85966,7 @@
         "Tillverkningsnummer": "18282283",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "1406,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-24",
         "Registreringsdatum": "2019-10-21",
         "owners_amount": 1,
         "owners": [
@@ -92009,7 +92009,7 @@
         "Tillverkningsnummer": "42.337",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "1785,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-08",
         "Registreringsdatum": "2024-03-05",
         "owners_amount": 1,
         "owners": [
@@ -97485,7 +97485,7 @@
         "Tillverkningsnummer": "9624",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "45132,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-17",
         "Registreringsdatum": "2015-03-18",
         "owners_amount": 1,
         "owners": [
@@ -98004,7 +98004,7 @@
         "Tillverkningsnummer": "9247",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-10-02",
         "Registreringsdatum": "2019-12-19",
         "owners_amount": 1,
         "owners": [
@@ -101429,14 +101429,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -103169,14 +103169,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -103936,14 +103936,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -103964,14 +103964,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -104535,7 +104535,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502492,
                 "name": "Halle-Hunnebergs Flygklubb",
-                "address": "Box 155 461 24 TROLLHÄTTAN Sweden",
+                "address": "Flygfältsvägen 2 461 38 Trollhättan Sweden",
                 "since": "1992-03-09"
             }
         ]
@@ -104639,18 +104639,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -104759,7 +104759,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502492,
                 "name": "Halle-Hunnebergs Flygklubb",
-                "address": "Box 155 461 24 TROLLHÄTTAN Sweden",
+                "address": "Flygfältsvägen 2 461 38 Trollhättan Sweden",
                 "since": "1977-04-01"
             }
         ]
@@ -104821,7 +104821,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502492,
                 "name": "Halle-Hunnebergs Flygklubb",
-                "address": "Box 155 461 24 TROLLHÄTTAN Sweden",
+                "address": "Flygfältsvägen 2 461 38 Trollhättan Sweden",
                 "since": "2014-09-05"
             }
         ]
@@ -105489,18 +105489,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },
@@ -105578,14 +105578,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -106870,7 +106870,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502492,
                 "name": "Halle-Hunnebergs Flygklubb",
-                "address": "Box 155 461 24 TROLLHÄTTAN Sweden",
+                "address": "Flygfältsvägen 2 461 38 Trollhättan Sweden",
                 "since": "2005-04-05"
             }
         ]
@@ -108849,7 +108849,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 502492,
                 "name": "Halle-Hunnebergs Flygklubb",
-                "address": "Box 155 461 24 TROLLHÄTTAN Sweden",
+                "address": "Flygfältsvägen 2 461 38 Trollhättan Sweden",
                 "since": "2000-02-07"
             }
         ]
@@ -109864,7 +109864,7 @@
                 "type": "Registrerad ägare",
                 "id": 502492,
                 "name": "Halle-Hunnebergs Flygklubb",
-                "address": "Box 155 461 24 TROLLHÄTTAN Sweden",
+                "address": "Flygfältsvägen 2 461 38 Trollhättan Sweden",
                 "since": "1985-05-14"
             }
         ]

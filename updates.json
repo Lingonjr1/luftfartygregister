@@ -1,13 +1,8 @@
 {
-    "added_count": 4,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7815,
-    "added": [
-        "SE-HAA",
-        "SE-HAB",
-        "SE-HAC",
-        "SE-RAY"
-    ],
+    "changed_count": 7819,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -2214,6 +2209,9 @@
         "SE-GZT",
         "SE-GZU",
         "SE-GZV",
+        "SE-HAA",
+        "SE-HAB",
+        "SE-HAC",
         "SE-HAJ",
         "SE-HAL",
         "SE-HAP",
@@ -4846,6 +4844,7 @@
         "SE-RAG",
         "SE-RAH",
         "SE-RAJ",
+        "SE-RAY",
         "SE-RBA",
         "SE-RBB",
         "SE-RBC",
