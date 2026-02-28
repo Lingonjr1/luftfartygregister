@@ -97720,7 +97720,7 @@
         "Max startvikt (kg)": "82190,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
         "Registreringsdatum": "2022-05-31",
-        "owners_amount": 1,
+        "owners_amount": 19,
         "owners": [
             {
                 "type": "Registrerad ägare",
@@ -97728,6 +97728,132 @@
                 "name": "TUIfly Nordic AB",
                 "address": "117 85 Stockholm Sweden",
                 "since": "2022-05-31"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742712,
+                "name": "ZENSHO INC.",
+                "address": "4-14, Minamiaoyama 6-chome, Minato-ku JP-Tokyo Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742713,
+                "name": "CORE CO., LTD.",
+                "address": "24-6, Higashiyoshinocho 2-chome Tokushima-shi JP-Tokushima Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742714,
+                "name": "Nishiki kousan Corporation",
+                "address": "2-16, Uehonmachinishi 1-chome, Chuo-ku, Osaka-shi JP-Osaka Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742715,
+                "name": "DAINAN TRADING CO., LTD.",
+                "address": "19-23, Shinmachi 2-chome, Nishi-ku, Osaka-shi JP-Osaka Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742716,
+                "name": "Hamaco Pearl co.",
+                "address": "15-20, Ujiurata 1-chome, Ise-shi JP-Mie Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742717,
+                "name": "WAKAMIYA KISEN CO., LTD.",
+                "address": "14-31, Katashima, Sukumo-shi JP-Kochi Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742718,
+                "name": "SANSHIN CORPORATION",
+                "address": "15-18, Honmachi, Itabashi-ku JP-Tokyo Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742789,
+                "name": "SANYO SHOJI CO., LTD.",
+                "address": "8-27, Kagashimaminami 2-chome Gifu-shi JP-Gifu Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742790,
+                "name": "NIPPA corporation",
+                "address": "23-101, Esakacho 1-chome Suita-shi JP-Osaka Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742791,
+                "name": "TAKAMATSU SEISO CO., LTD.",
+                "address": "14-11, Kameokacho, Takamatsu-shi JP-Kagawa Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742792,
+                "name": "KOKURAYA CO., LTD.",
+                "address": "1135-2, Kojimayanaidacho, Kurashiki-shi JP-Okayama Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742793,
+                "name": "UL Holdings Co., LTD.",
+                "address": "1766-1, Fukura, Usuki-shi JP-Oita Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742794,
+                "name": "Kagoshima Horiguchiseicha Tea Manufacture, inc.",
+                "address": "758, Ariakechofutsuhara, Shibushi-shi JP-Kagoshima Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742795,
+                "name": "Hirano Investments LLC",
+                "address": "4-12, Aoshinke 1-chome, Minoh-shi JP-Osaka Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742796,
+                "name": "KAGAWATOYOTAMOTOR Company Limited",
+                "address": "5-14, Bancho 2-chome, Takamatsu-shi JP-Kagawa Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742797,
+                "name": "FLOWER BROS TMS CO., LTD.",
+                "address": "67, Nakanogaisaku, Ube-shi JP-Yamaguchi Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742798,
+                "name": "NBB STAR Lease co., Ltd.",
+                "address": "3-2, Nihonbashi Hamacho 3-chome, Chuo-ku JP-Tokyo Japan",
+                "since": "2026-02-27"
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": 742799,
+                "name": "NBB Grackle Co., Ltd.",
+                "address": "3-2, Nihonbashi Hamacho 3-chome, Chuo-ku JP-Tokyo Japan",
+                "since": "2026-02-27"
             }
         ]
     },
@@ -101429,14 +101555,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -101878,14 +102004,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -104639,18 +104765,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -105489,18 +105615,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
@@ -105578,14 +105704,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
