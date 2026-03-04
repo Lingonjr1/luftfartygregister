@@ -129170,17 +129170,24 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 502713,
-                "name": "Sturup Flygklubb",
-                "address": "Västerlångvägen 9 233 71 MALMÖ-STURUP Sweden",
-                "since": "2021-09-23"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad delägare",
-                "id": 666762,
-                "name": "Floral Design Art i Malmö Aktiebolag",
-                "address": "Klågerupsvägen 398 D 212 36 MALMÖ Sweden",
-                "since": "2021-09-23"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -139263,7 +139270,7 @@
         "Tillverkningsnummer": "9116",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-20",
         "Registreringsdatum": "2019-11-06",
         "owners": [
             {
@@ -171290,6 +171297,31 @@
                 "name": "Blackwing Sweden AB",
                 "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
                 "since": "2025-11-26"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-V43",
+        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Tillverkningsnummer": "043",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-03-04",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2026-03-04"
             },
             {
                 "type": "Registrerad innehavare",
