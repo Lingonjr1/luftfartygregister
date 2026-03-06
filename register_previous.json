@@ -85367,7 +85367,7 @@
         "Tillverkningsnummer": "9867",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "2500,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-05",
         "Registreringsdatum": "2026-03-05",
         "owners": [
             {
@@ -120666,7 +120666,7 @@
         "Tillverkningsnummer": "13150",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "1338,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-02",
         "Registreringsdatum": "2004-07-20",
         "owners": [
             {
@@ -123773,7 +123773,7 @@
         "Tillverkningsnummer": "172S9298",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-19",
         "Registreringsdatum": "2006-03-24",
         "owners": [
             {
@@ -123854,7 +123854,7 @@
         "Tillverkningsnummer": "11367",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "4683,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-28",
         "Registreringsdatum": "2007-06-26",
         "owners": [
             {
@@ -183779,6 +183779,38 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-XBJ",
+        "Luftfartygstyp": "VAN´S-RV7",
+        "Tillverkningsnummer": "74194-1520",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "816,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-03-06",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
