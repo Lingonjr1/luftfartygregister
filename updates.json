@@ -1,10 +1,8 @@
 {
-    "added_count": 1,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7821,
-    "added": [
-        "SE-XBJ"
-    ],
+    "changed_count": 7822,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -6706,6 +6704,7 @@
         "SE-VZY",
         "SE-VZZ",
         "SE-XAJ",
+        "SE-XBJ",
         "SE-XBV",
         "SE-XBZ",
         "SE-XCA",
