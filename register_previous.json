@@ -117734,8 +117734,8 @@
         "Luftfartygstyp": "P ROBIN-DR400/140B",
         "Tillverkningsnummer": "2786",
         "Tillverkningsår": "2023",
-        "Max startvikt (kg)": "1160,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Max startvikt (kg)": "1100,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-07-17",
         "Registreringsdatum": "2026-03-05",
         "owners": [
             {
@@ -121509,7 +121509,7 @@
         "Tillverkningsnummer": "0829",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "1020,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-13",
         "Registreringsdatum": "2025-01-17",
         "owners": [
             {
@@ -141766,7 +141766,7 @@
         "Tillverkningsnummer": "12028",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-25",
         "Registreringsdatum": "2024-03-26",
         "owners": [
             {
