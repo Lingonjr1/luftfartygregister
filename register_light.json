@@ -92501,23 +92501,20 @@
     },
     {
         "code": "SE-MNO",
-        "Avregistrerad": "2026-02-19",
-        "Orsak": "Exported",
-        "Land": "Belgium",
         "Luftfartygstyp": "BLACKWING-BW-650",
         "Tillverkningsnummer": "042",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "600,0",
         "Luftvärdighetshandling giltig t.o.m.": null,
-        "Registreringsdatum": "2026-01-19",
+        "Registreringsdatum": "2026-03-13",
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 538768,
-                "name": "Blackwing Sweden AB",
-                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
-                "since": "2026-01-19"
+                "type": "Registrerad ägare",
+                "id": 735373,
+                "name": "TEBEO SRL",
+                "address": "Place de Sars-la-Bruyère 6 BE-7080 FRAMERIES Belgium",
+                "since": "2026-03-13"
             }
         ]
     },
@@ -103296,14 +103293,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104063,14 +104060,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -104091,14 +104088,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
