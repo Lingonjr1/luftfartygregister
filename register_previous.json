@@ -94779,7 +94779,7 @@
         "Tillverkningsnummer": "31077",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "6800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-19",
         "Registreringsdatum": "2023-12-01",
         "owners": [
             {
@@ -162147,7 +162147,7 @@
         "Tillverkningsnummer": "X-143",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "540,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-18",
         "Registreringsdatum": "1990-12-19",
         "owners": [
             {
@@ -167463,8 +167463,8 @@
             {
                 "type": "Registrerad ägare",
                 "id": 668430,
-                "name": "Natteki AB",
-                "address": "Kungsvägen 47 593 70 Ankarsrum Sweden",
+                "name": "NATTEKI AB",
+                "address": "Kungsvägen 47 593 70 ANKARSRUM Sweden",
                 "since": "2021-10-22"
             },
             {
@@ -168790,38 +168790,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 668430,
+                "name": "NATTEKI AB",
+                "address": "Kungsvägen 47 593 70 ANKARSRUM Sweden",
+                "since": "2026-03-18"
             },
             {
                 "type": "Registrerad innehavare",
@@ -170476,7 +170448,7 @@
         "Tillverkningsnummer": "69C",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-25",
         "Registreringsdatum": "2018-01-08",
         "owners": [
             {
@@ -191874,17 +191846,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 743129,
+                "name": "UAB Galimard Baltija",
+                "address": "Dvaro g. 112 LT-76209 Siauliai Lithuania",
+                "since": "2026-03-18"
             },
             {
                 "type": "Registrerad innehavare",
