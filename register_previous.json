@@ -95152,7 +95152,7 @@
         "Tillverkningsnummer": "8684",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-02",
         "Registreringsdatum": "2019-04-03",
         "owners": [
             {
@@ -127788,7 +127788,7 @@
                 "id": 504999,
                 "name": "Mohedsflyg AB",
                 "address": "Köpmangatan 19B 826 30 SÖDERHAMN Sweden",
-                "since": "2016-04-05"
+                "since": "2026-03-20"
             },
             {
                 "type": "Registrerad innehavare",
@@ -131602,7 +131602,7 @@
         "Tillverkningsnummer": "258",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "1220,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-25",
         "Registreringsdatum": "2024-03-26",
         "owners": [
             {
@@ -131702,7 +131702,7 @@
         "Tillverkningsnummer": "315",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "1220,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-18",
         "Registreringsdatum": "2025-02-25",
         "owners": [
             {
@@ -132495,6 +132495,31 @@
                 "name": "Aeroklubben i Göteborg",
                 "address": "Säve Flygplatsväg 32 423 73 SÄVE Sweden",
                 "since": "2024-10-01"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-MSB",
+        "Luftfartygstyp": "PIPER-PA46-500TP",
+        "Tillverkningsnummer": "4697728",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "1999,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-03-20",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 742803,
+                "name": "Jet Air Sweden AB",
+                "address": "Lycksta Gård 1 725 94 Västerås Sweden",
+                "since": "2026-03-20"
             },
             {
                 "type": "Registrerad innehavare",

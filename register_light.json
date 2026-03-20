@@ -66409,7 +66409,7 @@
         "Tillverkningsnummer": "8684",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-02",
         "Registreringsdatum": "2019-04-03",
         "owners_amount": 1,
         "owners": [
@@ -89611,7 +89611,7 @@
                 "id": 504999,
                 "name": "Mohedsflyg AB",
                 "address": "Köpmangatan 19B 826 30 SÖDERHAMN Sweden",
-                "since": "2016-04-05"
+                "since": "2026-03-20"
             }
         ]
     },
@@ -92391,7 +92391,7 @@
         "Tillverkningsnummer": "258",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "1220,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-25",
         "Registreringsdatum": "2024-03-26",
         "owners_amount": 1,
         "owners": [
@@ -92467,7 +92467,7 @@
         "Tillverkningsnummer": "315",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "1220,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-18",
         "Registreringsdatum": "2025-02-25",
         "owners_amount": 1,
         "owners": [
@@ -92995,6 +92995,25 @@
                 "name": "Aeroklubben i Göteborg",
                 "address": "Säve Flygplatsväg 32 423 73 SÄVE Sweden",
                 "since": "2024-10-01"
+            }
+        ]
+    },
+    {
+        "code": "SE-MSB",
+        "Luftfartygstyp": "PIPER-PA46-500TP",
+        "Tillverkningsnummer": "4697728",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "1999,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-03-20",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 742803,
+                "name": "Jet Air Sweden AB",
+                "address": "Lycksta Gård 1 725 94 Västerås Sweden",
+                "since": "2026-03-20"
             }
         ]
     },
@@ -104088,14 +104107,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -104763,18 +104782,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
