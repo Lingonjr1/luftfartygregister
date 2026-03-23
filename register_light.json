@@ -32200,7 +32200,7 @@
         "Tillverkningsnummer": "F17201132",
         "Tillverkningsår": "1974",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-07",
         "Registreringsdatum": "1974-09-27",
         "owners_amount": 1,
         "owners": [
@@ -55858,7 +55858,7 @@
         "Tillverkningsnummer": "345",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "4750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-13",
         "Registreringsdatum": "1987-01-27",
         "owners_amount": 1,
         "owners": [
@@ -93011,7 +93011,7 @@
             {
                 "type": "Registrerad ägare",
                 "id": 742803,
-                "name": "Jet Air Sweden AB",
+                "name": "Swedair AB",
                 "address": "Lycksta Gård 1 725 94 Västerås Sweden",
                 "since": "2026-03-20"
             }
@@ -101572,14 +101572,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102169,7 +102169,7 @@
         "Tillverkningsnummer": "1030",
         "Tillverkningsår": "1958",
         "Max startvikt (kg)": "335,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-21",
         "Registreringsdatum": "2019-12-19",
         "owners_amount": 1,
         "owners": []
@@ -105634,18 +105634,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
@@ -105723,14 +105723,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -109152,7 +109152,7 @@
         "Tillverkningsnummer": "6069",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-25",
         "Registreringsdatum": "1986-06-05",
         "owners_amount": 1,
         "owners": [
@@ -111576,7 +111576,7 @@
         "Tillverkningsnummer": "4613",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-15",
         "Registreringsdatum": "1987-06-03",
         "owners_amount": 1,
         "owners": [
@@ -113219,7 +113219,7 @@
         "Tillverkningsnummer": "6245",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-15",
         "Registreringsdatum": "1992-05-12",
         "owners_amount": 1,
         "owners": [
@@ -114396,7 +114396,7 @@
         "Tillverkningsnummer": "8-19A16",
         "Tillverkningsår": "1994",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-19",
         "Registreringsdatum": "2015-02-02",
         "owners_amount": 1,
         "owners": []
@@ -116707,7 +116707,7 @@
         "Tillverkningsnummer": "42",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-22",
         "Registreringsdatum": "2007-05-16",
         "owners_amount": 1,
         "owners": [
@@ -135766,7 +135766,7 @@
         "Tillverkningsnummer": "1236",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "703,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2024-09-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-09-23",
         "Registreringsdatum": "1986-04-30",
         "owners_amount": 1,
         "owners": []
