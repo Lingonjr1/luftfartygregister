@@ -65668,7 +65668,7 @@
         "Tillverkningsnummer": "53574",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "2381,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-22",
         "Registreringsdatum": "2014-11-19",
         "owners_amount": 1,
         "owners": [
@@ -65924,7 +65924,7 @@
         "Tillverkningsnummer": "13115",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "1134,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-23",
         "Registreringsdatum": "2017-07-26",
         "owners_amount": 1,
         "owners": [
@@ -84209,6 +84209,25 @@
         ]
     },
     {
+        "code": "SE-LRV",
+        "Luftfartygstyp": "PIPER-PA28-181",
+        "Tillverkningsnummer": "2843669",
+        "Tillverkningsår": "2008",
+        "Max startvikt (kg)": "1157,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-03-25",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 504583,
+                "name": "Air-Unlimited Sweden AB",
+                "address": "Sweden",
+                "since": "2026-03-25"
+            }
+        ]
+    },
+    {
         "code": "SE-LRY",
         "Avregistrerad": "2025-10-09",
         "Orsak": "Exported",
@@ -89583,7 +89602,7 @@
         "Tillverkningsnummer": "172S9373",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-18",
         "Registreringsdatum": "2020-11-04",
         "owners_amount": 1,
         "owners": [
@@ -92655,7 +92674,7 @@
         "Tillverkningsnummer": "0081",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-28",
         "Registreringsdatum": "2023-03-22",
         "owners_amount": 1,
         "owners": [
@@ -93004,7 +93023,7 @@
         "Tillverkningsnummer": "4697728",
         "Tillverkningsår": "2026",
         "Max startvikt (kg)": "1999,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-24",
         "Registreringsdatum": "2026-03-20",
         "owners_amount": 1,
         "owners": [
@@ -99950,7 +99969,7 @@
         "Tillverkningsnummer": "62923",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-23",
         "Registreringsdatum": "2024-04-24",
         "owners_amount": 1,
         "owners": [
@@ -101572,14 +101591,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -111740,10 +111759,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 502607,
-                "name": "Västerdalarnas Flygklubb",
-                "address": "Flygfältsvägen 18 786 71 DALA-JÄRNA Sweden",
-                "since": "2008-06-25"
+                "id": 502494,
+                "name": "Halmstad Segelflygklubb",
+                "address": "Gamla Kustvägen 2 302 41 HALMSTAD Sweden",
+                "since": "2026-03-25"
             }
         ]
     },
@@ -124023,7 +124042,15 @@
         "Luftvärdighetshandling giltig t.o.m.": "2026-04-29",
         "Registreringsdatum": "2021-03-24",
         "owners_amount": 1,
-        "owners": []
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 502465,
+                "name": "Borlänge Flygklubb",
+                "address": "Nybrovägen 53 784 63 BORLÄNGE Sweden",
+                "since": "2026-03-25"
+            }
+        ]
     },
     {
         "code": "SE-VUB",
@@ -128245,7 +128272,7 @@
         "Tillverkningsnummer": "105-918",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "625,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-20",
         "Registreringsdatum": "2004-06-02",
         "owners_amount": 1,
         "owners": []
