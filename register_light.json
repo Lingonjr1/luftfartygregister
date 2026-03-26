@@ -41003,7 +41003,7 @@
         "Tillverkningsnummer": "F17201687",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-29",
         "Registreringsdatum": "1978-06-02",
         "owners_amount": 2,
         "owners": []
@@ -66907,7 +66907,7 @@
         "Tillverkningsnummer": "0016",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-06-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-06-04",
         "Registreringsdatum": "2024-04-29",
         "owners_amount": 1,
         "owners": [
@@ -68329,6 +68329,9 @@
     },
     {
         "code": "SE-JYN",
+        "Avregistrerad": "2026-03-26",
+        "Orsak": "Exported",
+        "Land": "Bosnia and Herzegovina",
         "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
         "Tillverkningsnummer": "9589",
         "Tillverkningsår": "2024",
@@ -68338,7 +68341,7 @@
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 503542,
                 "name": "Executive Helicopter Maintenance Limited",
                 "address": "Barratoor, Kylebrack IE-H62 HF80 Loughrea Co. Galway Ireland",
@@ -92543,7 +92546,7 @@
         "Tillverkningsnummer": "1254",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "23000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-02",
         "Registreringsdatum": "2025-04-01",
         "owners_amount": 1,
         "owners": [
@@ -96138,7 +96141,7 @@
         "Tillverkningsnummer": "HA-0184",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "12700,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-13",
         "Registreringsdatum": "2024-09-09",
         "owners_amount": 1,
         "owners": [
@@ -99304,7 +99307,7 @@
         "Tillverkningsnummer": "0418",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "268000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-11",
         "Registreringsdatum": "2020-07-01",
         "owners_amount": 1,
         "owners": [
@@ -102040,14 +102043,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103331,14 +103334,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104098,14 +104101,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -105742,14 +105745,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -127975,7 +127978,7 @@
         "Tillverkningsnummer": "21371-836",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "748,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2001-11-15",
         "owners_amount": 4,
         "owners": []

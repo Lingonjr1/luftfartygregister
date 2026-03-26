@@ -60300,7 +60300,7 @@
         "Tillverkningsnummer": "F17201687",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-29",
         "Registreringsdatum": "1978-06-02",
         "owners": [
             {
@@ -95800,7 +95800,7 @@
         "Tillverkningsnummer": "0016",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-06-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-06-04",
         "Registreringsdatum": "2024-04-29",
         "owners": [
             {
@@ -97696,6 +97696,9 @@
     },
     {
         "code": "SE-JYN",
+        "Avregistrerad": "2026-03-26",
+        "Orsak": "Exported",
+        "Land": "Bosnia and Herzegovina",
         "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
         "Tillverkningsnummer": "9589",
         "Tillverkningsår": "2024",
@@ -97704,14 +97707,14 @@
         "Registreringsdatum": "2024-10-10",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 503542,
                 "name": "Executive Helicopter Maintenance Limited",
                 "address": "Barratoor, Kylebrack IE-H62 HF80 Loughrea Co. Galway Ireland",
                 "since": "2024-10-10"
             },
             {
-                "type": "Registrerad innehavare",
+                "type": "Senast registrerad innehavare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -131802,7 +131805,7 @@
         "Tillverkningsnummer": "1254",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "23000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-02",
         "Registreringsdatum": "2025-04-01",
         "owners": [
             {
@@ -136515,7 +136518,7 @@
         "Tillverkningsnummer": "HA-0184",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "12700,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-13",
         "Registreringsdatum": "2024-09-09",
         "owners": [
             {
@@ -140563,7 +140566,7 @@
         "Tillverkningsnummer": "0418",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "268000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-11",
         "Registreringsdatum": "2020-07-01",
         "owners": [
             {
@@ -190093,7 +190096,7 @@
         "Tillverkningsnummer": "21371-836",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "748,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-11-30",
         "Registreringsdatum": "2001-11-15",
         "owners": [
             {
