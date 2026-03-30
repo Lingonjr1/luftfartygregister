@@ -51581,7 +51581,7 @@
         "Tillverkningsnummer": "172RG0413",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "1202,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-04",
         "Registreringsdatum": "1981-10-01",
         "owners_amount": 1,
         "owners": [
@@ -52294,7 +52294,7 @@
         "Tillverkningsnummer": "24-3591",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "1315,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-07",
         "Registreringsdatum": "1983-05-19",
         "owners_amount": 1,
         "owners": []
@@ -55921,7 +55921,7 @@
         "Tillverkningsnummer": "2890065",
         "Tillverkningsår": "1988",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "1988-06-22",
         "owners_amount": 1,
         "owners": [
@@ -77958,7 +77958,7 @@
         "Tillverkningsnummer": "91-335",
         "Tillverkningsår": "1957",
         "Max startvikt (kg)": "1165,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-31",
         "Registreringsdatum": "1993-05-17",
         "owners_amount": 1,
         "owners": []
@@ -86869,7 +86869,7 @@
         "Tillverkningsnummer": "622",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "19505,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "2008-06-13",
         "owners_amount": 1,
         "owners": [
@@ -89326,10 +89326,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 502466,
-                "name": "Borås Flygklubb",
-                "address": "Vindgatan 7 504 64 BORÅS Sweden",
-                "since": "2013-04-26"
+                "id": 740308,
+                "name": "Malta Wings Company Limited",
+                "address": "'Aurora', 18, Triq Santa Marija MT-LQA 1643 Luqa Malta",
+                "since": "2026-03-30"
             }
         ]
     },
@@ -99611,7 +99611,7 @@
         "Tillverkningsnummer": "19000749",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "50790,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-21",
         "Registreringsdatum": "2025-05-23",
         "owners_amount": 1,
         "owners": [
@@ -101594,14 +101594,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -103334,14 +103334,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104101,14 +104101,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -104129,14 +104129,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -104804,18 +104804,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -105745,14 +105745,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -128275,7 +128275,7 @@
         "Tillverkningsnummer": "105-918",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "625,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2027-03-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-31",
         "Registreringsdatum": "2004-06-02",
         "owners_amount": 1,
         "owners": []
