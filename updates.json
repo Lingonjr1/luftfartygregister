@@ -1,8 +1,16 @@
 {
-    "added_count": 0,
+    "added_count": 7,
     "removed_count": 0,
     "changed_count": 7824,
-    "added": [],
+    "added": [
+        "SE-LMI",
+        "SE-MJY",
+        "SE-NAE",
+        "SE-SKA",
+        "SE-SKB",
+        "SE-XAY",
+        "SE-XTK"
+    ],
     "removed": [],
     "changed": [
         "SE-001",
