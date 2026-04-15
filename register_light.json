@@ -8281,7 +8281,7 @@
         "Tillverkningsnummer": "17777",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "680,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-08",
         "Registreringsdatum": "1962-03-06",
         "owners_amount": 1,
         "owners": []
@@ -9758,7 +9758,7 @@
         "Tillverkningsnummer": "22-9110-1373",
         "Tillverkningsår": "1961",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-31",
         "Registreringsdatum": "1961-12-19",
         "owners_amount": 1,
         "owners": [
@@ -69836,7 +69836,7 @@
         "Tillverkningsnummer": "31-7752061",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "3342,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-15",
         "Registreringsdatum": "2011-10-25",
         "owners_amount": 1,
         "owners": [
@@ -98056,7 +98056,7 @@
         "Tillverkningsnummer": "7602",
         "Tillverkningsår": "2017",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-14",
         "Registreringsdatum": "2017-08-09",
         "owners_amount": 1,
         "owners": [
@@ -101680,14 +101680,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -104890,18 +104890,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -105021,7 +105021,7 @@
         "Tillverkningsnummer": "1227",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2017-09-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-11",
         "Registreringsdatum": "1976-08-10",
         "owners_amount": 1,
         "owners": [
@@ -105742,18 +105742,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
@@ -106722,7 +106722,7 @@
         "Tillverkningsnummer": "W-724",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "385,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "1975-10-22",
         "owners_amount": 1,
         "owners": []
@@ -107807,7 +107807,7 @@
         "Tillverkningsnummer": "1709",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "1978-05-09",
         "owners_amount": 1,
         "owners": []
@@ -115510,7 +115510,7 @@
         "Tillverkningsnummer": "6012",
         "Tillverkningsår": "1985",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "1997-03-24",
         "owners_amount": 1,
         "owners": []
@@ -115877,7 +115877,7 @@
         "Tillverkningsnummer": "28746",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-11",
         "Registreringsdatum": "2006-12-01",
         "owners_amount": 1,
         "owners": []
@@ -115910,7 +115910,7 @@
         "Tillverkningsnummer": "10-62S57",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-11",
         "Registreringsdatum": "2005-06-07",
         "owners_amount": 1,
         "owners": [
@@ -116020,7 +116020,7 @@
         "Tillverkningsnummer": "36.827",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "770,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-11",
         "Registreringsdatum": "2009-03-10",
         "owners_amount": 1,
         "owners": [
@@ -117878,7 +117878,7 @@
         "Tillverkningsnummer": "3E209",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-09-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-13",
         "Registreringsdatum": "2017-08-16",
         "owners_amount": 1,
         "owners": []
