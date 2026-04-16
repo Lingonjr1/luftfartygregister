@@ -32356,6 +32356,31 @@
         ]
     },
     {
+        "code": "SE-EKD",
+        "Luftfartygstyp": "BEECH-35-B33",
+        "Tillverkningsnummer": "CD-745",
+        "Tillverkningsår": "1964",
+        "Max startvikt (kg)": "1360,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-04-16",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-EKE",
         "Avregistrerad": "2001-10-05",
         "Orsak": "Exported",
@@ -61082,7 +61107,7 @@
         "Tillverkningsnummer": "9205",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-15",
         "Registreringsdatum": "2026-02-25",
         "owners": [
             {
@@ -61107,7 +61132,7 @@
         "Tillverkningsnummer": "9360",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-15",
         "Registreringsdatum": "2026-02-25",
         "owners": [
             {
@@ -71386,6 +71411,31 @@
                 "name": "First European Aviation Company Sp. z o.o.",
                 "address": "Ul. Księżycowa 1 PL-01-934 Warszawa Poland",
                 "since": "2024-02-15"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-HZC",
+        "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
+        "Tillverkningsnummer": "9907",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-04-16",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 505068,
+                "name": "Scandair Helicopter AB",
+                "address": "Sweden",
+                "since": "2026-04-16"
             },
             {
                 "type": "Registrerad innehavare",
@@ -95473,7 +95523,7 @@
         "Tillverkningsnummer": "9587",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-15",
         "Registreringsdatum": "2024-05-13",
         "owners": [
             {
@@ -117792,6 +117842,31 @@
         ]
     },
     {
+        "code": "SE-LML",
+        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Tillverkningsnummer": "044",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-04-16",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2026-04-16"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-LMM",
         "Avregistrerad": "2000-12-20",
         "Orsak": "Exported",
@@ -124424,7 +124499,7 @@
         "Tillverkningsnummer": "28R-7335170",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-27",
         "Registreringsdatum": "2007-11-05",
         "owners": [
             {
@@ -143034,7 +143109,7 @@
         "Tillverkningsnummer": "32071",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "2020-02-04",
         "owners": [
             {
@@ -163488,7 +163563,7 @@
         "Tillverkningsnummer": "3E433 A3",
         "Tillverkningsår": "1993",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "1993-07-30",
         "owners": [
             {
@@ -165614,7 +165689,7 @@
         "Tillverkningsnummer": "8380",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "2005-04-01",
         "owners": [
             {
@@ -210672,7 +210747,7 @@
         "Tillverkningsnummer": "367",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-15",
         "Registreringsdatum": "2005-08-03",
         "owners": [
             {
@@ -211262,7 +211337,7 @@
         "Tillverkningsnummer": "910",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "2700,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-10",
         "Registreringsdatum": "2003-06-05",
         "owners": [
             {

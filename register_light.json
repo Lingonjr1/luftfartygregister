@@ -22516,6 +22516,17 @@
         "owners": []
     },
     {
+        "code": "SE-EKD",
+        "Luftfartygstyp": "BEECH-35-B33",
+        "Tillverkningsnummer": "CD-745",
+        "Tillverkningsår": "1964",
+        "Max startvikt (kg)": "1360,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-04-16",
+        "owners_amount": 1,
+        "owners": []
+    },
+    {
         "code": "SE-EKE",
         "Avregistrerad": "2001-10-05",
         "Orsak": "Exported",
@@ -41515,7 +41526,7 @@
         "Tillverkningsnummer": "9205",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-15",
         "Registreringsdatum": "2026-02-25",
         "owners_amount": 1,
         "owners": [
@@ -41534,7 +41545,7 @@
         "Tillverkningsnummer": "9360",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-15",
         "Registreringsdatum": "2026-02-25",
         "owners_amount": 1,
         "owners": [
@@ -48960,6 +48971,25 @@
                 "name": "First European Aviation Company Sp. z o.o.",
                 "address": "Ul. Księżycowa 1 PL-01-934 Warszawa Poland",
                 "since": "2024-02-15"
+            }
+        ]
+    },
+    {
+        "code": "SE-HZC",
+        "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
+        "Tillverkningsnummer": "9907",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-04-16",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 505068,
+                "name": "Scandair Helicopter AB",
+                "address": "Sweden",
+                "since": "2026-04-16"
             }
         ]
     },
@@ -66650,7 +66680,7 @@
         "Tillverkningsnummer": "9587",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-15",
         "Registreringsdatum": "2024-05-13",
         "owners_amount": 1,
         "owners": [
@@ -82453,6 +82483,25 @@
         "owners": []
     },
     {
+        "code": "SE-LML",
+        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Tillverkningsnummer": "044",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-04-16",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2026-04-16"
+            }
+        ]
+    },
+    {
         "code": "SE-LMM",
         "Avregistrerad": "2000-12-20",
         "Orsak": "Exported",
@@ -87215,7 +87264,7 @@
         "Tillverkningsnummer": "28R-7335170",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-27",
         "Registreringsdatum": "2007-11-05",
         "owners_amount": 5,
         "owners": []
@@ -101137,7 +101186,7 @@
         "Tillverkningsnummer": "32071",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "2020-02-04",
         "owners_amount": 1,
         "owners": [
@@ -101680,14 +101729,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102129,14 +102178,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103420,14 +103469,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104187,14 +104236,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -104215,14 +104264,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -104890,18 +104939,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -105831,14 +105880,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -113873,7 +113922,7 @@
         "Tillverkningsnummer": "3E433 A3",
         "Tillverkningsår": "1993",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "1993-07-30",
         "owners_amount": 1,
         "owners": [
@@ -115174,7 +115223,7 @@
         "Tillverkningsnummer": "8380",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "2005-04-01",
         "owners_amount": 1,
         "owners": [
@@ -138911,7 +138960,7 @@
         "Tillverkningsnummer": "367",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-15",
         "Registreringsdatum": "2005-08-03",
         "owners_amount": 1,
         "owners": [
@@ -139331,7 +139380,7 @@
         "Tillverkningsnummer": "910",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "2700,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-10",
         "Registreringsdatum": "2003-06-05",
         "owners_amount": 1,
         "owners": [
