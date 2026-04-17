@@ -1,12 +1,8 @@
 {
-    "added_count": 3,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7832,
-    "added": [
-        "SE-EKD",
-        "SE-HZC",
-        "SE-LML"
-    ],
+    "changed_count": 7835,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -1183,6 +1179,7 @@
         "SE-EIT",
         "SE-EIX",
         "SE-EIY",
+        "SE-EKD",
         "SE-EKE",
         "SE-EKG",
         "SE-EKL",
@@ -2591,6 +2588,7 @@
         "SE-HYY",
         "SE-HYZ",
         "SE-HZB",
+        "SE-HZC",
         "SE-HZD",
         "SE-HZH",
         "SE-HZJ",
@@ -4286,6 +4284,7 @@
         "SE-LMG",
         "SE-LMH",
         "SE-LMI",
+        "SE-LML",
         "SE-LMM",
         "SE-LMN",
         "SE-LMR",

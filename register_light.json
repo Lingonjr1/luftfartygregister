@@ -68800,7 +68800,7 @@
         "Tillverkningsnummer": "9723",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-24",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-24",
         "Registreringsdatum": "2025-03-27",
         "owners_amount": 1,
         "owners": [
@@ -101729,14 +101729,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102178,14 +102178,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103469,14 +103469,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104264,14 +104264,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105880,14 +105880,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -139252,7 +139252,7 @@
         "Tillverkningsnummer": "1301",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-15",
         "Registreringsdatum": "2022-12-20",
         "owners_amount": 1,
         "owners": [
