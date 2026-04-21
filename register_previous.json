@@ -86465,7 +86465,7 @@
         "Tillverkningsnummer": "7389",
         "Tillverkningsår": "2012",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-22",
         "Registreringsdatum": "2020-06-26",
         "owners": [
             {
@@ -135991,6 +135991,9 @@
     },
     {
         "code": "SE-RGH",
+        "Avregistrerad": "2026-04-21",
+        "Orsak": "Exported",
+        "Land": "Tunisia",
         "Luftfartygstyp": "AIRBUS-A320-214",
         "Tillverkningsnummer": "3508",
         "Tillverkningsår": "2008",
@@ -135999,14 +136002,14 @@
         "Registreringsdatum": "2023-12-19",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 504900,
                 "name": "Braathens International Airways AB",
                 "address": "Box 61 161 26 Bromma Sweden",
                 "since": "2023-12-19"
             },
             {
-                "type": "Registrerad innehavare",
+                "type": "Senast registrerad innehavare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -159111,7 +159114,7 @@
         "Tillverkningsnummer": "36309",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "770,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2002-04-10",
         "owners": [
             {
@@ -165526,7 +165529,7 @@
         "Tillverkningsnummer": "109",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "700,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2005-03-24",
         "owners": [
             {
@@ -167169,7 +167172,7 @@
         "Tillverkningsnummer": "8207",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2006-04-03",
         "owners": [
             {
@@ -167391,7 +167394,7 @@
         "Tillverkningsnummer": "20609",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "454,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2008-05-23",
         "owners": [
             {
@@ -167725,7 +167728,7 @@
         "Tillverkningsnummer": "4553",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "472,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2004-02-04",
         "owners": [
             {
@@ -168997,7 +169000,7 @@
         "Tillverkningsnummer": "8515",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2007-03-14",
         "owners": [
             {

@@ -59749,7 +59749,7 @@
         "Tillverkningsnummer": "7389",
         "Tillverkningsår": "2012",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-22",
         "Registreringsdatum": "2020-06-26",
         "owners_amount": 1,
         "owners": [
@@ -95704,6 +95704,9 @@
     },
     {
         "code": "SE-RGH",
+        "Avregistrerad": "2026-04-21",
+        "Orsak": "Exported",
+        "Land": "Tunisia",
         "Luftfartygstyp": "AIRBUS-A320-214",
         "Tillverkningsnummer": "3508",
         "Tillverkningsår": "2008",
@@ -95713,7 +95716,7 @@
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 504900,
                 "name": "Braathens International Airways AB",
                 "address": "Box 61 161 26 Bromma Sweden",
@@ -101785,14 +101788,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102234,14 +102237,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103525,14 +103528,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104292,14 +104295,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -104320,14 +104323,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -104995,18 +104998,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -105936,14 +105939,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -111081,7 +111084,7 @@
         "Tillverkningsnummer": "36309",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "770,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2002-04-10",
         "owners_amount": 1,
         "owners": [
@@ -115158,7 +115161,7 @@
         "Tillverkningsnummer": "109",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "700,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2005-03-24",
         "owners_amount": 3,
         "owners": []
@@ -116114,7 +116117,7 @@
         "Tillverkningsnummer": "8207",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2006-04-03",
         "owners_amount": 1,
         "owners": []
@@ -116242,7 +116245,7 @@
         "Tillverkningsnummer": "20609",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "454,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2008-05-23",
         "owners_amount": 1,
         "owners": []
@@ -116418,7 +116421,7 @@
         "Tillverkningsnummer": "4553",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "472,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2004-02-04",
         "owners_amount": 1,
         "owners": [
@@ -117127,7 +117130,7 @@
         "Tillverkningsnummer": "8515",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-12",
         "Registreringsdatum": "2007-03-14",
         "owners_amount": 1,
         "owners": []
