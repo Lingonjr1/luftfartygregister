@@ -1546,7 +1546,7 @@ SE-FHO,,,,PIPER-PA28-180,28-5614,1969,"1090,0",2025-09-17,1970-07-02,2,,,,,
 SE-FHS,1995-02-27,Exported,United States of America,PIPER-PA31,31-544,1969,"2948,0",,1969-12-23,1,,,,,
 SE-FHT,2007-01-15,Non-airworthy,,PIPER-PA31,31-488,1969,"2948,0",,1969-09-19,1,Senast registrerad ägare,504660.0,Andersson Aircraft AB,Box 166 611 24 NYKÖPING Sweden,1994-10-17
 SE-FHU,2011-03-04,Scrapped,,PIPER-PA28-140,28-26068,1969,"975,0",,1969-09-12,1,Senast registrerad ägare,502509.0,Kiruna Flygklubb,Sweden,1973-05-29
-SE-FHV,,,,PIPER-PA32-300,32-40919,1970,"1540,0",2020-06-13,1970-05-06,1,Registrerad ägare,503999.0,Kinne Maskinteknik AB,Förlagsvägen 3 533 74 HÄLLEKIS Sweden,1976-06-01
+SE-FHV,,,,PIPER-PA32-300,32-40919,1970,"1540,0",2020-06-13,1970-05-06,1,,,,,
 SE-FHY,,,,PIPER-PA28-140,28-26255,1969,"975,0",,1969-12-05,1,Registrerad ägare,502585.0,Sundsvalls Flyg AB,Sweden,1971-04-20
 SE-FHZ,,,,PIPER-PA28-140,28-26250,1969,"975,0",2027-02-01,1970-02-13,1,,,,,
 SE-FIA,,,,MFI-9B,63,1969,"575,0",2026-07-31,1969-10-01,1,,,,,
@@ -4566,7 +4566,7 @@ SE-MAZ,2025-06-16,Exported,Malta,BEECH-200,BB-1522,1995,"5670,0",2025-09-26,2007
 SE-MBA,2016-01-21,Total write-off,,DA-20A1,10.034,1995,"750,0",2016-11-18,2006-08-02,1,Senast registrerad ägare,502515.0,Landskrona Flygklubb,Box 92 261 22 LANDSKRONA Sweden,2006-08-02
 SE-MBB,2025-05-22,Exported,Spain,DA-42,42.338,2008,"1785,0",2026-02-06,2008-07-15,1,Senast registrerad ägare,504055.0,OSM Aviation Academy AB,Hässlögatan 2 E 721 31 VÄSTERÅS Sweden,2013-03-26
 SE-MBC,,,,DA-40 D,D4.330,2007,"1150,0",2026-10-18,2008-02-26,1,Registrerad ägare,710330.0,Scandinavian Oil Services AB,Sibyllegatan 18 114 42 Stockholm Sweden,2023-12-06
-SE-MBD,,,,DA-40 D,D4.033,2003,"1150,0",2026-05-07,2008-05-08,1,,,,,
+SE-MBD,,,,DA-40 D,D4.033,2003,"1150,0",2027-05-07,2008-05-08,1,,,,,
 SE-MBE,2008-12-15,Exported,United States of America,VULCANAIR-P.68 OBSERVER2,441-32/OB2,2007,"1990,0",2009-06-30,2007-06-29,1,Senast registrerad ägare,504212.0,Dover Bay AB,Box 49121 100 28 STOCKHOLM Sweden,2007-06-29
 SE-MBF,2017-07-24,Total write-off,,DA-20A1,10.041,1995,"750,0",2017-08-26,2016-07-05,1,Senast registrerad ägare,502515.0,Landskrona Flygklubb,Box 92 261 22 LANDSKRONA Sweden,2016-07-05
 SE-MBG,,,,DA-40 D,D4.312,2008,"1150,0",2026-09-22,2012-04-25,1,Registrerad ägare,504615.0,Feringeflyg AB,Feringe Flygplats 34155 Vittaryd Sweden,2012-04-25
@@ -4787,7 +4787,7 @@ SE-MKZ,,,,CESSNA-172N,172-69970,1977,"1043,0",2026-06-10,2020-05-11,1,Registrera
 SE-MLA,2025-08-18,Exported,Germany,AQUILA-AT01,AT01-244,2012,"750,0",2026-02-08,2015-09-30,1,Senast registrerad ägare,709219.0,way2fly gmbh,Kaprunerstrasse 15 AT-5700 Zell am See Austria,2023-11-09
 SE-MLB,,,,BEECH-B36TC,EA-683,2001,"1746,0",2026-06-05,2016-06-27,1,Registrerad ägare,503831.0,AB Varmförzinkning,Fållinge Industriområde 1 333 91  SMÅLANDSSTENAR Sweden,2016-06-27
 SE-MLC,2025-10-15,Exported,India,DA-42,42.376,2008,"1785,0",2026-09-05,2016-07-29,1,Senast registrerad ägare,504515.0,Airways Flygutbildning Svenska AB,Sweden,2016-07-29
-SE-MLD,,,,DA-40,40.023,2001,"1150,0",2026-05-03,2019-03-27,1,Registrerad ägare,502546.0,Hultsfreds Flygklubb,PL Flygplatsen 577 91 HULTSFRED Sweden,2019-03-27
+SE-MLD,,,,DA-40,40.023,2001,"1150,0",2027-05-03,2019-03-27,1,Registrerad ägare,502546.0,Hultsfreds Flygklubb,PL Flygplatsen 577 91 HULTSFRED Sweden,2019-03-27
 SE-MLE,,,,CESSNA-U206G,U20605022,1979,"1723,6",2026-12-03,2019-07-19,1,Registrerad ägare,599511.0,Aero Club di Como,Viale Massenzio Masia 44 IT-22100 COMO Italy,2019-07-19
 SE-MLF,,,,CESSNA-172S,172S10225,2006,"1157,0",2027-03-06,2017-07-07,1,Registrerad ägare,502515.0,Landskrona Flygklubb,Box 92 261 22 LANDSKRONA Sweden,2017-07-07
 SE-MLG,,,,PILATUS PC-12/47E,1235,2010,"4740,0",2027-01-19,2017-12-13,2,,,,,
@@ -4991,7 +4991,7 @@ SE-RGC,2025-10-27,Exported,Ireland,AIRBUS-A319-112,3445,2008,"75500,0",2026-06-1
 SE-RGD,,,,AIRBUS-A319-112,3346,2007,"75500,0",2026-05-06,2023-05-09,1,Registrerad ägare,741662.0,MDAC 10 (Ireland) Limited,32 Molesworth Street IE-Dublin Ireland,2026-01-19
 SE-RGE,2025-10-23,Exported,Lithuania,AIRBUS-A319-112,2662,2006,"75500,0",2026-05-25,2023-06-09,1,Senast registrerad ägare,504900.0,Braathens International Airways AB,Box 61 161 26 Bromma Sweden,2023-06-09
 SE-RGF,2025-10-10,Exported,Guernsey,AIRBUS-A320-214,3240,2007,"77000,0",2026-06-09,2024-05-21,1,Senast registrerad ägare,504900.0,Braathens International Airways AB,Box 61 161 26 Bromma Sweden,2024-05-21
-SE-RGG,,,,AIRBUS-A320-214,3312,2007,"77000,0",2026-10-17,2023-10-27,1,Registrerad ägare,504900.0,Braathens International Airways AB,Box 61 161 26 Bromma Sweden,2023-10-27
+SE-RGG,2026-04-22,Exported,Tunisia,AIRBUS-A320-214,3312,2007,"77000,0",2026-10-17,2023-10-27,1,Senast registrerad ägare,504900.0,Braathens International Airways AB,Box 61 161 26 Bromma Sweden,2023-10-27
 SE-RGH,2026-04-21,Exported,Tunisia,AIRBUS-A320-214,3508,2008,"77000,0",2026-12-17,2023-12-19,1,Senast registrerad ägare,504900.0,Braathens International Airways AB,Box 61 161 26 Bromma Sweden,2023-12-19
 SE-RGN,2008-11-06,Exported,Greece,CESSNA-500,500-0364,1977,"5376,0",2009-10-21,2005-07-21,1,Senast registrerad ägare,500540.0,WALTAIR Europe AB,Terminalgatan 1 603 61 Norrköping Sweden,2008-03-03
 SE-RGO,2006-10-06,Exported,United States of America,MCDONNELL DOUGLAS-DC9-83,49708,1988,"72575,0",,2006-04-19,1,Senast registrerad ägare,504972.0,Nordic Airways AB,Box 53 190 45 STOCKHOLM-ARLANDA Sweden,2006-04-19
@@ -5465,8 +5465,8 @@ SE-TEP,2007-01-19,Non-airworthy,,SCHEIBE-BERGFALKE III,5590,1966,"465,0",,1967-0
 SE-TEP,2007-01-19,Non-airworthy,,SCHEIBE-BERGFALKE III,5590,1966,"465,0",,1967-04-27,2,Senast registrerad delägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1979-04-23
 SE-TER,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5591,1966,"465,0",,1967-07-19,2,Senast registrerad ägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1973-08-23
 SE-TER,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5591,1966,"465,0",,1967-07-19,2,Senast registrerad delägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1973-08-23
-SE-TES,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5592,1967,"465,0",,1967-04-26,2,Senast registrerad ägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1967-04-26
 SE-TES,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5592,1967,"465,0",,1967-04-26,2,Senast registrerad delägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1967-04-26
+SE-TES,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5592,1967,"465,0",,1967-04-26,2,Senast registrerad ägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1967-04-26
 SE-TEW,2007-10-30,Exported,Lithuania,SCHEIBE-BERGFALKE III,5600,1967,"465,0",,1967-07-12,1,Senast registrerad ägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1998-04-15
 SE-TEX,2012-06-19,Scrapped,,SCHEIBE-BERGFALKE III,5602,1967,"465,0",,1967-06-29,1,Senast registrerad ägare,502612.0,Västra Gästrike Flygklubb,Norvägen 37 812 90 STORVIK Sweden,1992-03-18
 SE-TEY,,,,SCHEIBE-BERGFALKE III,5604,1967,"465,0",2026-07-04,1967-09-01,1,Registrerad ägare,502619.0,Älvsby Flygklubb,Sweden,2015-07-17
@@ -5503,8 +5503,8 @@ SE-THH,,,,SCHEIBE-BERGFALKE III,5636,1969,"465,0",,1969-08-21,1,,,,,
 SE-THI,2012-03-09,Owners request,,SCHEIBE-BERGFALKE III,5638,1969,"465,0",,1970-05-11,1,Senast registrerad ägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1992-03-18
 SE-THK,2020-12-03,Exported,Poland,SCHEIBE-BERGFALKE III,5637,1969,"465,0",2015-05-01,1970-05-15,1,Senast registrerad ägare,502982.0,Skövde Flygklubb,Flygplatsen 521 91 Falköping Sweden,1992-03-18
 SE-THL,,,,SCHEIBE-BERGFALKE III,5642,1970,"465,0",2015-07-25,1970-06-18,2,,,,,
-SE-THM,1985-11-20,Total write-off,,SCHEIBE-BERGFALKE III,5644,1970,"465,0",,1971-05-25,2,Senast registrerad delägare,502628.0,Östersunds Segelflygklubb,Sweden,1974-01-30
 SE-THM,1985-11-20,Total write-off,,SCHEIBE-BERGFALKE III,5644,1970,"465,0",,1971-05-25,2,Senast registrerad ägare,502628.0,Östersunds Segelflygklubb,Sweden,1981-07-27
+SE-THM,1985-11-20,Total write-off,,SCHEIBE-BERGFALKE III,5644,1970,"465,0",,1971-05-25,2,Senast registrerad delägare,502628.0,Östersunds Segelflygklubb,Sweden,1974-01-30
 SE-THN,2007-01-22,Non-airworthy,,SCHEIBE-BERGFALKE III,5645,1970,"465,0",,1971-04-21,1,Senast registrerad ägare,504490.0,Älvsby Flyg AB,Box 127 971 04 LULEÅ Sweden,1996-07-02
 SE-THO,,,,SCHEIBE-BERGFALKE III,5646,1970,"465,0",2011-05-30,1971-04-07,1,,,,,
 SE-THP,,,,GROB-ASTIR CS,1090,1976,"450,0",2027-03-25,1976-04-14,1,Registrerad ägare,502519.0,Linköpings Segelflygklubb,Sweden,1994-10-25
@@ -5557,8 +5557,8 @@ SE-TLG,2013-02-25,Exported,Slovakia,SCHEIBE-BERGFALKE IV,5821,1972,"505,0",2013-
 SE-TLH,2003-06-24,Total write-off,,SCHEIBE-BERGFALKE IV,5830,1973,"505,0",,1973-08-13,2,Senast registrerad ägare,502488.0,Gotlands Flygklubb,Hangarvägen 6 621 41 Visby Sweden,1973-08-13
 SE-TLH,2003-06-24,Total write-off,,SCHEIBE-BERGFALKE IV,5830,1973,"505,0",,1973-08-13,2,Senast registrerad delägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1973-08-13
 SE-TLI,,,,SCHEIBE-BERGFALKE IV,5833,1973,"505,0",,1974-05-29,1,Registrerad ägare,502588.0,Säffle Flygklubb,Säffle Flygplats Nolby 661 92 SÄFFLE Sweden,2014-07-18
-SE-TLK,1986-10-14,Total write-off,,SCHEIBE-BERGFALKE IV,5834,1973,"505,0",,1974-04-01,2,Senast registrerad ägare,502573.0,Skövde Flygklubb,Flygplatsen 541 91 SKÖVDE Sweden,1982-07-20
 SE-TLK,1986-10-14,Total write-off,,SCHEIBE-BERGFALKE IV,5834,1973,"505,0",,1974-04-01,2,Senast registrerad delägare,502573.0,Skövde Flygklubb,Flygplatsen 541 91 SKÖVDE Sweden,1982-07-20
+SE-TLK,1986-10-14,Total write-off,,SCHEIBE-BERGFALKE IV,5834,1973,"505,0",,1974-04-01,2,Senast registrerad ägare,502573.0,Skövde Flygklubb,Flygplatsen 541 91 SKÖVDE Sweden,1982-07-20
 SE-TLL,2004-01-29,Exported,United Kingdom,SCHEIBE-BERGFALKE IV,5839,1974,"505,0",,1974-08-05,1,Senast registrerad ägare,502602.0,Varbergs Flygklubb,Getterövägen 2 432 93 VARBERG Sweden,1991-08-20
 SE-TLM,,,,SCHEIBE-BERGFALKE IV,5848,1975,"505,0",2026-04-10,1975-06-10,1,Registrerad ägare,502628.0,Östersunds Segelflygklubb,Sweden,2020-08-17
 SE-TLN,,,,SCHEIBE-BERGFALKE IV,5847,1975,"505,0",2027-04-18,1975-08-04,1,Registrerad ägare,502513.0,Kronobergs Segelflygklubb,Kronobergsheds Flygfält 1 342 63 MOHEDA Sweden,1992-03-18
@@ -5567,7 +5567,7 @@ SE-TLP,,,,SCHEIBE-BERGFALKE IV,5850,1975,"505,0",2014-03-25,1975-06-23,1,,,,,
 SE-TLR,1992-10-23,Total write-off,,SCHEIBE-BERGFALKE IV,5857,1976,"505,0",,1976-12-07,2,Senast registrerad ägare,502488.0,Gotlands Flygklubb,Hangarvägen 6 621 41 Visby Sweden,1992-05-20
 SE-TLR,1992-10-23,Total write-off,,SCHEIBE-BERGFALKE IV,5857,1976,"505,0",,1976-12-07,2,Senast registrerad delägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1992-05-20
 SE-TLS,2001-12-18,Exported,United States of America,SCHEIBE-BERGFALKE IV,5858,1976,"505,0",,1976-07-13,1,Senast registrerad ägare,504490.0,Älvsby Flyg AB,Box 127 971 04 LULEÅ Sweden,1996-07-02
-SE-TLT,,,,SCHEIBE-BERGFALKE IV,5859,1976,"505,0",2026-04-19,1976-06-18,1,Registrerad ägare,502982.0,Skövde Flygklubb,Flygplatsen 521 91 Falköping Sweden,2020-09-01
+SE-TLT,,,,SCHEIBE-BERGFALKE IV,5859,1976,"505,0",2027-04-21,1976-06-18,1,Registrerad ägare,502982.0,Skövde Flygklubb,Flygplatsen 521 91 Falköping Sweden,2020-09-01
 SE-TLU,1984-05-24,Destroyed,,PIK-20B,20143C,1976,"450,0",,1976-07-23,1,Senast registrerad ägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1984-05-24
 SE-TLV,1998-01-12,Exported,Norway,SCHEIBE-SF25C,4499,1974,"580,0",,1976-09-21,1,Senast registrerad ägare,502481.0,Feringe Segelflygklubb,Sweden,1983-05-10
 SE-TLZ,,,,SCHEIBE-SF25B,4643,1969,"555,0",2016-03-27,1976-07-02,1,,,,,
@@ -6171,7 +6171,7 @@ SE-URP,2016-02-08,Exported,United States of America,GROB-G103A TWIN II ACRO,3546
 SE-URR,1999-02-02,Exported,Germany,ROLLADEN-SCHNEIDER-LS6-c,6265,1992,"525,0",,1992-08-28,3,,,,,
 SE-URS,,,,SCHEMPP-HIRTH-DUO DISCUS T,180,2008,"750,0",2027-03-21,2008-07-03,1,Registrerad ägare,502535.0,Motala Flygklubb,Skärstad Nedre Bostället 425 591 94 MOTALA Sweden,2012-01-09
 SE-URT,2022-09-14,Destroyed,,DIAMOND-HK36TC,36.829,2008,"770,0",2022-06-05,2008-10-14,1,Senast registrerad ägare,502602.0,Varbergs Flygklubb,Getterövägen 2 432 93 VARBERG Sweden,2008-10-21
-SE-URU,,,,SCHEMPP-HIRTH-VENTUS a/16.6,23,1981,"500,0",2026-04-27,2008-06-27,1,,,,,
+SE-URU,,,,SCHEMPP-HIRTH-VENTUS a/16.6,23,1981,"500,0",2027-04-22,2008-06-27,1,,,,,
 SE-URV,,,,SCHLEICHER-ASW20L,20609,1980,"454,0",2027-04-12,2008-05-23,1,,,,,
 SE-URX,2023-01-02,Exported,Germany,SCHEMPP-HIRTH-JANUS B,80,1979,"620,0",2023-12-17,1999-06-24,1,Senast registrerad ägare,502567.0,Siljansnäs Flygklubb,Vindmyrevägen 7 793 60 SILJANSNÄS Sweden,1999-06-24
 SE-URY,2010-10-05,Exported,Germany,SCHEMPP-HIRTH-VENTUS-2CM,156,2005,"565,0",,2005-03-01,1,,,,,
@@ -6942,7 +6942,7 @@ SE-XJG,,,,BRIAN KEELEAN-SINGLE WINGER,BK-1-1419,1994,"650,0",2027-02-28,2009-07-
 SE-XJH,,,,"MIGNET HM 14 TF290 ""Loppan""",01-1199,2010,"326,0",2015-09-30,2010-10-28,1,,,,,
 SE-XJJ,,,,VAN´S-RV4,2286-697,2018,"681,0",,2018-10-03,1,,,,,
 SE-XJL,,,,SE5A Replica,531-1185,2010,"521,0",2027-03-31,2012-08-23,1,,,,,
-SE-XJN,,,,LANCAIR-320,366,1995,"794,0",2026-04-30,2023-02-14,1,Registrerad ägare,693632.0,Invimpex AB,"Skruckeby, Tallbacken 4 614 90 Söderköping Sweden",2023-02-14
+SE-XJN,,,,LANCAIR-320,366,1995,"794,0",2027-04-18,2023-02-14,1,Registrerad ägare,693632.0,Invimpex AB,"Skruckeby, Tallbacken 4 614 90 Söderköping Sweden",2023-02-14
 SE-XJO,,,,VAN´S-RV7A,73758-1504,2016,"816,0",2026-07-31,2017-07-13,1,,,,,
 SE-XJR,,,,SEQUOIA-FALCO F8L,1167-1384,1998,"970,0",2027-04-30,2010-07-05,1,,,,,
 SE-XJS,2016-11-24,Change of registration mark,,AEROSPOOL-WT9 DYNAMIC,DY-K11-157-1341,2014,"499,0",2017-04-30,2014-04-25,1,,,,,
@@ -7003,7 +7003,7 @@ SE-XNC,,,,LANCAIR-320/360,457-728,1994,"765,0",2022-04-30,1996-03-19,1,,,,,
 SE-XNF,,,,NORD-AVIATION 3400,68-741,1960,"1450,0",2002-05-31,1995-07-04,1,,,,,
 SE-XNH,2010-09-06,Exported,Germany,MURPHY-RENEGADE SPIRIT,338-772,1995,"435,0",2010-06-30,2000-10-20,1,,,,,
 SE-XNI,,,,EAA ST 10 Diplomate,138-820,1972,"1195,0",2026-06-30,2003-10-29,1,,,,,
-SE-XNJ,,,,DENNEY-KITFOX IV,1519-851,2024,"480,0",2027-04-18,2024-10-02,1,,,,,
+SE-XNJ,,,,DENNEY-KITFOX IV,1519-851,2024,"480,0",2026-03-31,2024-10-02,1,,,,,
 SE-XNM,,,,VAN´S-RV6,20934-792,1993,"725,0",2027-04-30,1994-05-02,1,,,,,
 SE-XNN,,,,Glastar-GS-1,5607,2002,"889,0",,2022-02-10,1,,,,,
 SE-XNP,,,,SAAB-MFI15-200A,848-868,1995,"1200,0",2026-12-31,1995-10-24,2,,,,,

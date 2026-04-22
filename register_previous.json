@@ -42561,10 +42561,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503999,
-                "name": "Kinne Maskinteknik AB",
-                "address": "Förlagsvägen 3 533 74 HÄLLEKIS Sweden",
-                "since": "1976-06-01"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -124717,7 +124717,7 @@
         "Tillverkningsnummer": "D4.033",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "1150,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-07",
         "Registreringsdatum": "2008-05-08",
         "owners": [
             {
@@ -130538,7 +130538,7 @@
         "Tillverkningsnummer": "40.023",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "1150,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-03",
         "Registreringsdatum": "2019-03-27",
         "owners": [
             {
@@ -135966,6 +135966,9 @@
     },
     {
         "code": "SE-RGG",
+        "Avregistrerad": "2026-04-22",
+        "Orsak": "Exported",
+        "Land": "Tunisia",
         "Luftfartygstyp": "AIRBUS-A320-214",
         "Tillverkningsnummer": "3312",
         "Tillverkningsår": "2007",
@@ -135974,14 +135977,14 @@
         "Registreringsdatum": "2023-10-27",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 504900,
                 "name": "Braathens International Airways AB",
                 "address": "Box 61 161 26 Bromma Sweden",
                 "since": "2023-10-27"
             },
             {
-                "type": "Registrerad innehavare",
+                "type": "Senast registrerad innehavare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -150640,7 +150643,7 @@
         "Tillverkningsnummer": "5859",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "505,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-21",
         "Registreringsdatum": "1976-06-18",
         "owners": [
             {
@@ -167369,7 +167372,7 @@
         "Tillverkningsnummer": "23",
         "Tillverkningsår": "1981",
         "Max startvikt (kg)": "500,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-22",
         "Registreringsdatum": "2008-06-27",
         "owners": [
             {
@@ -188007,7 +188010,7 @@
         "Tillverkningsnummer": "366",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "794,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-18",
         "Registreringsdatum": "2023-02-14",
         "owners": [
             {
@@ -189606,7 +189609,7 @@
         "Tillverkningsnummer": "1519-851",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "480,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2027-04-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-03-31",
         "Registreringsdatum": "2024-10-02",
         "owners": [
             {
