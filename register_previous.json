@@ -78875,7 +78875,7 @@
         "Tillverkningsnummer": "337",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "4750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-29",
         "Registreringsdatum": "1986-02-06",
         "owners": [
             {
@@ -122855,7 +122855,7 @@
         "Tillverkningsnummer": "28R-8231013",
         "Tillverkningsår": "1982",
         "Max startvikt (kg)": "1315,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-03",
         "Registreringsdatum": "2014-03-12",
         "owners": [
             {
@@ -128435,7 +128435,7 @@
         "Tillverkningsnummer": "802A-0734",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "7257,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-16",
         "Registreringsdatum": "2019-10-04",
         "owners": [
             {
@@ -129393,7 +129393,7 @@
         "Tillverkningsnummer": "208B0726",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "3969,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-17",
         "Registreringsdatum": "2018-01-18",
         "owners": [
             {
@@ -141936,7 +141936,7 @@
         "Tillverkningsnummer": "9518",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-21",
         "Registreringsdatum": "2020-09-01",
         "owners": [
             {
@@ -178477,20 +178477,6 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,

@@ -54143,7 +54143,7 @@
         "Tillverkningsnummer": "337",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "4750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-29",
         "Registreringsdatum": "1986-02-06",
         "owners_amount": 1,
         "owners": [
@@ -86040,7 +86040,7 @@
         "Tillverkningsnummer": "28R-8231013",
         "Tillverkningsår": "1982",
         "Max startvikt (kg)": "1315,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-03",
         "Registreringsdatum": "2014-03-12",
         "owners_amount": 1,
         "owners": [
@@ -90065,7 +90065,7 @@
         "Tillverkningsnummer": "802A-0734",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "7257,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-16",
         "Registreringsdatum": "2019-10-04",
         "owners_amount": 1,
         "owners": [
@@ -90737,7 +90737,7 @@
         "Tillverkningsnummer": "208B0726",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "3969,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-17",
         "Registreringsdatum": "2018-01-18",
         "owners_amount": 1,
         "owners": [
@@ -100321,7 +100321,7 @@
         "Tillverkningsnummer": "9518",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-21",
         "Registreringsdatum": "2020-09-01",
         "owners_amount": 1,
         "owners": [
@@ -101783,14 +101783,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102232,14 +102232,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -104290,14 +104290,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -104993,18 +104993,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -122181,7 +122181,7 @@
         "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-07-07",
         "Registreringsdatum": "2008-12-04",
-        "owners_amount": 3,
+        "owners_amount": 1,
         "owners": []
     },
     {
