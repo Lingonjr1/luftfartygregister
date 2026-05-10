@@ -1559,7 +1559,7 @@
         "Tillverkningsnummer": "8-860",
         "Tillverkningsår": "1938",
         "Max startvikt (kg)": "680,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-04",
         "Registreringsdatum": "1972-05-19",
         "owners_amount": 1,
         "owners": [
@@ -4499,7 +4499,7 @@
         "Tillverkningsnummer": "7AC-6340-1023",
         "Tillverkningsår": "1946",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "1992-12-01",
         "owners_amount": 1,
         "owners": []
@@ -8066,7 +8066,7 @@
         "Tillverkningsnummer": "22-100-1407",
         "Tillverkningsår": "1961",
         "Max startvikt (kg)": "885,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1963-02-02",
         "owners_amount": 1,
         "owners": [
@@ -16032,6 +16032,8 @@
     },
     {
         "code": "SE-DRO",
+        "Avregistrerad": "2026-05-08",
+        "Orsak": "Transfer to military registration",
         "Luftfartygstyp": "BOMBARDIER-BD-700-1A10",
         "Tillverkningsnummer": "60148",
         "Tillverkningsår": "2024",
@@ -16041,7 +16043,7 @@
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 502843,
                 "name": "Försvarets Materielverk",
                 "address": "115 88 STOCKHOLM Sweden",
@@ -16051,6 +16053,8 @@
     },
     {
         "code": "SE-DRP",
+        "Avregistrerad": "2026-05-08",
+        "Orsak": "Transfer to military registration",
         "Luftfartygstyp": "BOMBARDIER-BD-700-1A10",
         "Tillverkningsnummer": "60178",
         "Tillverkningsår": "2025",
@@ -16060,7 +16064,7 @@
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 502843,
                 "name": "Försvarets Materielverk",
                 "address": "115 88 STOCKHOLM Sweden",
@@ -23347,7 +23351,7 @@
         "Tillverkningsnummer": "25-3264-917",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "1315,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1965-05-13",
         "owners_amount": 1,
         "owners": [
@@ -23975,7 +23979,7 @@
         "Tillverkningsnummer": "18051468",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "1270,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-07-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-09-28",
         "Registreringsdatum": "1969-05-06",
         "owners_amount": 1,
         "owners": []
@@ -24583,7 +24587,7 @@
                 "type": "Registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2008-01-16"
             }
         ]
@@ -24814,7 +24818,7 @@
         "Tillverkningsnummer": "28-3583",
         "Tillverkningsår": "1966",
         "Max startvikt (kg)": "1090,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "1966-12-22",
         "owners_amount": 2,
         "owners": [
@@ -28479,7 +28483,7 @@
         "Tillverkningsnummer": "28-5080",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "1090,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-27",
         "Registreringsdatum": "1968-11-04",
         "owners_amount": 1,
         "owners": [
@@ -28807,7 +28811,7 @@
         "Tillverkningsnummer": "B121-068",
         "Tillverkningsår": "1969",
         "Max startvikt (kg)": "875,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-14",
         "Registreringsdatum": "1969-07-17",
         "owners_amount": 2,
         "owners": []
@@ -29015,7 +29019,7 @@
         "Tillverkningsnummer": "28-5614",
         "Tillverkningsår": "1969",
         "Max startvikt (kg)": "1090,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-09-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-21",
         "Registreringsdatum": "1970-07-02",
         "owners_amount": 2,
         "owners": []
@@ -30009,7 +30013,7 @@
         "Tillverkningsnummer": "180",
         "Tillverkningsår": "1974",
         "Max startvikt (kg)": "1250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-01",
         "Registreringsdatum": "1979-03-22",
         "owners_amount": 1,
         "owners": []
@@ -30178,7 +30182,7 @@
         "Tillverkningsnummer": "C1-0756-1205",
         "Tillverkningsår": "1952",
         "Max startvikt (kg)": "955,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1975-09-08",
         "owners_amount": 1,
         "owners": [
@@ -31111,7 +31115,7 @@
         "Tillverkningsnummer": "2049",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-29",
         "Registreringsdatum": "1974-02-18",
         "owners_amount": 4,
         "owners": []
@@ -31643,7 +31647,7 @@
         "Tillverkningsnummer": "F17200830",
         "Tillverkningsår": "1972",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-04",
         "Registreringsdatum": "1973-03-21",
         "owners_amount": 2,
         "owners": [
@@ -34839,7 +34843,7 @@
         "Tillverkningsnummer": "25-7305529-1248",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "1000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1974-03-08",
         "owners_amount": 1,
         "owners": [
@@ -37324,7 +37328,7 @@
         "Tillverkningsnummer": "F17201230",
         "Tillverkningsår": "1974",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-29",
         "Registreringsdatum": "1975-04-11",
         "owners_amount": 1,
         "owners": []
@@ -37815,7 +37819,7 @@
         "Tillverkningsnummer": "F17201456",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-02",
         "Registreringsdatum": "1976-05-10",
         "owners_amount": 1,
         "owners": []
@@ -38066,7 +38070,7 @@
         "Tillverkningsnummer": "F17201481",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-11",
         "Registreringsdatum": "1976-07-23",
         "owners_amount": 3,
         "owners": []
@@ -38307,7 +38311,7 @@
         "Tillverkningsnummer": "28-7690347",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-04",
         "Registreringsdatum": "1976-06-30",
         "owners_amount": 2,
         "owners": [
@@ -57603,7 +57607,7 @@
         "Tillverkningsnummer": "28-8016081",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-06",
         "Registreringsdatum": "1987-10-26",
         "owners_amount": 1,
         "owners": [
@@ -62475,7 +62479,7 @@
         "Tillverkningsnummer": "51214",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "1882,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-02",
         "Registreringsdatum": "2010-11-29",
         "owners_amount": 1,
         "owners": [
@@ -64456,7 +64460,7 @@
         "Tillverkningsnummer": "5726",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "2600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-17",
         "Registreringsdatum": "2011-07-12",
         "owners_amount": 1,
         "owners": [
@@ -65385,7 +65389,7 @@
         "Tillverkningsnummer": "69044",
         "Tillverkningsår": "2017",
         "Max startvikt (kg)": "4800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-03",
         "Registreringsdatum": "2017-05-03",
         "owners_amount": 1,
         "owners": [
@@ -65965,7 +65969,7 @@
         "Tillverkningsnummer": "7624",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-08",
         "Registreringsdatum": "2016-12-27",
         "owners_amount": 1,
         "owners": [
@@ -66772,7 +66776,7 @@
         "Tillverkningsnummer": "8958",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-08",
         "Registreringsdatum": "2021-05-07",
         "owners_amount": 1,
         "owners": [
@@ -68471,10 +68475,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 597334,
-                "name": "NiPi Invest AB",
-                "address": "Box 24124 400 22 GÖTEBORG Sweden",
-                "since": "2024-07-08"
+                "id": 746950,
+                "name": "HELIMONTBLANC SRL",
+                "address": "Frazione Palleusieux, Route Mont Blanc 20/B IT-11010 PRE' SAINT DIDIER (AO) Italy",
+                "since": "2026-05-08"
             }
         ]
     },
@@ -68985,7 +68989,7 @@
         "Tillverkningsnummer": "789",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "1400,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-23",
         "Registreringsdatum": "1988-01-26",
         "owners_amount": 1,
         "owners": [
@@ -70087,7 +70091,7 @@
         "Tillverkningsnummer": "8034",
         "Tillverkningsår": "1988",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-30",
         "Registreringsdatum": "1988-12-21",
         "owners_amount": 1,
         "owners": []
@@ -70728,7 +70732,7 @@
                 "type": "Registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2017-09-13"
             }
         ]
@@ -71079,7 +71083,7 @@
         "Tillverkningsnummer": "17273654",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "1043,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-01",
         "Registreringsdatum": "1988-06-20",
         "owners_amount": 1,
         "owners": [
@@ -71533,7 +71537,7 @@
         "Tillverkningsnummer": "91-259-1275",
         "Tillverkningsår": "1953",
         "Max startvikt (kg)": "1165,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1989-05-17",
         "owners_amount": 1,
         "owners": [
@@ -73378,6 +73382,9 @@
     },
     {
         "code": "SE-KMM",
+        "Avregistrerad": "2026-05-06",
+        "Orsak": "Exported",
+        "Land": "Norway",
         "Luftfartygstyp": "PIPER-PA28R-201T",
         "Tillverkningsnummer": "7703102",
         "Tillverkningsår": "1977",
@@ -73750,7 +73757,7 @@
         "Tillverkningsnummer": "28-8390071",
         "Tillverkningsår": "1983",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-01",
         "Registreringsdatum": "1990-06-08",
         "owners_amount": 2,
         "owners": [
@@ -77020,7 +77027,7 @@
         "Tillverkningsnummer": "152-81671",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "760,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-21",
         "Registreringsdatum": "1995-05-19",
         "owners_amount": 1,
         "owners": []
@@ -78195,7 +78202,7 @@
         "Tillverkningsnummer": "2049",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "1020,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-03",
         "Registreringsdatum": "1994-04-14",
         "owners_amount": 1,
         "owners": [
@@ -84169,7 +84176,7 @@
         "Tillverkningsnummer": "2843681",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-17",
         "Registreringsdatum": "2019-01-07",
         "owners_amount": 1,
         "owners": [
@@ -84792,7 +84799,7 @@
         "Tillverkningsnummer": "BB-582",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "5670,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2004-05-05",
         "owners_amount": 1,
         "owners": [
@@ -84951,7 +84958,7 @@
         "Tillverkningsnummer": "2000-063",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "22999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-10",
         "Registreringsdatum": "2003-07-15",
         "owners_amount": 1,
         "owners": [
@@ -85589,7 +85596,7 @@
         "Tillverkningsnummer": "U206-00388",
         "Tillverkningsår": "1965",
         "Max startvikt (kg)": "1588,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-14",
         "Registreringsdatum": "2011-04-12",
         "owners_amount": 1,
         "owners": [
@@ -85878,7 +85885,7 @@
         "Tillverkningsnummer": "F182-0154",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "1338,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-05",
         "Registreringsdatum": "2009-06-18",
         "owners_amount": 2,
         "owners": [
@@ -85926,7 +85933,7 @@
         "Tillverkningsnummer": "34-8070232",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "1999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-07",
         "Registreringsdatum": "2010-09-01",
         "owners_amount": 1,
         "owners": []
@@ -86387,6 +86394,9 @@
     },
     {
         "code": "SE-LYP",
+        "Avregistrerad": "2026-05-06",
+        "Orsak": "Exported",
+        "Land": "Spain",
         "Luftfartygstyp": "CIRRUS-SR20",
         "Tillverkningsnummer": "1773",
         "Tillverkningsår": "2007",
@@ -86446,7 +86456,7 @@
         "Tillverkningsnummer": "6073",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "771,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-08",
         "Registreringsdatum": "2006-05-11",
         "owners_amount": 1,
         "owners": []
@@ -89275,6 +89285,25 @@
         ]
     },
     {
+        "code": "SE-MFT",
+        "Luftfartygstyp": "AVIAT-A-1B",
+        "Tillverkningsnummer": "2206",
+        "Tillverkningsår": "2003",
+        "Max startvikt (kg)": "907,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-05-04",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 511927,
+                "name": "SylBer Aviation HB",
+                "address": "Sweden",
+                "since": "2026-05-04"
+            }
+        ]
+    },
+    {
         "code": "SE-MFU",
         "Avregistrerad": "2021-01-08",
         "Orsak": "Exported",
@@ -89321,7 +89350,7 @@
         "Tillverkningsnummer": "DY-448/2012 LSA",
         "Tillverkningsår": "2012",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-14",
         "Registreringsdatum": "2025-04-08",
         "owners_amount": 1,
         "owners": [
@@ -91556,7 +91585,7 @@
         "Tillverkningsnummer": "EA-683",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "1746,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-05",
         "Registreringsdatum": "2016-06-27",
         "owners_amount": 1,
         "owners": [
@@ -91665,7 +91694,7 @@
         "Tillverkningsnummer": "1351",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "816,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-26",
         "Registreringsdatum": "2018-12-03",
         "owners_amount": 1,
         "owners": [
@@ -97204,7 +97233,7 @@
         "Tillverkningsnummer": "560-0537",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "7394,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-24",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-24",
         "Registreringsdatum": "2015-05-05",
         "owners_amount": 1,
         "owners": [
@@ -97507,7 +97536,7 @@
         "Tillverkningsnummer": "60122",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "45132,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-13",
         "Registreringsdatum": "2024-05-14",
         "owners_amount": 1,
         "owners": [
@@ -98203,7 +98232,7 @@
         "Tillverkningsnummer": "9032",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-25",
         "Registreringsdatum": "2019-06-27",
         "owners_amount": 3,
         "owners": [
@@ -98315,7 +98344,7 @@
         "Tillverkningsnummer": "9451",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-29",
         "Registreringsdatum": "2020-01-14",
         "owners_amount": 1,
         "owners": [
@@ -100476,7 +100505,7 @@
         "Tillverkningsnummer": "12087",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-22",
         "Registreringsdatum": "2024-05-23",
         "owners_amount": 1,
         "owners": [
@@ -101251,7 +101280,7 @@
         "Tillverkningsnummer": "3.MD064",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-25",
         "Registreringsdatum": "2020-02-13",
         "owners_amount": 1,
         "owners": []
@@ -101588,7 +101617,7 @@
         "Tillverkningsnummer": "8434",
         "Tillverkningsår": "2002",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-18",
         "Registreringsdatum": "2014-12-08",
         "owners_amount": 2,
         "owners": []
@@ -101805,14 +101834,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -103545,14 +103574,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -105015,18 +105044,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -105114,7 +105143,7 @@
                 "type": "Registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2011-08-03"
             }
         ]
@@ -105956,14 +105985,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -108653,7 +108682,7 @@
         "Max startvikt (kg)": "500,0",
         "Luftvärdighetshandling giltig t.o.m.": "2027-03-01",
         "Registreringsdatum": "1979-05-15",
-        "owners_amount": 2,
+        "owners_amount": 1,
         "owners": []
     },
     {
@@ -108890,7 +108919,7 @@
         "Tillverkningsnummer": "19329",
         "Tillverkningsår": "1981",
         "Max startvikt (kg)": "455,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-25",
         "Registreringsdatum": "1981-03-16",
         "owners_amount": 1,
         "owners": [
@@ -109440,7 +109469,7 @@
         "Tillverkningsnummer": "E-103-G73",
         "Tillverkningsår": "1982",
         "Max startvikt (kg)": "420,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2020-05-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "1982-06-28",
         "owners_amount": 1,
         "owners": [
@@ -110234,7 +110263,7 @@
         "Tillverkningsnummer": "6348",
         "Tillverkningsår": "1985",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-19",
         "Registreringsdatum": "1985-05-14",
         "owners_amount": 1,
         "owners": [
@@ -111011,7 +111040,7 @@
                 "type": "Registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2012-11-19"
             }
         ]
@@ -111435,7 +111464,7 @@
         "Tillverkningsnummer": "6296",
         "Tillverkningsår": "1984",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-15",
         "Registreringsdatum": "2006-07-21",
         "owners_amount": 1,
         "owners": [
@@ -111565,7 +111594,7 @@
                 "type": "Senast registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2008-01-16"
             }
         ]
@@ -111849,7 +111878,7 @@
         "Tillverkningsnummer": "157",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-25",
         "Registreringsdatum": "1987-04-28",
         "owners_amount": 1,
         "owners": [
@@ -112038,7 +112067,7 @@
                 "type": "Registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2008-05-21"
             }
         ]
@@ -112199,7 +112228,7 @@
                 "type": "Registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2008-01-16"
             }
         ]
@@ -112783,7 +112812,7 @@
         "Tillverkningsnummer": "7018",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "486,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-05-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-25",
         "Registreringsdatum": "1990-04-11",
         "owners_amount": 1,
         "owners": []
@@ -113548,7 +113577,7 @@
         "Tillverkningsnummer": "3.MD177",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-03",
         "Registreringsdatum": "2025-04-16",
         "owners_amount": 1,
         "owners": []
@@ -114458,7 +114487,7 @@
         "Tillverkningsnummer": "3538",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "580,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-21",
         "Registreringsdatum": "1997-04-18",
         "owners_amount": 1,
         "owners": [
@@ -114538,7 +114567,7 @@
         "Tillverkningsnummer": "36005",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-18",
         "Registreringsdatum": "1999-05-03",
         "owners_amount": 1,
         "owners": [
@@ -115028,7 +115057,7 @@
                 "type": "Registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2008-01-23"
             }
         ]
@@ -115137,7 +115166,7 @@
         "Tillverkningsnummer": "8061",
         "Tillverkningsår": "1996",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-25",
         "Registreringsdatum": "2002-06-13",
         "owners_amount": 1,
         "owners": [
@@ -115522,7 +115551,7 @@
         "Tillverkningsnummer": "8-276B184",
         "Tillverkningsår": "2002",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-06",
         "Registreringsdatum": "2008-03-18",
         "owners_amount": 1,
         "owners": []
@@ -115610,7 +115639,7 @@
         "Tillverkningsnummer": "42",
         "Tillverkningsår": "1996",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-05",
         "Registreringsdatum": "1997-04-04",
         "owners_amount": 1,
         "owners": []
@@ -115646,7 +115675,7 @@
         "Tillverkningsnummer": "8166",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-25",
         "Registreringsdatum": "1998-04-06",
         "owners_amount": 1,
         "owners": []
@@ -115671,7 +115700,7 @@
         "Tillverkningsnummer": "36.825",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "770,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-07",
         "Registreringsdatum": "2009-01-26",
         "owners_amount": 1,
         "owners": [
@@ -115690,7 +115719,7 @@
         "Tillverkningsnummer": "6-45 M3",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-02",
         "Registreringsdatum": "2000-06-20",
         "owners_amount": 2,
         "owners": []
@@ -117503,7 +117532,7 @@
         "Tillverkningsnummer": "26115",
         "Tillverkningsår": "1996",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-27",
         "Registreringsdatum": "2014-05-16",
         "owners_amount": 2,
         "owners": []
@@ -117571,7 +117600,7 @@
                 "type": "Registrerad ägare",
                 "id": 505130,
                 "name": "Segelflygarna Uppsala Flygklubb",
-                "address": "Sundbro 425 740 22 BÄLINGE Sweden",
+                "address": "Sundbro 425 74382 BÄLINGE Sweden",
                 "since": "2016-04-08"
             }
         ]
@@ -117615,7 +117644,7 @@
         "Tillverkningsnummer": "21691",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "2015-06-11",
         "owners_amount": 1,
         "owners": [
@@ -117634,7 +117663,7 @@
         "Tillverkningsnummer": "21634",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-25",
         "Registreringsdatum": "2013-05-06",
         "owners_amount": 1,
         "owners": [
@@ -118825,6 +118854,25 @@
                 "name": "Blackwing Sweden AB",
                 "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
                 "since": "2026-03-04"
+            }
+        ]
+    },
+    {
+        "code": "SE-V45",
+        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Tillverkningsnummer": "045",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-05-04",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 538768,
+                "name": "Blackwing Sweden AB",
+                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
+                "since": "2026-05-04"
             }
         ]
     },
@@ -120572,7 +120620,7 @@
         "Tillverkningsnummer": "488-1153",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "495,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-10",
         "Registreringsdatum": "2011-07-15",
         "owners_amount": 2,
         "owners": []
@@ -122233,7 +122281,7 @@
         "Tillverkningsnummer": "380",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "544,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-15",
         "Registreringsdatum": "2009-06-04",
         "owners_amount": 5,
         "owners": []
@@ -123016,7 +123064,7 @@
         "Tillverkningsnummer": "DY-478/2013",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-07-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-07-05",
         "Registreringsdatum": "2013-07-15",
         "owners_amount": 1,
         "owners": [
@@ -124134,7 +124182,7 @@
         "Tillverkningsnummer": "301",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-03-08",
         "Registreringsdatum": "2012-02-29",
         "owners_amount": 1,
         "owners": []
@@ -124253,7 +124301,7 @@
         "Tillverkningsnummer": "560/2021",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-04",
         "Registreringsdatum": "2021-03-24",
         "owners_amount": 1,
         "owners": [
@@ -124304,7 +124352,7 @@
         "Tillverkningsnummer": "13-10-65EK-0011-1522",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2016-10-05",
         "owners_amount": 1,
         "owners": []
@@ -124751,7 +124799,7 @@
         "Tillverkningsnummer": "09961041",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-25",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-25",
         "Registreringsdatum": "2020-01-09",
         "owners_amount": 2,
         "owners": []
@@ -125128,7 +125176,7 @@
         "Tillverkningsnummer": "7-9855-1329",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "2022-04-21",
         "owners_amount": 1,
         "owners": []
@@ -125275,7 +125323,7 @@
         "Tillverkningsnummer": "41994",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "1227,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-09",
         "Registreringsdatum": "2026-04-02",
         "owners_amount": 1,
         "owners": []
@@ -125614,7 +125662,7 @@
         "Tillverkningsnummer": "09220284-1635",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "816,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2024-06-05",
         "owners_amount": 1,
         "owners": []
@@ -126363,7 +126411,7 @@
         "Tillverkningsnummer": "726-91",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "545,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1992-02-03",
         "owners_amount": 1,
         "owners": []
@@ -127496,7 +127544,7 @@
         "Tillverkningsnummer": "70341-1126",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "817,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2008-05-29",
         "owners_amount": 1,
         "owners": []
@@ -128086,7 +128134,7 @@
         "Tillverkningsnummer": "493-749",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "764,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-06",
         "Registreringsdatum": "1999-05-26",
         "owners_amount": 1,
         "owners": []
@@ -128904,7 +128952,7 @@
         "Tillverkningsnummer": "7410-1543",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "2015-08-05",
         "owners_amount": 1,
         "owners": []
@@ -129077,7 +129125,7 @@
         "Tillverkningsnummer": "81319-1113",
         "Tillverkningsår": "2017",
         "Max startvikt (kg)": "816,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2017-06-19",
         "owners_amount": 1,
         "owners": []
@@ -129348,7 +129396,7 @@
         "Tillverkningsnummer": "25191-1227",
         "Tillverkningsår": "2002",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2005-07-21",
         "owners_amount": 1,
         "owners": []
@@ -130055,7 +130103,7 @@
         "Tillverkningsnummer": "226-1313",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "910,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2006-06-20",
         "owners_amount": 1,
         "owners": [
@@ -130107,7 +130155,7 @@
         "Tillverkningsnummer": "009-13485-1561",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "522,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2017-03-16",
         "owners_amount": 1,
         "owners": []
@@ -135772,7 +135820,7 @@
         "Tillverkningsnummer": "11314",
         "Tillverkningsår": "2009",
         "Max startvikt (kg)": "1270,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2024-09-16",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-01",
         "Registreringsdatum": "2023-04-26",
         "owners_amount": 1,
         "owners": [
@@ -139358,7 +139406,7 @@
         "Tillverkningsnummer": "12599",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "1088,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-11",
         "Registreringsdatum": "2023-05-09",
         "owners_amount": 1,
         "owners": [
@@ -139510,7 +139558,7 @@
         "Tillverkningsnummer": "1413",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "1040,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-02",
         "Registreringsdatum": "2018-04-20",
         "owners_amount": 1,
         "owners": [
@@ -139916,7 +139964,7 @@
         "Tillverkningsnummer": "10763",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "816,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-28",
         "Registreringsdatum": "2021-07-09",
         "owners_amount": 1,
         "owners": [
