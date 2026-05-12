@@ -1,11 +1,8 @@
 {
-    "added_count": 2,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7840,
-    "added": [
-        "SE-MFT",
-        "SE-V45"
-    ],
+    "changed_count": 7842,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -4639,6 +4636,7 @@
         "SE-MFP",
         "SE-MFR",
         "SE-MFS",
+        "SE-MFT",
         "SE-MFU",
         "SE-MFV",
         "SE-MFX",
@@ -6251,6 +6249,7 @@
         "SE-V39",
         "SE-V41",
         "SE-V43",
+        "SE-V45",
         "SE-VAA",
         "SE-VAB",
         "SE-VAC",
