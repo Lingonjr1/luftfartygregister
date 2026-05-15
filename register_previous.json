@@ -91382,7 +91382,7 @@
         "Tillverkningsnummer": "12247",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "1134,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-29",
         "Registreringsdatum": "2008-05-20",
         "owners": [
             {
@@ -94357,7 +94357,7 @@
         "Tillverkningsnummer": "8242",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2016-05-27",
         "owners": [
             {
@@ -94716,7 +94716,7 @@
         "Tillverkningsnummer": "69069",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "4800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-14",
         "Registreringsdatum": "2018-05-15",
         "owners": [
             {
@@ -100596,7 +100596,7 @@
         "Tillverkningsnummer": "2816072",
         "Tillverkningsår": "1988",
         "Max startvikt (kg)": "1107,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-13",
         "Registreringsdatum": "1988-11-11",
         "owners": [
             {
@@ -113267,7 +113267,7 @@
         "Tillverkningsnummer": "2843237",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-20",
         "Registreringsdatum": "1999-07-23",
         "owners": [
             {
@@ -119039,6 +119039,9 @@
     },
     {
         "code": "SE-LOM",
+        "Avregistrerad": "2026-05-15",
+        "Orsak": "Exported",
+        "Land": "Denmark",
         "Luftfartygstyp": "SAAB-2000",
         "Tillverkningsnummer": "2000-035",
         "Tillverkningsår": "1996",
@@ -119047,7 +119050,7 @@
         "Registreringsdatum": "2018-10-31",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 727924,
                 "name": "Empterwik Rental AB",
                 "address": "Sweden",
@@ -120249,6 +120252,31 @@
                 "name": "Skyrocket AB",
                 "address": "Armegränd 1 831 32 ÖSTERSUND Sweden",
                 "since": "2025-07-31"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-LRR",
+        "Luftfartygstyp": "AEROPRAKT-A32",
+        "Tillverkningsnummer": "383",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-05-13",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 502627,
+                "name": "Mellansels Flygklubb",
+                "address": "Sweden",
+                "since": "2026-05-13"
             },
             {
                 "type": "Registrerad innehavare",
@@ -126223,7 +126251,7 @@
         "Tillverkningsnummer": "28R-7931165",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "1315,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-06-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-03",
         "Registreringsdatum": "2013-02-04",
         "owners": [
             {
@@ -142024,7 +142052,7 @@
         "Tillverkningsnummer": "10051",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-26",
         "Registreringsdatum": "2020-12-18",
         "owners": [
             {
@@ -165402,7 +165430,7 @@
         "Tillverkningsnummer": "101A0276",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "455,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-10-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-11",
         "Registreringsdatum": "2003-08-12",
         "owners": [
             {
@@ -170959,7 +170987,7 @@
         "Tillverkningsnummer": "4-184",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "480,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-12",
         "Registreringsdatum": "2012-02-29",
         "owners": [
             {
