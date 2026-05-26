@@ -1,10 +1,8 @@
 {
-    "added_count": 1,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7843,
-    "added": [
-        "SE-HZF"
-    ],
+    "changed_count": 7844,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -2592,6 +2590,7 @@
         "SE-HZB",
         "SE-HZC",
         "SE-HZD",
+        "SE-HZF",
         "SE-HZH",
         "SE-HZJ",
         "SE-HZM",
