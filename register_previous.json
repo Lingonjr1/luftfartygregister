@@ -6923,7 +6923,7 @@
         "Tillverkningsnummer": "CA 14141-1180",
         "Tillverkningsår": "1941",
         "Max startvikt (kg)": "565,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1992-12-18",
         "owners": [
             {
@@ -11572,7 +11572,7 @@
         "Tillverkningsnummer": "85867-73",
         "Tillverkningsår": "1943",
         "Max startvikt (kg)": "830,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1959-09-11",
         "owners": [
             {
@@ -56104,10 +56104,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503771,
-                "name": "Ensio Invest AB",
-                "address": "Box 4146 181 04 LIDINGÖ Sweden",
-                "since": "2002-05-07"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -71485,7 +71485,7 @@
         "Tillverkningsnummer": "9920",
         "Tillverkningsår": "2026",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-26",
         "Registreringsdatum": "2026-05-20",
         "owners": [
             {
@@ -131397,7 +131397,7 @@
     },
     {
         "code": "SE-MMK",
-        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Luftfartygstyp": "BLACKWING-BW-650SW",
         "Tillverkningsnummer": "029",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "600,0",
@@ -162994,7 +162994,7 @@
         "Tillverkningsnummer": "20101",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-27",
         "Registreringsdatum": "2025-05-09",
         "owners": [
             {
@@ -180273,13 +180273,6 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,

@@ -4510,7 +4510,7 @@
         "Tillverkningsnummer": "CA 14141-1180",
         "Tillverkningsår": "1941",
         "Max startvikt (kg)": "565,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1992-12-18",
         "owners_amount": 1,
         "owners": []
@@ -7739,7 +7739,7 @@
         "Tillverkningsnummer": "85867-73",
         "Tillverkningsår": "1943",
         "Max startvikt (kg)": "830,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1959-09-11",
         "owners_amount": 11,
         "owners": []
@@ -38195,15 +38195,7 @@
         "Luftvärdighetshandling giltig t.o.m.": "2027-02-14",
         "Registreringsdatum": "1976-04-07",
         "owners_amount": 1,
-        "owners": [
-            {
-                "type": "Registrerad ägare",
-                "id": 503771,
-                "name": "Ensio Invest AB",
-                "address": "Box 4146 181 04 LIDINGÖ Sweden",
-                "since": "2002-05-07"
-            }
-        ]
+        "owners": []
     },
     {
         "code": "SE-GNG",
@@ -49010,7 +49002,7 @@
         "Tillverkningsnummer": "9920",
         "Tillverkningsår": "2026",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-26",
         "Registreringsdatum": "2026-05-20",
         "owners_amount": 1,
         "owners": [
@@ -92216,7 +92208,7 @@
     },
     {
         "code": "SE-MMK",
-        "Luftfartygstyp": "BLACKWING-BW-650",
+        "Luftfartygstyp": "BLACKWING-BW-650SW",
         "Tillverkningsnummer": "029",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "600,0",
@@ -103612,14 +103604,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -105082,18 +105074,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -105934,18 +105926,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },
@@ -113604,7 +113596,7 @@
         "Tillverkningsnummer": "20101",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-27",
         "Registreringsdatum": "2025-05-09",
         "owners_amount": 1,
         "owners": []
@@ -123134,7 +123126,7 @@
         "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-06-15",
         "Registreringsdatum": "2012-10-22",
-        "owners_amount": 2,
+        "owners_amount": 1,
         "owners": []
     },
     {
