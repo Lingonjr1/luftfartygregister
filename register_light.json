@@ -4249,7 +4249,7 @@
         "Tillverkningsnummer": "L-4 43-30530",
         "Tillverkningsår": "1943",
         "Max startvikt (kg)": "530,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1949-05-17",
         "owners_amount": 1,
         "owners": []
@@ -51071,7 +51071,7 @@
         "Tillverkningsnummer": "FR18200047",
         "Tillverkningsår": "1980",
         "Max startvikt (kg)": "1406,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-03",
         "Registreringsdatum": "1980-05-08",
         "owners_amount": 1,
         "owners": [
@@ -89316,7 +89316,7 @@
         "Luftfartygstyp": "AVIAT-A-1B",
         "Tillverkningsnummer": "2206",
         "Tillverkningsår": "2003",
-        "Max startvikt (kg)": "907,0",
+        "Max startvikt (kg)": "1020,0",
         "Luftvärdighetshandling giltig t.o.m.": null,
         "Registreringsdatum": "2026-05-04",
         "owners_amount": 1,
@@ -92707,7 +92707,7 @@
         "Tillverkningsnummer": "1262",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "22800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-11",
         "Registreringsdatum": "2025-06-12",
         "owners_amount": 1,
         "owners": [
@@ -101099,6 +101099,9 @@
     },
     {
         "code": "SE-RZD",
+        "Avregistrerad": "2026-05-29",
+        "Orsak": "Exported",
+        "Land": "Ireland",
         "Luftfartygstyp": "AIRBUS-A320-251N",
         "Tillverkningsnummer": "12110",
         "Tillverkningsår": "2024",
@@ -101108,7 +101111,7 @@
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 503770,
                 "name": "SAS Sverige AB",
                 "address": "Sweden",
@@ -101864,14 +101867,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102313,14 +102316,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103604,14 +103607,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104371,14 +104374,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -105074,18 +105077,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -106015,14 +106018,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -119045,7 +119048,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20031711",
         "Tillverkningsår": "2003",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2005-09-05",
         "Registreringsdatum": "2003-09-05",
         "owners_amount": 1,
@@ -119064,7 +119067,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20010907",
         "Tillverkningsår": "2001",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-07-30",
         "Registreringsdatum": "2001-06-11",
         "owners_amount": 1,
@@ -119091,7 +119094,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20031710",
         "Tillverkningsår": "2003",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2012-09-18",
         "Registreringsdatum": "2003-09-18",
         "owners_amount": 1,
@@ -120696,7 +120699,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20042202",
         "Tillverkningsår": "2004",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2023-09-16",
         "Registreringsdatum": "2004-09-10",
         "owners_amount": 1,
@@ -120740,7 +120743,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20031720",
         "Tillverkningsår": "2003",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2027-04-28",
         "Registreringsdatum": "2004-12-06",
         "owners_amount": 2,
@@ -120773,7 +120776,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20031713",
         "Tillverkningsår": "2003",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2025-10-17",
         "Registreringsdatum": "2004-12-01",
         "owners_amount": 1,
@@ -121219,7 +121222,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20031804",
         "Tillverkningsår": "2003",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2022-07-12",
         "Registreringsdatum": "2006-07-20",
         "owners_amount": 1,
@@ -121260,7 +121263,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20052602",
         "Tillverkningsår": "2005",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-04-27",
         "Registreringsdatum": "2005-10-19",
         "owners_amount": 1,
@@ -121279,7 +121282,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20042105",
         "Tillverkningsår": "2004",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-05-08",
         "Registreringsdatum": "2004-10-27",
         "owners_amount": 1,
@@ -121303,7 +121306,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20031719",
         "Tillverkningsår": "2003",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2005-11-04",
         "Registreringsdatum": "2004-11-30",
         "owners_amount": 1,
@@ -121358,7 +121361,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20052608",
         "Tillverkningsår": "2005",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-06-17",
         "Registreringsdatum": "2005-11-04",
         "owners_amount": 1,
@@ -121880,7 +121883,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "2006 2714",
         "Tillverkningsår": "2006",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-05-15",
         "Registreringsdatum": "2006-05-05",
         "owners_amount": 1,
@@ -121977,7 +121980,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20062805",
         "Tillverkningsår": "2006",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2027-03-15",
         "Registreringsdatum": "2006-08-09",
         "owners_amount": 1,
@@ -122343,7 +122346,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "20072921",
         "Tillverkningsår": "2007",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2024-06-25",
         "Registreringsdatum": "2007-06-26",
         "owners_amount": 1,
@@ -124513,7 +124516,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "2001-1007",
         "Tillverkningsår": "2001",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-12-27",
         "Registreringsdatum": "2016-11-30",
         "owners_amount": 1,
@@ -124584,7 +124587,7 @@
         "Luftfartygstyp": "IKARUS-C42E",
         "Tillverkningsnummer": "1804-7529",
         "Tillverkningsår": "2018",
-        "Max startvikt (kg)": "472,5",
+        "Max startvikt (kg)": "540,0",
         "Luftvärdighetshandling giltig t.o.m.": "2027-02-02",
         "Registreringsdatum": "2018-07-13",
         "owners_amount": 1,
@@ -124869,7 +124872,7 @@
         "Luftfartygstyp": "EV-97 EUROSTAR",
         "Tillverkningsnummer": "2004 2020",
         "Tillverkningsår": "2004",
-        "Max startvikt (kg)": "480,0",
+        "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-07-14",
         "Registreringsdatum": "2021-05-07",
         "owners_amount": 1,
