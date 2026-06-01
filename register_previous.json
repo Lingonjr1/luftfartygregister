@@ -5865,7 +5865,7 @@
         "Tillverkningsnummer": "12672",
         "Tillverkningsår": "1944",
         "Max startvikt (kg)": "590,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1954-02-15",
         "owners": [
             {
@@ -5981,7 +5981,7 @@
         "Tillverkningsnummer": "12904-344",
         "Tillverkningsår": "1944",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1985-06-25",
         "owners": [
             {
@@ -30771,7 +30771,7 @@
         "Tillverkningsnummer": "25-2230-1189",
         "Tillverkningsår": "1962",
         "Max startvikt (kg)": "1000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1963-03-21",
         "owners": [
             {
@@ -33632,7 +33632,7 @@
         "Tillverkningsnummer": "28-2185",
         "Tillverkningsår": "1965",
         "Max startvikt (kg)": "1090,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-18",
         "Registreringsdatum": "1993-02-02",
         "owners": [
             {
@@ -36104,7 +36104,7 @@
         "Tillverkningsnummer": "18-8347",
         "Tillverkningsår": "1965",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-30",
         "Registreringsdatum": "1966-05-31",
         "owners": [
             {
@@ -46467,7 +46467,7 @@
         "Tillverkningsnummer": "25-5235-1335",
         "Tillverkningsår": "1971",
         "Max startvikt (kg)": "999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2011-04-20",
         "owners": [
             {
@@ -56124,7 +56124,7 @@
         "Tillverkningsnummer": "28-7615216",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-29",
         "Registreringsdatum": "1976-06-21",
         "owners": [
             {
@@ -57185,7 +57185,7 @@
         "Tillverkningsnummer": "28-7790291",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-07",
         "Registreringsdatum": "1977-08-31",
         "owners": [
             {
@@ -58148,7 +58148,7 @@
         "Tillverkningsnummer": "107-1058",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "780,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1977-07-19",
         "owners": [
             {
@@ -60480,7 +60480,7 @@
         "Tillverkningsnummer": "F17201740",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-05-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-30",
         "Registreringsdatum": "1978-10-04",
         "owners": [
             {
@@ -73072,7 +73072,7 @@
         "Tillverkningsnummer": "28-7990372",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-04",
         "Registreringsdatum": "1980-11-20",
         "owners": [
             {
@@ -74820,7 +74820,7 @@
         "Tillverkningsnummer": "91.262",
         "Tillverkningsår": "1953",
         "Max startvikt (kg)": "1165,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2010-05-31",
         "owners": [
             {
@@ -91166,7 +91166,7 @@
         "Tillverkningsnummer": "45011",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "1812,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-04",
         "Registreringsdatum": "2023-05-30",
         "owners": [
             {
@@ -94814,6 +94814,9 @@
     },
     {
         "code": "SE-JSM",
+        "Avregistrerad": "2026-06-01",
+        "Orsak": "Exported",
+        "Land": "Spain",
         "Luftfartygstyp": "MBB-BK117-D2",
         "Tillverkningsnummer": "20025",
         "Tillverkningsår": "2015",
@@ -94822,14 +94825,14 @@
         "Registreringsdatum": "2021-08-04",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 500483,
                 "name": "Avincis Aviation Sweden AB",
                 "address": "Stockevägen 68 832 56 Frösön Sweden",
                 "since": "2021-08-04"
             },
             {
-                "type": "Registrerad innehavare",
+                "type": "Senast registrerad innehavare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -94917,6 +94920,9 @@
     },
     {
         "code": "SE-JSR",
+        "Avregistrerad": "2026-06-01",
+        "Orsak": "Exported",
+        "Land": "Spain",
         "Luftfartygstyp": "MBB-BK117-D2",
         "Tillverkningsnummer": "20191",
         "Tillverkningsår": "2018",
@@ -94925,14 +94931,14 @@
         "Registreringsdatum": "2018-02-21",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 500483,
                 "name": "Avincis Aviation Sweden AB",
                 "address": "Stockevägen 68 832 56 Frösön Sweden",
                 "since": "2018-02-21"
             },
             {
-                "type": "Registrerad innehavare",
+                "type": "Senast registrerad innehavare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -97199,7 +97205,7 @@
         "Tillverkningsnummer": "1366",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-21",
         "Registreringsdatum": "2017-03-20",
         "owners": [
             {
@@ -101054,7 +101060,7 @@
         "Tillverkningsnummer": "17274993",
         "Tillverkningsår": "1981",
         "Max startvikt (kg)": "1089,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1989-07-03",
         "owners": [
             {
@@ -108209,7 +108215,7 @@
         "Tillverkningsnummer": "17272593",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "1043,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-29",
         "Registreringsdatum": "2000-08-29",
         "owners": [
             {
@@ -111029,7 +111035,7 @@
         "Tillverkningsnummer": "91237",
         "Tillverkningsår": "1953",
         "Max startvikt (kg)": "1165,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2005-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-29",
         "Registreringsdatum": "1993-11-22",
         "owners": [
             {
@@ -117786,7 +117792,7 @@
         "Tillverkningsnummer": "971",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "1400,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-17",
         "Registreringsdatum": "2006-04-20",
         "owners": [
             {
@@ -121217,7 +121223,7 @@
         "Tillverkningsnummer": "D4.086",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "1150,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-03",
         "Registreringsdatum": "2004-04-27",
         "owners": [
             {
@@ -121242,7 +121248,7 @@
         "Tillverkningsnummer": "20226",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "20820,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-19",
         "Registreringsdatum": "2018-12-14",
         "owners": [
             {
@@ -123587,7 +123593,7 @@
         "Tillverkningsnummer": "17281241",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1111,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-07",
         "Registreringsdatum": "2005-10-13",
         "owners": [
             {
@@ -124164,7 +124170,7 @@
         "Tillverkningsnummer": "631",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "19505,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-30",
         "Registreringsdatum": "2008-06-25",
         "owners": [
             {
@@ -184546,17 +184552,15 @@
     },
     {
         "code": "SE-XCL",
-        "Avregistrerad": "2009-12-18",
-        "Orsak": "Owners request",
         "Luftfartygstyp": "CASSUTT-III M",
-        "Tillverkningsnummer": "SE 75-01",
+        "Tillverkningsnummer": "SE 75-01-920",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "440,0",
-        "Luftvärdighetshandling giltig t.o.m.": "1978-12-31",
-        "Registreringsdatum": "1976-08-04",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-06-01",
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -187972,7 +187976,7 @@
         "Tillverkningsnummer": "72165-1263",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "816,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2009-11-25",
         "owners": [
             {
@@ -189012,7 +189016,7 @@
         "Tillverkningsnummer": "562-97",
         "Tillverkningsår": "1993",
         "Max startvikt (kg)": "684,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2005-06-27",
         "owners": [
             {
@@ -189069,7 +189073,7 @@
         "Tillverkningsnummer": "569-698",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "1993-06-30",
         "owners": [
             {
@@ -191448,7 +191452,7 @@
         "Tillverkningsnummer": "1405-1066",
         "Tillverkningsår": "1983",
         "Max startvikt (kg)": "505,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2002-06-13",
         "owners": [
             {
@@ -192539,7 +192543,7 @@
         "Tillverkningsnummer": "23563-937",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2004-06-18",
         "owners": [
             {
@@ -207709,8 +207713,8 @@
             {
                 "type": "Senast registrerad ägare",
                 "id": 504424,
-                "name": "Ballongfirman Far & Flyg AB",
-                "address": "Knivsta Åby 16 741 92 KNIVSTA Sweden",
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
                 "since": "2003-02-13"
             },
             {
@@ -207928,8 +207932,8 @@
             {
                 "type": "Senast registrerad ägare",
                 "id": 504424,
-                "name": "Ballongfirman Far & Flyg AB",
-                "address": "Knivsta Åby 16 741 92 KNIVSTA Sweden",
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
                 "since": "1989-05-24"
             },
             {
@@ -208174,8 +208178,8 @@
             {
                 "type": "Senast registrerad ägare",
                 "id": 504424,
-                "name": "Ballongfirman Far & Flyg AB",
-                "address": "Knivsta Åby 16 741 92 KNIVSTA Sweden",
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
                 "since": "1990-05-11"
             },
             {
@@ -209489,8 +209493,8 @@
             {
                 "type": "Senast registrerad ägare",
                 "id": 504424,
-                "name": "Ballongfirman Far & Flyg AB",
-                "address": "Knivsta Åby 16 741 92 KNIVSTA Sweden",
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
                 "since": "1995-03-30"
             },
             {
@@ -209544,8 +209548,8 @@
             {
                 "type": "Senast registrerad ägare",
                 "id": 504424,
-                "name": "Ballongfirman Far & Flyg AB",
-                "address": "Knivsta Åby 16 741 92 KNIVSTA Sweden",
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
                 "since": "1995-08-11"
             },
             {
@@ -209733,8 +209737,8 @@
             {
                 "type": "Senast registrerad ägare",
                 "id": 504424,
-                "name": "Ballongfirman Far & Flyg AB",
-                "address": "Knivsta Åby 16 741 92 KNIVSTA Sweden",
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
                 "since": "1997-02-14"
             },
             {
@@ -210186,8 +210190,8 @@
             {
                 "type": "Senast registrerad ägare",
                 "id": 504424,
-                "name": "Ballongfirman Far & Flyg AB",
-                "address": "Knivsta Åby 16 741 92 KNIVSTA Sweden",
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
                 "since": "1997-04-11"
             },
             {
@@ -211264,8 +211268,8 @@
             {
                 "type": "Senast registrerad ägare",
                 "id": 504424,
-                "name": "Ballongfirman Far & Flyg AB",
-                "address": "Knivsta Åby 16 741 92 KNIVSTA Sweden",
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
                 "since": "2003-05-19"
             },
             {
@@ -211622,6 +211626,31 @@
                 "name": "ANONYMOUS",
                 "address": null,
                 "since": null
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-ZLD",
+        "Luftfartygstyp": "CAMERON HEAD-100",
+        "Tillverkningsnummer": "12817",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "907,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-06-01",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 504424,
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
+                "since": "2026-06-01"
             },
             {
                 "type": "Registrerad innehavare",
