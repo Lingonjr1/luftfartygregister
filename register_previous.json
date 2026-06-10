@@ -30694,7 +30694,7 @@
         "Tillverkningsnummer": "25-2166-1131",
         "Tillverkningsår": "1962",
         "Max startvikt (kg)": "1000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-05",
         "Registreringsdatum": "1963-03-19",
         "owners": [
             {
@@ -45029,7 +45029,7 @@
         "Tillverkningsnummer": "185-0909",
         "Tillverkningsår": "1965",
         "Max startvikt (kg)": "1450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2022-08-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-25",
         "Registreringsdatum": "1970-12-18",
         "owners": [
             {
@@ -97956,6 +97956,9 @@
     },
     {
         "code": "SE-JYT",
+        "Avregistrerad": "2026-06-10",
+        "Orsak": "Exported",
+        "Land": "Italy",
         "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
         "Tillverkningsnummer": "9619",
         "Tillverkningsår": "2024",
@@ -97964,7 +97967,7 @@
         "Registreringsdatum": "2024-07-08",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 746950,
                 "name": "HELIMONTBLANC SRL",
                 "address": "Frazione Palleusieux, Route Mont Blanc 20/B IT-11010 PRE' SAINT DIDIER (AO) Italy",
@@ -98013,7 +98016,7 @@
         "Tillverkningsnummer": "9421",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-11",
         "Registreringsdatum": "2023-06-07",
         "owners": [
             {
@@ -115450,10 +115453,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500984,
-                "name": "Intercept AB",
-                "address": "Sweden",
-                "since": "2001-04-20"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -128096,7 +128099,7 @@
         "Tillverkningsnummer": "340A-0224",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "2717,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-30",
         "Registreringsdatum": "2021-02-10",
         "owners": [
             {
@@ -176184,7 +176187,7 @@
         "Tillverkningsnummer": "8419",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-30",
         "Registreringsdatum": "2009-02-27",
         "owners": [
             {
@@ -176650,7 +176653,7 @@
         "Tillverkningsnummer": "20042219-1241",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-06",
         "Registreringsdatum": "2006-04-26",
         "owners": [
             {
@@ -177801,7 +177804,7 @@
         "Tillverkningsnummer": "2006-2725-1300",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-08",
         "Registreringsdatum": "2009-06-16",
         "owners": [
             {
@@ -178510,7 +178513,7 @@
         "Tillverkningsnummer": "074/2008",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "500,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-17",
         "Registreringsdatum": "2008-09-10",
         "owners": [
             {
@@ -179812,7 +179815,7 @@
         "Tillverkningsnummer": "SE 10 S 03",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-29",
         "Registreringsdatum": "2010-07-13",
         "owners": [
             {
@@ -182524,7 +182527,7 @@
         "Tillverkningsnummer": "1402-1531",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-09-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-02",
         "Registreringsdatum": "2015-07-24",
         "owners": [
             {
@@ -183914,7 +183917,7 @@
         "Tillverkningsnummer": "FM250V06",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-22",
         "Registreringsdatum": "2023-04-05",
         "owners": [
             {
@@ -183964,7 +183967,7 @@
         "Tillverkningsnummer": "133SE21C04r5v",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-14",
         "Registreringsdatum": "2021-06-04",
         "owners": [
             {
@@ -204401,7 +204404,7 @@
         "Tillverkningsnummer": "sko 80-822",
         "Tillverkningsår": "2002",
         "Max startvikt (kg)": "410,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-06-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-27",
         "Registreringsdatum": "2010-11-12",
         "owners": [
             {
