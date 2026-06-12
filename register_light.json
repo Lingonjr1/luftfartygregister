@@ -1447,7 +1447,7 @@
         "Tillverkningsnummer": "568",
         "Tillverkningsår": "1932",
         "Max startvikt (kg)": "830,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-30",
         "Registreringsdatum": "1947-02-07",
         "owners_amount": 1,
         "owners": [
@@ -14407,7 +14407,7 @@
         "Tillverkningsnummer": "10408",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "97000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-05",
         "Registreringsdatum": "2021-09-22",
         "owners_amount": 1,
         "owners": [
@@ -28416,15 +28416,12 @@
     },
     {
         "code": "SE-FFD",
-        "Avregistrerad": "2023-03-06",
-        "Orsak": "Exported",
-        "Land": "Poland",
         "Luftfartygstyp": "PIPER-PA28-140",
         "Tillverkningsnummer": "28-25017",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "975,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2024-03-04",
-        "Registreringsdatum": "1968-11-29",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-06-12",
         "owners_amount": 1,
         "owners": []
     },
@@ -31379,7 +31376,7 @@
         "Tillverkningsnummer": "18-3209-1165",
         "Tillverkningsår": "1954",
         "Max startvikt (kg)": "680,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-10",
         "Registreringsdatum": "2007-06-26",
         "owners_amount": 1,
         "owners": []
@@ -54893,7 +54890,7 @@
         "Tillverkningsnummer": "91.369",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "1205,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1985-04-11",
         "owners_amount": 1,
         "owners": [
@@ -61420,7 +61417,7 @@
         "Tillverkningsnummer": "2878",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2022-04-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-08-07",
         "Registreringsdatum": "2003-03-14",
         "owners_amount": 1,
         "owners": [
@@ -78972,7 +78969,7 @@
         "Tillverkningsnummer": "91250-1304",
         "Tillverkningsår": "1953",
         "Max startvikt (kg)": "1165,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-11",
         "Registreringsdatum": "1998-01-21",
         "owners_amount": 1,
         "owners": [
@@ -85517,7 +85514,7 @@
         "Tillverkningsnummer": "2844124",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1247,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-30",
         "Registreringsdatum": "2006-05-04",
         "owners_amount": 1,
         "owners": [
@@ -86275,7 +86272,7 @@
             {
                 "type": "Registrerad ägare",
                 "id": 721197,
-                "name": "Apollodor GmbH",
+                "name": "AVIAMENT GmbH",
                 "address": "Vollradser Allee 45 DE-65375 Oestrich-Winkel Germany",
                 "since": "2024-07-04"
             }
@@ -87041,7 +87038,7 @@
         "Tillverkningsnummer": "42.203",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "1785,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-09",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-09",
         "Registreringsdatum": "2009-01-12",
         "owners_amount": 1,
         "owners": [
@@ -101887,14 +101884,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102336,14 +102333,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103627,14 +103624,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104394,14 +104391,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -105097,18 +105094,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -105949,18 +105946,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1972-06-16"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1978-04-20"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1972-06-16"
             }
         ]
     },
@@ -123022,7 +123019,7 @@
         "Tillverkningsnummer": "71Sw014C01r5v",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-28",
         "Registreringsdatum": "2015-06-12",
         "owners_amount": 1,
         "owners": [
