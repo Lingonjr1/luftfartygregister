@@ -1,11 +1,8 @@
 {
-    "added_count": 2,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7850,
-    "added": [
-        "SE-LMK",
-        "SE-LRN"
-    ],
+    "changed_count": 7852,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -4290,6 +4287,7 @@
         "SE-LMG",
         "SE-LMH",
         "SE-LMI",
+        "SE-LMK",
         "SE-LML",
         "SE-LMM",
         "SE-LMN",
@@ -4376,6 +4374,7 @@
         "SE-LRK",
         "SE-LRL",
         "SE-LRM",
+        "SE-LRN",
         "SE-LRO",
         "SE-LRP",
         "SE-LRR",
