@@ -19695,7 +19695,7 @@
         "Tillverkningsnummer": "198",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "31751,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-16",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-16",
         "Registreringsdatum": "2018-02-16",
         "owners": [
             {
@@ -34859,7 +34859,7 @@
         "Tillverkningsnummer": "F150-0021",
         "Tillverkningsår": "1966",
         "Max startvikt (kg)": "725,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-18",
         "Registreringsdatum": "1966-05-12",
         "owners": [
             {
@@ -52151,10 +52151,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503771,
-                "name": "Ensio Invest AB",
-                "address": "Box 4146 181 04 LIDINGÖ Sweden",
-                "since": "2002-05-07"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -75535,7 +75535,7 @@
                 "type": "Registrerad ägare",
                 "id": 732920,
                 "name": "IndX2 AB",
-                "address": "Särö Centrumväg 1 429 41 SÄRÖ Sweden",
+                "address": "Sweden",
                 "since": "2025-05-27"
             },
             {
@@ -77086,7 +77086,7 @@
         "Tillverkningsnummer": "28-21703",
         "Tillverkningsår": "1966",
         "Max startvikt (kg)": "975,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-02",
         "Registreringsdatum": "1985-08-13",
         "owners": [
             {
@@ -84465,7 +84465,7 @@
         "Tillverkningsnummer": "S1333",
         "Tillverkningsår": "1988",
         "Max startvikt (kg)": "928,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2016-09-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-25",
         "Registreringsdatum": "1991-01-09",
         "owners": [
             {
@@ -122021,7 +122021,7 @@
         "Tillverkningsnummer": "172S9637",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-07-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-03",
         "Registreringsdatum": "2008-02-12",
         "owners": [
             {
@@ -142029,7 +142029,7 @@
         "Tillverkningsnummer": "43604",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-27",
         "Registreringsdatum": "2025-07-28",
         "owners": [
             {
@@ -142629,7 +142629,7 @@
         "Tillverkningsnummer": "38043",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "79015,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-19",
         "Registreringsdatum": "2022-06-27",
         "owners": [
             {
@@ -152156,7 +152156,7 @@
         "Tillverkningsnummer": "20049",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-06",
         "Registreringsdatum": "2021-04-22",
         "owners": [
             {
@@ -158499,7 +158499,7 @@
         "Tillverkningsnummer": "44227",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "610,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-08",
         "Registreringsdatum": "1987-04-10",
         "owners": [
             {
