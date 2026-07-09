@@ -92126,7 +92126,7 @@
         "Tillverkningsnummer": "10249",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "1134,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2026-09-29",
         "Registreringsdatum": "2026-07-06",
         "owners": [
             {
@@ -112271,10 +112271,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503771,
-                "name": "Ensio Invest AB",
-                "address": "Box 4146 181 04 LIDINGÖ Sweden",
-                "since": "1999-07-21"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -120314,7 +120314,7 @@
         "Tillverkningsnummer": "255",
         "Tillverkningsår": "1993",
         "Max startvikt (kg)": "780,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-12",
         "Registreringsdatum": "2026-07-02",
         "owners": [
             {
@@ -130541,7 +130541,7 @@
         "Tillverkningsnummer": "3449194",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "1999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-09",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-07",
         "Registreringsdatum": "2017-11-01",
         "owners": [
             {
@@ -141304,7 +141304,7 @@
         "Tillverkningsnummer": "19000168",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "50790,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-11",
         "Registreringsdatum": "2022-07-11",
         "owners": [
             {
