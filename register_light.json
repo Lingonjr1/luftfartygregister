@@ -4818,7 +4818,7 @@
         "Tillverkningsnummer": "D-1503",
         "Tillverkningsår": "1948",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2014-10-03",
         "owners_amount": 1,
         "owners": []
@@ -7617,7 +7617,7 @@
         "Tillverkningsnummer": "11304-1167",
         "Tillverkningsår": "1943",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-09",
         "Registreringsdatum": "1957-09-10",
         "owners_amount": 1,
         "owners": []
@@ -35144,7 +35144,7 @@
         "Tillverkningsnummer": "18-8544",
         "Tillverkningsår": "1967",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1973-06-29",
         "owners_amount": 1,
         "owners": [
@@ -46025,7 +46025,7 @@
         "Tillverkningsnummer": "2523",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "1340,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-09",
         "Registreringsdatum": "2000-02-03",
         "owners_amount": 3,
         "owners": []
@@ -82510,10 +82510,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 538768,
-                "name": "Blackwing Sweden AB",
-                "address": "Norra Viarpsvägen 169 261 92 HÄRSLÖV Sweden",
-                "since": "2026-06-30"
+                "id": 750421,
+                "name": "Aviaris AB",
+                "address": "Gnejsvägen 5 335 32  Gnosjö Sweden",
+                "since": "2026-07-10"
             }
         ]
     },
@@ -102383,14 +102383,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -104469,14 +104469,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105144,18 +105144,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -128587,7 +128587,7 @@
         "Tillverkningsnummer": "0297-212-1014",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "545,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2017-03-31",
         "owners_amount": 1,
         "owners": []
@@ -129131,7 +129131,7 @@
         "Tillverkningsnummer": "196927-981",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "544,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "1998-08-31",
         "owners_amount": 1,
         "owners": []
