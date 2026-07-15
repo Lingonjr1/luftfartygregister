@@ -3634,7 +3634,7 @@
         "Tillverkningsnummer": "16352-1258",
         "Tillverkningsår": "1946",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-15",
         "Registreringsdatum": "1947-01-10",
         "owners": [
             {
@@ -26663,7 +26663,7 @@
         "Tillverkningsnummer": "DHP-40303",
         "Tillverkningsår": "1953",
         "Max startvikt (kg)": "5000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-10",
         "Registreringsdatum": "1993-06-21",
         "owners": [
             {
@@ -71519,6 +71519,9 @@
     },
     {
         "code": "SE-HZG",
+        "Avregistrerad": "2026-07-15",
+        "Orsak": "Exported",
+        "Land": "Canada",
         "Luftfartygstyp": "AIRBUS HELICOPTERS-AS350B3",
         "Tillverkningsnummer": "9825",
         "Tillverkningsår": "2025",
@@ -71527,7 +71530,7 @@
         "Registreringsdatum": "2026-06-04",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 504903,
                 "name": "Savback Helicopters AB",
                 "address": "Borggårdsvägen 12 612 75 HÄLLESTAD Sweden",
@@ -168108,10 +168111,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503458,
-                "name": "Avesta Segelflygklubb",
-                "address": "Rembo 25 774 92 AVESTA Sweden",
-                "since": "2010-05-10"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -191281,7 +191284,7 @@
         "Tillverkningsnummer": "JA617-02-21-1616",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "703,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2022-05-05",
         "owners": [
             {
