@@ -23417,7 +23417,7 @@
         "Tillverkningsnummer": "22-7629",
         "Tillverkningsår": "1961",
         "Max startvikt (kg)": "910,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2022-03-04",
         "owners_amount": 1,
         "owners": [
@@ -101135,7 +101135,7 @@
         "Tillverkningsnummer": "12645",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-06",
         "Registreringsdatum": "2025-08-07",
         "owners_amount": 1,
         "owners": [
@@ -105147,18 +105147,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -106088,14 +106088,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
