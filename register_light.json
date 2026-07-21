@@ -1819,7 +1819,7 @@
         "Tillverkningsnummer": "49-FV517-88",
         "Tillverkningsår": "1935",
         "Max startvikt (kg)": "830,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2024-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-14",
         "Registreringsdatum": "1986-06-06",
         "owners_amount": 1,
         "owners": []
@@ -9002,7 +9002,7 @@
         "Tillverkningsnummer": "20-489-713",
         "Tillverkningsår": "1951",
         "Max startvikt (kg)": "815,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1961-12-05",
         "owners_amount": 2,
         "owners": []
@@ -101937,14 +101937,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -103677,14 +103677,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104444,14 +104444,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -104472,14 +104472,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105147,18 +105147,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -126296,7 +126296,7 @@
         "Tillverkningsnummer": "83-431",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1984-09-26",
         "owners_amount": 1,
         "owners": []
@@ -128757,7 +128757,7 @@
         "Tillverkningsnummer": "AV 1086-1019",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "570,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2003-08-26",
         "owners_amount": 1,
         "owners": []
