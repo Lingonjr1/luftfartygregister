@@ -1,8 +1,11 @@
 {
-    "added_count": 0,
+    "added_count": 2,
     "removed_count": 0,
     "changed_count": 7853,
-    "added": [],
+    "added": [
+        "SE-LPO",
+        "SE-MGS"
+    ],
     "removed": [],
     "changed": [
         "SE-001",
