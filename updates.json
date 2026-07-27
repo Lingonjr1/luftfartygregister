@@ -1,11 +1,8 @@
 {
-    "added_count": 2,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7853,
-    "added": [
-        "SE-LPO",
-        "SE-MGS"
-    ],
+    "changed_count": 7855,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -4357,6 +4354,7 @@
         "SE-LPL",
         "SE-LPM",
         "SE-LPN",
+        "SE-LPO",
         "SE-LPP",
         "SE-LPR",
         "SE-LPS",
@@ -4667,6 +4665,7 @@
         "SE-MGN",
         "SE-MGP",
         "SE-MGR",
+        "SE-MGS",
         "SE-MGT",
         "SE-MGU",
         "SE-MGV",

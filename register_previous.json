@@ -2360,7 +2360,7 @@
         "Tillverkningsnummer": "84589-95",
         "Tillverkningsår": "1940",
         "Max startvikt (kg)": "830,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1993-05-19",
         "owners": [
             {
@@ -3978,7 +3978,7 @@
         "Tillverkningsnummer": "4865",
         "Tillverkningsår": "1947",
         "Max startvikt (kg)": "570,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1948-11-16",
         "owners": [
             {
@@ -10897,7 +10897,7 @@
         "Tillverkningsnummer": "23-549",
         "Tillverkningsår": "1956",
         "Max startvikt (kg)": "1590,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1956-08-02",
         "owners": [
             {
@@ -13471,7 +13471,7 @@
         "Tillverkningsnummer": "22-8795",
         "Tillverkningsår": "1961",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1961-09-15",
         "owners": [
             {
@@ -14379,7 +14379,7 @@
         "Tillverkningsnummer": "D4856-1158",
         "Tillverkningsår": "1956",
         "Max startvikt (kg)": "1258,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2003-09-19",
         "owners": [
             {
@@ -62829,17 +62829,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 504917,
+                "name": "Proflight Nordic AB",
+                "address": "Sikvägen 14 761 41 Norrtälje Sweden",
+                "since": "2026-07-27"
             },
             {
                 "type": "Registrerad innehavare",
@@ -119395,7 +119388,7 @@
         "code": "SE-LOZ",
         "Avregistrerad": "2011-10-05",
         "Orsak": "Exported",
-        "Land": "Iran, Islamic Republic of",
+        "Land": "Iran",
         "Luftfartygstyp": "TECNAM-P92JS",
         "Tillverkningsnummer": "021",
         "Tillverkningsår": "2002",
@@ -159755,7 +159748,7 @@
         "Tillverkningsnummer": "6115-1370",
         "Tillverkningsår": "1982",
         "Max startvikt (kg)": "825,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-27",
         "Registreringsdatum": "2006-05-04",
         "owners": [
             {
@@ -187012,7 +187005,7 @@
         "Tillverkningsnummer": "K064-574",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "520,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-22",
         "Registreringsdatum": "1986-07-09",
         "owners": [
             {
@@ -191012,7 +191005,7 @@
         "Tillverkningsnummer": "647-078",
         "Tillverkningsår": "1957",
         "Max startvikt (kg)": "615,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-22",
         "Registreringsdatum": "1994-06-15",
         "owners": [
             {
@@ -191939,7 +191932,7 @@
         "Tillverkningsnummer": "16-867",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "330,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-27",
         "Registreringsdatum": "2004-06-14",
         "owners": [
             {
