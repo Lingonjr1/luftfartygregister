@@ -143479,6 +143479,31 @@
         ]
     },
     {
+        "code": "SE-SKO",
+        "Luftfartygstyp": "JS-MD 3 RES",
+        "Tillverkningsnummer": "3.MD244",
+        "Tillverkningsår": "2025",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-07-29",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 502982,
+                "name": "Skövde Flygklubb",
+                "address": "Flygplatsen 521 91 Falköping Sweden",
+                "since": "2026-07-29"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-SKR",
         "Luftfartygstyp": "JS-MD 3",
         "Tillverkningsnummer": "3.MD064",
@@ -159216,7 +159241,7 @@
         "Tillverkningsnummer": "4452-1388",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "580,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1999-05-31",
         "owners": [
             {
@@ -185185,7 +185210,7 @@
         "Tillverkningsnummer": "P1-827",
         "Tillverkningsår": "1982",
         "Max startvikt (kg)": "660,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1983-01-17",
         "owners": [
             {
@@ -188894,7 +188919,7 @@
         "Tillverkningsnummer": "C1-0102-769",
         "Tillverkningsår": "1950",
         "Max startvikt (kg)": "1000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1991-06-19",
         "owners": [
             {
@@ -189002,7 +189027,7 @@
         "Tillverkningsnummer": "1150-767",
         "Tillverkningsår": "1970",
         "Max startvikt (kg)": "975,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1990-08-14",
         "owners": [
             {
@@ -193154,7 +193179,7 @@
         "Tillverkningsnummer": "324-1000",
         "Tillverkningsår": "2002",
         "Max startvikt (kg)": "622,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2005-01-25",
         "owners": [
             {
