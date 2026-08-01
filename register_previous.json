@@ -6309,7 +6309,7 @@
         "Tillverkningsnummer": "18658-650",
         "Tillverkningsår": "1948",
         "Max startvikt (kg)": "555,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1994-06-16",
         "owners": [
             {
@@ -42975,10 +42975,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 626451,
+                "name": "Bo-Aero AB",
+                "address": "Herrgårdsgatan 2 662 50  Svanskog Sweden",
+                "since": "2026-07-30"
             },
             {
                 "type": "Registrerad innehavare",
@@ -143484,7 +143484,7 @@
         "Tillverkningsnummer": "3.MD244",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-30",
         "Registreringsdatum": "2026-07-29",
         "owners": [
             {
@@ -190465,7 +190465,7 @@
         "Tillverkningsnummer": "420-527",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "725,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2010-04-29",
         "owners": [
             {
@@ -194336,7 +194336,7 @@
         "Tillverkningsnummer": "854-1343",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2011-08-30",
         "owners": [
             {
