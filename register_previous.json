@@ -51553,7 +51553,7 @@
         "Tillverkningsnummer": "18-8600",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-04",
         "Registreringsdatum": "1973-07-12",
         "owners": [
             {
@@ -89999,6 +89999,34 @@
         ]
     },
     {
+        "code": "SE-JJS",
+        "Avregistrerad": "2008-11-20",
+        "Orsak": "Exported",
+        "Land": "Norway",
+        "Luftfartygstyp": "EUROCOPTER-AS350B3",
+        "Tillverkningsnummer": "4249",
+        "Tillverkningsår": "2007",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2009-07-04",
+        "Registreringsdatum": "2007-06-15",
+        "owners": [
+            {
+                "type": "Senast registrerad ägare",
+                "id": 503540,
+                "name": "Fonnafly AS",
+                "address": "Hangarveien 7 NO-3241  Sandefjord Norway",
+                "since": "2008-06-18"
+            },
+            {
+                "type": "Senast registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
         "code": "SE-JJT",
         "Luftfartygstyp": "ROBINSON-R44II",
         "Tillverkningsnummer": "11479",
@@ -90013,6 +90041,31 @@
                 "name": "NSW Management AB",
                 "address": "Torpvägen 1A 183 53 TÄBY Sweden",
                 "since": "2025-07-01"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-JJU",
+        "Luftfartygstyp": "BELL-206L3",
+        "Tillverkningsnummer": "51214",
+        "Tillverkningsår": "1987",
+        "Max startvikt (kg)": "1882,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-02",
+        "Registreringsdatum": "2010-11-29",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 536082,
+                "name": "First European Aviation Company Sp. z o.o.",
+                "address": "Ul. Księżycowa 1 PL-01-934 Warszawa Poland",
+                "since": "2026-04-10"
             },
             {
                 "type": "Registrerad innehavare",
@@ -90128,6 +90181,87 @@
             },
             {
                 "type": "Senast registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-JKA",
+        "Avregistrerad": "2006-05-18",
+        "Orsak": "Exported",
+        "Land": "Finland",
+        "Luftfartygstyp": "AEROSPATIALE-AS365N2",
+        "Tillverkningsnummer": "6514",
+        "Tillverkningsår": "1997",
+        "Max startvikt (kg)": "4250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2005-09-29",
+        "owners": [
+            {
+                "type": "Senast registrerad ägare",
+                "id": 503444,
+                "name": "North European Invest OY",
+                "address": "Olostunturi FI-FIN-99300 MUONIO Finland",
+                "since": "2005-09-29"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-JKB",
+        "Luftfartygstyp": "EUROCOPTER-AS350B2",
+        "Tillverkningsnummer": "2621",
+        "Tillverkningsår": "1992",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-28",
+        "Registreringsdatum": "2007-02-05",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 500029,
+                "name": "Fiskflyg AB",
+                "address": "Strömgatan 43 982 60 Porjus Sweden",
+                "since": "2022-06-01"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-JKD",
+        "Avregistrerad": "2014-01-03",
+        "Orsak": "Exported",
+        "Land": "Serbia",
+        "Luftfartygstyp": "BELL-206B",
+        "Tillverkningsnummer": "3555",
+        "Tillverkningsår": "1981",
+        "Max startvikt (kg)": "1451,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2014-06-24",
+        "Registreringsdatum": "2007-06-29",
+        "owners": [
+            {
+                "type": "Senast registrerad ägare",
+                "id": 500012,
+                "name": "HeliAir Sweden AB",
+                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
+                "since": "2012-09-04"
+            },
+            {
+                "type": "Registrerad innehavare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -90289,6 +90423,34 @@
                 "name": "Malmskogens Aerocenter AB",
                 "address": "Mörnersgatan 4 18 582 25 Linköping Sweden",
                 "since": "2016-04-18"
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-JKK",
+        "Avregistrerad": "2012-12-14",
+        "Orsak": "Exported",
+        "Land": "Australia",
+        "Luftfartygstyp": "EUROCOPTER-AS350B2",
+        "Tillverkningsnummer": "2406",
+        "Tillverkningsår": "1990",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2013-04-09",
+        "Registreringsdatum": "2008-04-09",
+        "owners": [
+            {
+                "type": "Senast registrerad ägare",
+                "id": 503693,
+                "name": "Nordea Finance Equipment AS, Sverige filial",
+                "address": "L848 105 71  STOCKHOLM Sweden",
+                "since": "2008-04-09"
             },
             {
                 "type": "Registrerad innehavare",
@@ -206190,7 +206352,7 @@
         "Tillverkningsnummer": "12442",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "2857,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-30",
         "Registreringsdatum": "2021-07-29",
         "owners": [
             {

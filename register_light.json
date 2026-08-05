@@ -35215,7 +35215,7 @@
         "Tillverkningsnummer": "18-8600",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-04",
         "Registreringsdatum": "1973-07-12",
         "owners_amount": 1,
         "owners": [
@@ -62485,6 +62485,28 @@
         ]
     },
     {
+        "code": "SE-JJS",
+        "Avregistrerad": "2008-11-20",
+        "Orsak": "Exported",
+        "Land": "Norway",
+        "Luftfartygstyp": "EUROCOPTER-AS350B3",
+        "Tillverkningsnummer": "4249",
+        "Tillverkningsår": "2007",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2009-07-04",
+        "Registreringsdatum": "2007-06-15",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Senast registrerad ägare",
+                "id": 503540,
+                "name": "Fonnafly AS",
+                "address": "Hangarveien 7 NO-3241  Sandefjord Norway",
+                "since": "2008-06-18"
+            }
+        ]
+    },
+    {
         "code": "SE-JJT",
         "Luftfartygstyp": "ROBINSON-R44II",
         "Tillverkningsnummer": "11479",
@@ -62500,6 +62522,25 @@
                 "name": "NSW Management AB",
                 "address": "Torpvägen 1A 183 53 TÄBY Sweden",
                 "since": "2025-07-01"
+            }
+        ]
+    },
+    {
+        "code": "SE-JJU",
+        "Luftfartygstyp": "BELL-206L3",
+        "Tillverkningsnummer": "51214",
+        "Tillverkningsår": "1987",
+        "Max startvikt (kg)": "1882,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-02",
+        "Registreringsdatum": "2010-11-29",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 536082,
+                "name": "First European Aviation Company Sp. z o.o.",
+                "address": "Ul. Księżycowa 1 PL-01-934 Warszawa Poland",
+                "since": "2026-04-10"
             }
         ]
     },
@@ -62572,6 +62613,69 @@
                 "name": "Jämtlands Flyg AB",
                 "address": "Lugnviksvägen 5 831 52 Östersund Sweden",
                 "since": "2010-08-12"
+            }
+        ]
+    },
+    {
+        "code": "SE-JKA",
+        "Avregistrerad": "2006-05-18",
+        "Orsak": "Exported",
+        "Land": "Finland",
+        "Luftfartygstyp": "AEROSPATIALE-AS365N2",
+        "Tillverkningsnummer": "6514",
+        "Tillverkningsår": "1997",
+        "Max startvikt (kg)": "4250,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2005-09-29",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Senast registrerad ägare",
+                "id": 503444,
+                "name": "North European Invest OY",
+                "address": "Olostunturi FI-FIN-99300 MUONIO Finland",
+                "since": "2005-09-29"
+            }
+        ]
+    },
+    {
+        "code": "SE-JKB",
+        "Luftfartygstyp": "EUROCOPTER-AS350B2",
+        "Tillverkningsnummer": "2621",
+        "Tillverkningsår": "1992",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-28",
+        "Registreringsdatum": "2007-02-05",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 500029,
+                "name": "Fiskflyg AB",
+                "address": "Strömgatan 43 982 60 Porjus Sweden",
+                "since": "2022-06-01"
+            }
+        ]
+    },
+    {
+        "code": "SE-JKD",
+        "Avregistrerad": "2014-01-03",
+        "Orsak": "Exported",
+        "Land": "Serbia",
+        "Luftfartygstyp": "BELL-206B",
+        "Tillverkningsnummer": "3555",
+        "Tillverkningsår": "1981",
+        "Max startvikt (kg)": "1451,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2014-06-24",
+        "Registreringsdatum": "2007-06-29",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Senast registrerad ägare",
+                "id": 500012,
+                "name": "HeliAir Sweden AB",
+                "address": "Lycksta Gård 1 725 94 VÄSTERÅS Sweden",
+                "since": "2012-09-04"
             }
         ]
     },
@@ -62700,6 +62804,28 @@
                 "name": "Malmskogens Aerocenter AB",
                 "address": "Mörnersgatan 4 18 582 25 Linköping Sweden",
                 "since": "2016-04-18"
+            }
+        ]
+    },
+    {
+        "code": "SE-JKK",
+        "Avregistrerad": "2012-12-14",
+        "Orsak": "Exported",
+        "Land": "Australia",
+        "Luftfartygstyp": "EUROCOPTER-AS350B2",
+        "Tillverkningsnummer": "2406",
+        "Tillverkningsår": "1990",
+        "Max startvikt (kg)": "2250,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2013-04-09",
+        "Registreringsdatum": "2008-04-09",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Senast registrerad ägare",
+                "id": 503693,
+                "name": "Nordea Finance Equipment AS, Sverige filial",
+                "address": "L848 105 71  STOCKHOLM Sweden",
+                "since": "2008-04-09"
             }
         ]
     },
@@ -101906,14 +102032,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -103646,14 +103772,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104441,14 +104567,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105116,18 +105242,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -105968,18 +106094,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },
@@ -135888,7 +136014,7 @@
         "Tillverkningsnummer": "12442",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "2857,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-30",
         "Registreringsdatum": "2021-07-29",
         "owners_amount": 1,
         "owners": []
