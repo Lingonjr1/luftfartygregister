@@ -1,8 +1,11 @@
 {
-    "added_count": 0,
+    "added_count": 2,
     "removed_count": 0,
     "changed_count": 7856,
-    "added": [],
+    "added": [
+        "SE-HZK",
+        "SE-V47"
+    ],
     "removed": [],
     "changed": [
         "SE-001",
