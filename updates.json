@@ -1,9 +1,8 @@
 {
-    "added_count": 0,
-    "removed_count": 1658,
+    "added_count": 1659,
+    "removed_count": 0,
     "changed_count": 6200,
-    "added": [],
-    "removed": [
+    "added": [
         "SE-MAD",
         "SE-MAF",
         "SE-MAH",
@@ -190,6 +189,7 @@
         "SE-MOV",
         "SE-MOX",
         "SE-MOY",
+        "SE-MPF",
         "SE-MSB",
         "SE-NAA",
         "SE-NAB",
@@ -1663,6 +1663,7 @@
         "SE-VKO",
         "SE-VKT"
     ],
+    "removed": [],
     "changed": [
         "SE-001",
         "SE-002",
