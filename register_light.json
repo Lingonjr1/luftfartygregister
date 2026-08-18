@@ -62022,7 +62022,7 @@
         "Tillverkningsnummer": "1269",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "930,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-22",
         "Registreringsdatum": "2004-05-19",
         "owners_amount": 1,
         "owners": [
@@ -98273,7 +98273,7 @@
         "Tillverkningsnummer": "525B-0646",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "6291,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-14",
         "Registreringsdatum": "2021-09-14",
         "owners_amount": 1,
         "owners": [
@@ -98654,7 +98654,7 @@
         "Tillverkningsnummer": "8350",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-23",
         "Registreringsdatum": "2018-08-27",
         "owners_amount": 1,
         "owners": [
@@ -102520,14 +102520,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -104578,14 +104578,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -106222,14 +106222,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -111515,7 +111515,7 @@
         "Tillverkningsnummer": "36587",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "770,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-07",
         "Registreringsdatum": "2004-05-27",
         "owners_amount": 1,
         "owners": [
@@ -114559,7 +114559,7 @@
         "Tillverkningsnummer": "B-2101",
         "Tillverkningsår": "1996",
         "Max startvikt (kg)": "570,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-28",
         "Registreringsdatum": "1996-05-21",
         "owners_amount": 1,
         "owners": [
@@ -129350,16 +129350,8 @@
         "Max startvikt (kg)": "795,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-09-30",
         "Registreringsdatum": "2014-08-25",
-        "owners_amount": 1,
-        "owners": [
-            {
-                "type": "Registrerad ägare",
-                "id": 743129,
-                "name": "UAB Galimard Baltija",
-                "address": "Dvaro g. 112 LT-76209 Siauliai Lithuania",
-                "since": "2026-03-18"
-            }
-        ]
+        "owners_amount": 4,
+        "owners": []
     },
     {
         "code": "SE-XTS",

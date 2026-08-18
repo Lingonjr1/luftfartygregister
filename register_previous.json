@@ -89390,7 +89390,7 @@
         "Tillverkningsnummer": "1269",
         "Tillverkningsår": "1987",
         "Max startvikt (kg)": "930,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-22",
         "Registreringsdatum": "2004-05-19",
         "owners": [
             {
@@ -139296,7 +139296,7 @@
         "Tillverkningsnummer": "525B-0646",
         "Tillverkningsår": "2021",
         "Max startvikt (kg)": "6291,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-14",
         "Registreringsdatum": "2021-09-14",
         "owners": [
             {
@@ -139791,7 +139791,7 @@
         "Tillverkningsnummer": "8350",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-23",
         "Registreringsdatum": "2018-08-27",
         "owners": [
             {
@@ -159704,7 +159704,7 @@
         "Tillverkningsnummer": "36587",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "770,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-03-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-07",
         "Registreringsdatum": "2004-05-27",
         "owners": [
             {
@@ -164471,7 +164471,7 @@
         "Tillverkningsnummer": "B-2101",
         "Tillverkningsår": "1996",
         "Max startvikt (kg)": "570,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-28",
         "Registreringsdatum": "1996-05-21",
         "owners": [
             {
@@ -192715,10 +192715,31 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 743129,
-                "name": "UAB Galimard Baltija",
-                "address": "Dvaro g. 112 LT-76209 Siauliai Lithuania",
-                "since": "2026-03-18"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
