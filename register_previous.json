@@ -2174,7 +2174,7 @@
         "Tillverkningsnummer": "172",
         "Tillverkningsår": "1934",
         "Max startvikt (kg)": "830,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1942-05-07",
         "owners": [
             {
@@ -14591,7 +14591,7 @@
         "Tillverkningsnummer": "47193",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "998,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-17",
         "Registreringsdatum": "1960-07-26",
         "owners": [
             {
@@ -35795,7 +35795,7 @@
         "Tillverkningsnummer": "185-0902",
         "Tillverkningsår": "1965",
         "Max startvikt (kg)": "1445,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-17",
         "Registreringsdatum": "1965-09-14",
         "owners": [
             {
@@ -57193,10 +57193,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 752530,
+                "name": "Sigvardsson Fastigheter AB",
+                "address": "Anders Uppströms Väg 14 812 41 Gästrike-Hammarby Sweden",
+                "since": "2026-08-19"
             },
             {
                 "type": "Registrerad innehavare",
@@ -113429,10 +113429,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503315,
-                "name": "Lunds Universitet",
-                "address": "Sölvegatan 13 223 62 LUND Sweden",
-                "since": "2005-07-01"
+                "id": 749063,
+                "name": "Limasky sp. z o.o",
+                "address": "ul. Aleje Jerozolimskie 89/43 PL-02-001 Warszawa Poland",
+                "since": "2026-08-19"
             },
             {
                 "type": "Registrerad innehavare",
@@ -125070,7 +125070,7 @@
         "Tillverkningsnummer": "10.261",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-18",
         "Registreringsdatum": "2008-05-21",
         "owners": [
             {
@@ -129987,7 +129987,7 @@
         "Tillverkningsnummer": "765",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "1633,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-16",
         "Registreringsdatum": "2016-03-11",
         "owners": [
             {
@@ -151365,6 +151365,8 @@
     },
     {
         "code": "SE-TMK",
+        "Avregistrerad": "2026-08-19",
+        "Orsak": "Owners request",
         "Luftfartygstyp": "SZD-30 PIRAT",
         "Tillverkningsnummer": "S-02.05",
         "Tillverkningsår": "1974",
@@ -151373,7 +151375,7 @@
         "Registreringsdatum": "1974-04-24",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -166478,13 +166480,6 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -185679,6 +185674,8 @@
     },
     {
         "code": "SE-XEB",
+        "Avregistrerad": "2026-08-19",
+        "Orsak": "Owners request",
         "Luftfartygstyp": "JODEL-D120",
         "Tillverkningsnummer": "160-161",
         "Tillverkningsår": "1960",
@@ -185687,7 +185684,7 @@
         "Registreringsdatum": "1989-06-21",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -196955,6 +196952,8 @@
     },
     {
         "code": "SE-YDK",
+        "Avregistrerad": "2026-08-19",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "QUICKSILVER-MX",
         "Tillverkningsnummer": "3081-278",
         "Tillverkningsår": "1981",
@@ -196963,7 +196962,7 @@
         "Registreringsdatum": "1984-01-18",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -212188,7 +212187,7 @@
         "Tillverkningsnummer": "11063",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "703,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-27",
         "Registreringsdatum": "2025-07-22",
         "owners": [
             {
