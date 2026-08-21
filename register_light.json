@@ -53156,7 +53156,7 @@
         "Tillverkningsnummer": "18-1994-855",
         "Tillverkningsår": "1953",
         "Max startvikt (kg)": "680,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-30",
         "Registreringsdatum": "1982-04-14",
         "owners_amount": 2,
         "owners": []
@@ -61478,7 +61478,7 @@
         "Tillverkningsnummer": "2878",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "2250,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-07",
         "Registreringsdatum": "2003-03-14",
         "owners_amount": 1,
         "owners": [
@@ -68070,7 +68070,7 @@
         "Tillverkningsnummer": "21391",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "3800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-08",
         "Registreringsdatum": "2025-06-05",
         "owners_amount": 1,
         "owners": [
@@ -102079,14 +102079,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -103819,14 +103819,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104614,14 +104614,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105289,18 +105289,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -106141,18 +106141,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },
@@ -106230,14 +106230,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -123735,10 +123735,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 502588,
-                "name": "Säffle Flygklubb",
-                "address": "Säffle Flygplats Nolby 661 92 SÄFFLE Sweden",
-                "since": "2023-01-03"
+                "id": 502507,
+                "name": "Karlskoga Segelflygklubb",
+                "address": "Hangarvägen 3B 691 35 KARLSKOGA Sweden",
+                "since": "2026-08-21"
             }
         ]
     },
@@ -126433,7 +126433,7 @@
         "Luftfartygstyp": "EUROFOX 2K TOW",
         "Tillverkningsnummer": "70324-1652",
         "Tillverkningsår": "2025",
-        "Max startvikt (kg)": "560,0",
+        "Max startvikt (kg)": "600,0",
         "Luftvärdighetshandling giltig t.o.m.": null,
         "Registreringsdatum": "2025-07-08",
         "owners_amount": 1,
@@ -127577,7 +127577,7 @@
         "Luftfartygstyp": "EUROFOX 2K TOW",
         "Tillverkningsnummer": "68424-1646",
         "Tillverkningsår": "2024",
-        "Max startvikt (kg)": "560,0",
+        "Max startvikt (kg)": "600,0",
         "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
         "Registreringsdatum": "2025-06-19",
         "owners_amount": 1,
@@ -134408,6 +134408,8 @@
     },
     {
         "code": "SE-YSO",
+        "Avregistrerad": "2026-08-21",
+        "Orsak": "Scrapped",
         "Luftfartygstyp": "TL-32 TYPHOON",
         "Tillverkningsnummer": "9501",
         "Tillverkningsår": "1995",
