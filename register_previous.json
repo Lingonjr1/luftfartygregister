@@ -2851,7 +2851,7 @@
         "Tillverkningsnummer": "11994-890",
         "Tillverkningsår": "1943",
         "Max startvikt (kg)": "530,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1997-07-31",
         "owners": [
             {
@@ -5790,7 +5790,7 @@
         "Tillverkningsnummer": "2113-696",
         "Tillverkningsår": "1947",
         "Max startvikt (kg)": "1010,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1994-06-23",
         "owners": [
             {
@@ -6618,7 +6618,7 @@
         "Tillverkningsnummer": "936",
         "Tillverkningsår": "1947",
         "Max startvikt (kg)": "1430,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-26",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "2024-08-16",
         "owners": [
             {
@@ -12836,7 +12836,7 @@
         "Tillverkningsnummer": "704",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "660,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1959-11-13",
         "owners": [
             {
@@ -31441,7 +31441,7 @@
         "Tillverkningsnummer": "029",
         "Tillverkningsår": "1964",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1964-10-10",
         "owners": [
             {
@@ -42635,7 +42635,7 @@
         "Tillverkningsnummer": "63",
         "Tillverkningsår": "1969",
         "Max startvikt (kg)": "575,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1969-10-01",
         "owners": [
             {
@@ -51381,10 +51381,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 597335,
-                "name": "South Sweden Flight Academy AB",
-                "address": "Stora Nygatan 23 211 37 MALMÖ Sweden",
-                "since": "2024-12-16"
+                "id": 732920,
+                "name": "IndX2 AB",
+                "address": "Sweden",
+                "since": "2026-08-24"
             },
             {
                 "type": "Registrerad innehavare",
@@ -51401,7 +51401,7 @@
         "Tillverkningsnummer": "32-7200006",
         "Tillverkningsår": "1971",
         "Max startvikt (kg)": "1540,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-01",
         "Registreringsdatum": "1974-08-09",
         "owners": [
             {
@@ -55556,7 +55556,7 @@
         "Tillverkningsnummer": "1288-1119",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "725,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1976-06-17",
         "owners": [
             {
@@ -71550,7 +71550,7 @@
         "Tillverkningsnummer": "0737",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "1225,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-13",
         "Registreringsdatum": "2025-07-01",
         "owners": [
             {
@@ -75560,10 +75560,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 732920,
-                "name": "IndX2 AB",
-                "address": "Sweden",
-                "since": "2025-05-27"
+                "id": 597335,
+                "name": "South Sweden Flight Academy AB",
+                "address": "Stora Nygatan 23 211 37 MALMÖ Sweden",
+                "since": "2026-08-24"
             },
             {
                 "type": "Registrerad innehavare",
@@ -91801,7 +91801,7 @@
         "Tillverkningsnummer": "1008",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-04",
         "Registreringsdatum": "1998-09-01",
         "owners": [
             {
@@ -93668,7 +93668,7 @@
         "Tillverkningsnummer": "57350",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "0,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "2019-08-26",
         "owners": [
             {
@@ -93693,7 +93693,7 @@
         "Tillverkningsnummer": "57351",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "0,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "2019-08-26",
         "owners": [
             {
@@ -102842,7 +102842,7 @@
         "Tillverkningsnummer": "17269989",
         "Tillverkningsår": "1977",
         "Max startvikt (kg)": "1089,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-29",
         "Registreringsdatum": "1989-06-13",
         "owners": [
             {
@@ -107062,7 +107062,7 @@
         "Tillverkningsnummer": "28-24351",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "975,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-26",
         "Registreringsdatum": "1990-10-01",
         "owners": [
             {
@@ -120131,7 +120131,7 @@
         "Tillverkningsnummer": "28R-7837005",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "1247,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-19",
         "Registreringsdatum": "2012-03-23",
         "owners": [
             {
@@ -120472,7 +120472,7 @@
         "Tillverkningsnummer": "032",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-22",
         "Registreringsdatum": "2025-05-05",
         "owners": [
             {
@@ -122372,7 +122372,7 @@
         "Tillverkningsnummer": "42.095",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "1900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-24",
         "Registreringsdatum": "2006-03-09",
         "owners": [
             {
@@ -127815,7 +127815,7 @@
         "Tillverkningsnummer": "18263823",
         "Tillverkningsår": "1975",
         "Max startvikt (kg)": "1338,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-11-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-10",
         "Registreringsdatum": "2014-01-27",
         "owners": [
             {
@@ -132495,7 +132495,7 @@
         "Tillverkningsnummer": "142Se22C04r5v",
         "Tillverkningsår": "2022",
         "Max startvikt (kg)": "525,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-30",
         "Registreringsdatum": "2022-07-27",
         "owners": [
             {
@@ -140400,7 +140400,7 @@
         "Tillverkningsnummer": "42078",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "78999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-15",
         "Registreringsdatum": "2020-01-31",
         "owners": [
             {
@@ -142262,7 +142262,7 @@
         "Tillverkningsnummer": "43626",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-22",
         "Registreringsdatum": "2025-09-23",
         "owners": [
             {
@@ -152388,10 +152388,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 688947,
+                "name": "Man on the Moon Aktiebolag",
+                "address": "Sweden",
+                "since": "2026-08-26"
             },
             {
                 "type": "Registrerad innehavare",
@@ -155214,7 +155214,7 @@
         "Tillverkningsnummer": "4224",
         "Tillverkningsår": "1973",
         "Max startvikt (kg)": "580,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-05",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-19",
         "Registreringsdatum": "1982-07-16",
         "owners": [
             {
@@ -172425,7 +172425,7 @@
         "Tillverkningsnummer": "20010907",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-30",
         "Registreringsdatum": "2001-06-11",
         "owners": [
             {
@@ -175401,7 +175401,7 @@
         "Tillverkningsnummer": "197",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "430,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-18",
         "Registreringsdatum": "2004-12-13",
         "owners": [
             {
@@ -175781,7 +175781,7 @@
         "Tillverkningsnummer": "04-07-05",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-12",
         "Registreringsdatum": "2004-12-20",
         "owners": [
             {
@@ -176850,7 +176850,7 @@
         "Tillverkningsnummer": "01-08-03-24",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-07-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-22",
         "Registreringsdatum": "2005-12-13",
         "owners": [
             {
@@ -177250,7 +177250,7 @@
         "Tillverkningsnummer": "7-9675",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-29",
         "Registreringsdatum": "2005-03-18",
         "owners": [
             {
@@ -177275,7 +177275,7 @@
         "Tillverkningsnummer": "SE 07 G 01",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-12",
         "Registreringsdatum": "2007-04-17",
         "owners": [
             {
@@ -177425,7 +177425,7 @@
         "Tillverkningsnummer": "SE 07 G 07",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-05-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-30",
         "Registreringsdatum": "2008-01-18",
         "owners": [
             {
@@ -177761,7 +177761,7 @@
         "Tillverkningsnummer": "SE 08 S 05",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-28",
         "Registreringsdatum": "2008-10-16",
         "owners": [
             {
@@ -177973,7 +177973,7 @@
         "Tillverkningsnummer": "Z1330606A",
         "Tillverkningsår": "2006",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-07",
         "Registreringsdatum": "2006-06-22",
         "owners": [
             {
@@ -178393,7 +178393,7 @@
         "Tillverkningsnummer": "E-12-01-04",
         "Tillverkningsår": "2012",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-20",
         "Registreringsdatum": "2022-07-11",
         "owners": [
             {
@@ -178493,7 +178493,7 @@
         "Tillverkningsnummer": "188",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2007-08-14",
         "owners": [
             {
@@ -178553,7 +178553,7 @@
         "Tillverkningsnummer": "SO182",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-30",
         "Registreringsdatum": "2009-05-18",
         "owners": [
             {
@@ -178655,7 +178655,7 @@
         "Tillverkningsnummer": "DAH-006",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-04",
         "Registreringsdatum": "2009-01-12",
         "owners": [
             {
@@ -178860,7 +178860,7 @@
         "Tillverkningsnummer": "075/2008",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "500,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-11",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-11",
         "Registreringsdatum": "2008-10-15",
         "owners": [
             {
@@ -178892,7 +178892,7 @@
         "Tillverkningsnummer": "0807-6984",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-07",
         "Registreringsdatum": "2008-12-04",
         "owners": [
             {
@@ -179152,10 +179152,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 746011,
+                "name": "Aktiebolaget JAMA Maskin",
+                "address": "Gamla Norrtäljevägen 104 761 91 NORRTÄLJE Sweden",
+                "since": "2026-08-25"
             },
             {
                 "type": "Registrerad innehavare",
@@ -179279,7 +179279,7 @@
         "Tillverkningsnummer": "61-08",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-13",
         "Registreringsdatum": "2011-07-12",
         "owners": [
             {
@@ -179360,7 +179360,7 @@
         "Tillverkningsnummer": "7-9854-1324",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "2012-09-19",
         "owners": [
             {
@@ -179385,7 +179385,7 @@
         "Tillverkningsnummer": "F1CC4650932B",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-28",
         "Registreringsdatum": "2017-09-21",
         "owners": [
             {
@@ -179460,7 +179460,7 @@
         "Tillverkningsnummer": "559-1294",
         "Tillverkningsår": "2012",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-26",
         "Registreringsdatum": "2013-05-30",
         "owners": [
             {
@@ -179568,7 +179568,7 @@
         "Tillverkningsnummer": "995-40-1498",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-21",
         "Registreringsdatum": "2014-10-08",
         "owners": [
             {
@@ -179773,7 +179773,7 @@
         "Tillverkningsnummer": "SE 09 S 06",
         "Tillverkningsår": "2009",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-06",
         "Registreringsdatum": "2009-08-20",
         "owners": [
             {
@@ -180474,7 +180474,7 @@
         "Tillverkningsnummer": "SE 002-1422",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-04",
         "Registreringsdatum": "2015-06-03",
         "owners": [
             {
@@ -180524,7 +180524,7 @@
         "Tillverkningsnummer": "SKR0806901-1405",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-18",
         "Registreringsdatum": "2014-11-26",
         "owners": [
             {
@@ -180888,7 +180888,7 @@
         "Tillverkningsnummer": "DY-193/2007",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-17",
         "Registreringsdatum": "2007-08-03",
         "owners": [
             {
@@ -180940,7 +180940,7 @@
         "Tillverkningsnummer": "DY-173/2007",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-23",
         "Registreringsdatum": "2007-05-23",
         "owners": [
             {
@@ -181042,7 +181042,7 @@
         "Tillverkningsnummer": "DY-230/2008",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-13",
+        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
         "Registreringsdatum": "2008-04-22",
         "owners": [
             {
@@ -181119,7 +181119,7 @@
         "Tillverkningsnummer": "DY-163/2007",
         "Tillverkningsår": "2007",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "2007-03-13",
         "owners": [
             {
@@ -181358,7 +181358,7 @@
         "Tillverkningsnummer": "V00185",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "500,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-15",
         "Registreringsdatum": "2019-07-05",
         "owners": [
             {
@@ -181436,7 +181436,7 @@
         "Tillverkningsnummer": "12175631014",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "530,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-17",
         "Registreringsdatum": "2018-03-15",
         "owners": [
             {
@@ -181514,7 +181514,7 @@
         "Tillverkningsnummer": "M00830",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "500,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-03",
         "Registreringsdatum": "2014-08-05",
         "owners": [
             {
@@ -181539,7 +181539,7 @@
         "Tillverkningsnummer": "09134060724",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-03",
         "Registreringsdatum": "2014-07-09",
         "owners": [
             {
@@ -182390,7 +182390,7 @@
         "Tillverkningsnummer": "0001-6238",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-07",
         "Registreringsdatum": "2013-09-19",
         "owners": [
             {
@@ -182542,7 +182542,7 @@
         "Tillverkningsnummer": "T13016",
         "Tillverkningsår": "2013",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-14",
         "Registreringsdatum": "2013-10-07",
         "owners": [
             {
@@ -182644,7 +182644,7 @@
         "Tillverkningsnummer": "T16008",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-27",
         "Registreringsdatum": "2016-10-18",
         "owners": [
             {
@@ -183152,7 +183152,7 @@
         "Tillverkningsnummer": "19-04-54-0675",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-01",
         "Registreringsdatum": "2019-07-31",
         "owners": [
             {
@@ -183333,7 +183333,7 @@
         "Tillverkningsnummer": "005",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-17",
         "Registreringsdatum": "2018-07-23",
         "owners": [
             {
@@ -183358,7 +183358,7 @@
         "Tillverkningsnummer": "0502-6646",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-02-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-02-07",
         "Registreringsdatum": "2018-11-26",
         "owners": [
             {
@@ -183540,7 +183540,7 @@
         "Tillverkningsnummer": "327-766",
         "Tillverkningsår": "1997",
         "Max startvikt (kg)": "437,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-22",
         "Registreringsdatum": "2018-03-19",
         "owners": [
             {
@@ -184186,7 +184186,7 @@
         "Tillverkningsnummer": "0006-6263",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-12",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-12",
         "Registreringsdatum": "2024-03-28",
         "owners": [
             {
@@ -184427,7 +184427,7 @@
         "Tillverkningsnummer": "Z1730110A",
         "Tillverkningsår": "2010",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-29",
         "Registreringsdatum": "2024-07-19",
         "owners": [
             {
@@ -185164,7 +185164,7 @@
         "Tillverkningsnummer": "1431",
         "Tillverkningsår": "1970",
         "Max startvikt (kg)": "750,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-31",
         "Registreringsdatum": "1979-07-03",
         "owners": [
             {
@@ -187442,7 +187442,7 @@
         "Tillverkningsnummer": "133-687",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "798,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-24",
         "Registreringsdatum": "2025-12-19",
         "owners": [
             {
@@ -188737,7 +188737,7 @@
         "Tillverkningsnummer": "111-733",
         "Tillverkningsår": "1961",
         "Max startvikt (kg)": "680,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-29",
         "Registreringsdatum": "1990-03-13",
         "owners": [
             {
@@ -188867,7 +188867,7 @@
         "Tillverkningsnummer": "68424-1646",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "2025-06-19",
         "owners": [
             {
@@ -191616,7 +191616,7 @@
         "Tillverkningsnummer": "136-1040",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "1542,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-30",
         "Registreringsdatum": "2007-03-15",
         "owners": [
             {
@@ -192298,7 +192298,7 @@
         "Tillverkningsnummer": "11-869",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "330,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-23",
         "Registreringsdatum": "2016-11-03",
         "owners": [
             {
@@ -195313,7 +195313,7 @@
         "Tillverkningsnummer": "1761-1430",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "810,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2023-03-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-27",
         "Registreringsdatum": "2010-04-12",
         "owners": [
             {
@@ -195459,7 +195459,7 @@
         "Tillverkningsnummer": "72106-1640",
         "Tillverkningsår": "2026",
         "Max startvikt (kg)": "816,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-04-10",
         "Registreringsdatum": "2026-04-10",
         "owners": [
             {
@@ -199536,7 +199536,7 @@
         "Tillverkningsnummer": "0805-6976",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-09",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-09",
         "Registreringsdatum": "2008-08-12",
         "owners": [
             {
@@ -199746,7 +199746,7 @@
         "Tillverkningsnummer": "014-150",
         "Tillverkningsår": "2012",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-13",
         "Registreringsdatum": "2013-08-27",
         "owners": [
             {
@@ -200368,7 +200368,7 @@
         "Tillverkningsnummer": "CAH003-1001",
         "Tillverkningsår": "1992",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-28",
         "Registreringsdatum": "1992-05-19",
         "owners": [
             {
@@ -200393,7 +200393,7 @@
         "Tillverkningsnummer": "AAH004-1002",
         "Tillverkningsår": "1992",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-27",
         "Registreringsdatum": "1992-04-30",
         "owners": [
             {
@@ -200470,7 +200470,7 @@
         "Tillverkningsnummer": "AAH010-1005",
         "Tillverkningsår": "1992",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-21",
         "Registreringsdatum": "1993-10-21",
         "owners": [
             {
@@ -202992,7 +202992,7 @@
         "Tillverkningsnummer": "CAH-006",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-01",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-16",
         "Registreringsdatum": "1995-06-21",
         "owners": [
             {
@@ -204222,7 +204222,7 @@
         "Tillverkningsnummer": "10971176-1030",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-07",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-07",
         "Registreringsdatum": "2002-05-15",
         "owners": [
             {
@@ -205476,7 +205476,7 @@
         "Tillverkningsnummer": "0290-746",
         "Tillverkningsår": "1991",
         "Max startvikt (kg)": "437,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-15",
         "Registreringsdatum": "2002-08-21",
         "owners": [
             {
@@ -205501,7 +205501,7 @@
         "Tillverkningsnummer": "03-01-02-02",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-27",
         "Registreringsdatum": "2003-05-27",
         "owners": [
             {
@@ -205721,7 +205721,7 @@
         "Tillverkningsnummer": "6-9445",
         "Tillverkningsår": "2003",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-24",
         "Registreringsdatum": "2004-12-20",
         "owners": [
             {
