@@ -1815,7 +1815,7 @@
         "Tillverkningsnummer": "EAA-1093",
         "Tillverkningsår": "2014",
         "Max startvikt (kg)": "520,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-01",
         "Registreringsdatum": "2014-10-01",
         "owners": [
             {
@@ -117988,7 +117988,7 @@
         "Tillverkningsnummer": "044",
         "Tillverkningsår": "2026",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-08",
         "Registreringsdatum": "2026-04-16",
         "owners": [
             {
@@ -139741,7 +139741,7 @@
         "Tillverkningsnummer": "8404",
         "Tillverkningsår": "2018",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-11-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-11-15",
         "Registreringsdatum": "2018-09-11",
         "owners": [
             {
