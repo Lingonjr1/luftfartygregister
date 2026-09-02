@@ -11414,7 +11414,7 @@
         "Tillverkningsnummer": "25328",
         "Tillverkningsår": "1943",
         "Max startvikt (kg)": "11430,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-31",
         "Registreringsdatum": "1984-06-26",
         "owners": [
             {
@@ -55105,10 +55105,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 503771,
-                "name": "Ensio Invest AB",
-                "address": "Box 4146 181 04 LIDINGÖ Sweden",
-                "since": "2011-10-04"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
@@ -117970,7 +117970,7 @@
                 "type": "Registrerad ägare",
                 "id": 750421,
                 "name": "Aviaris AB",
-                "address": "Gnejsvägen 5 335 32  Gnosjö Sweden",
+                "address": "Box 200 335 25 Gnosjö Sweden",
                 "since": "2026-07-10"
             },
             {
@@ -119399,7 +119399,7 @@
         "Tillverkningsnummer": "40069",
         "Tillverkningsår": "2002",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-08",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-08",
         "Registreringsdatum": "2002-09-24",
         "owners": [
             {
@@ -161383,10 +161383,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 502477,
-                "name": "Eskilstuna Flygklubb",
-                "address": "Ekeby Flygfält 632 23 ESKILSTUNA Sweden",
-                "since": "1988-04-13"
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
             },
             {
                 "type": "Registrerad innehavare",
