@@ -28118,7 +28118,7 @@
         "Tillverkningsnummer": "28R-30687",
         "Tillverkningsår": "1968",
         "Max startvikt (kg)": "1135,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-15",
         "Registreringsdatum": "1968-06-14",
         "owners_amount": 1,
         "owners": [
@@ -39473,10 +39473,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500465,
-                "name": "Wermlandsflyg AB",
-                "address": "Bergebyvägen 49B 685 93 Torsby Sweden",
-                "since": "2021-10-29"
+                "id": 724753,
+                "name": "Molander Aviation AB",
+                "address": "Pålnäsvägen 21 133 33 SALTSJÖBADEN Sweden",
+                "since": "2026-09-08"
             }
         ]
     },
@@ -39746,7 +39746,7 @@
         "Tillverkningsnummer": "3092",
         "Tillverkningsår": "1978",
         "Max startvikt (kg)": "950,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-30",
         "Registreringsdatum": "1978-06-07",
         "owners_amount": 1,
         "owners": [
@@ -44040,7 +44040,7 @@
         "Tillverkningsnummer": "45321",
         "Tillverkningsår": "1979",
         "Max startvikt (kg)": "1837,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-25",
         "Registreringsdatum": "1980-02-19",
         "owners_amount": 1,
         "owners": [
@@ -51719,7 +51719,7 @@
         "Tillverkningsnummer": "F17202167",
         "Tillverkningsår": "1982",
         "Max startvikt (kg)": "1089,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-28",
         "Registreringsdatum": "1982-10-05",
         "owners_amount": 1,
         "owners": [
@@ -63713,6 +63713,9 @@
     },
     {
         "code": "SE-JMJ",
+        "Avregistrerad": "2026-09-08",
+        "Orsak": "Exported",
+        "Land": "Finland",
         "Luftfartygstyp": "BELL-206B",
         "Tillverkningsnummer": "3950",
         "Tillverkningsår": "1986",
@@ -63722,7 +63725,7 @@
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 500232,
                 "name": "Roslagens Helikopterflyg AB",
                 "address": "Sikvägen 761 41 Norrtälje Sweden",
@@ -88656,7 +88659,7 @@
         "Tillverkningsnummer": "2843347",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-15",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-15",
         "Registreringsdatum": "2010-05-05",
         "owners_amount": 2,
         "owners": [
@@ -89037,7 +89040,7 @@
         "Tillverkningsnummer": "20151709",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-04",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-06-04",
         "Registreringsdatum": "2015-05-22",
         "owners_amount": 1,
         "owners": [
@@ -99100,7 +99103,7 @@
         "Tillverkningsnummer": "42070",
         "Tillverkningsår": "2015",
         "Max startvikt (kg)": "78999,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-20",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-20",
         "Registreringsdatum": "2020-01-30",
         "owners_amount": 1,
         "owners": [
@@ -102071,14 +102074,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -103811,14 +103814,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104606,14 +104609,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105281,18 +105284,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -111634,7 +111637,7 @@
         "Tillverkningsnummer": "6342",
         "Tillverkningsår": "1985",
         "Max startvikt (kg)": "850,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-27",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-27",
         "Registreringsdatum": "2003-04-30",
         "owners_amount": 1,
         "owners": [
@@ -124497,6 +124500,17 @@
         "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2027-05-20",
         "Registreringsdatum": "2016-02-03",
+        "owners_amount": 1,
+        "owners": []
+    },
+    {
+        "code": "SE-VTO",
+        "Luftfartygstyp": "VOYAGEUR-II",
+        "Tillverkningsnummer": "273",
+        "Tillverkningsår": "2010",
+        "Max startvikt (kg)": "450,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-09-08",
         "owners_amount": 1,
         "owners": []
     },
