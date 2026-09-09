@@ -1,10 +1,8 @@
 {
-    "added_count": 1,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7859,
-    "added": [
-        "SE-VTO"
-    ],
+    "changed_count": 7860,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -6661,6 +6659,7 @@
         "SE-VTE",
         "SE-VTM",
         "SE-VTN",
+        "SE-VTO",
         "SE-VTS",
         "SE-VTT",
         "SE-VTV",

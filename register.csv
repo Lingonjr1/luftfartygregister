@@ -1140,7 +1140,7 @@ SE-EFC,2007-01-15,Exported,,MFI-9,16,1963,"575,0",1989-04-30,1963-10-21,1,,,,,
 SE-EFD,1987-08-25,Exported,Norway,MFI-9,17,1963,"575,0",1987-06-30,1964-01-03,1,,,,,
 SE-EFF,,,,MFI-9B,019-623,1964,"575,0",2026-09-30,1983-08-19,1,,,,,
 SE-EFH,,,,MFI-9/9B,21,1963,"575,0",2026-10-31,1964-04-09,1,,,,,
-SE-EFM,,,,MFI-9B,025,1964,"0,0",2020-10-31,1965-02-10,1,,,,,
+SE-EFM,,,,MFI-9B,025,1964,"575,0",2020-10-31,1965-02-10,1,,,,,
 SE-EFO,,,,MFI-9B,027-1337,1964,"575,0",2027-08-09,1977-04-21,1,,,,,
 SE-EFR,,,,MFI-9B,029,1964,"575,0",2027-08-31,1964-10-10,1,,,,,
 SE-EFS,,,,MFI-9B,030-378,1964,"575,0",2025-09-30,1964-12-18,1,,,,,
@@ -1855,7 +1855,7 @@ SE-GBC,1985-12-05,Exported,Sudan,PIPER PA-25-260,25-5245,1970,"1315,0",,1973-05-
 SE-GBE,,,,PIPER-PA28-151,28-7415071,1973,"1055,0",2019-04-30,1974-03-01,1,Registrerad ägare,504557.0,B N Flyg & Maskin AB,Fiskarhagsvägen 10 145 90 NORSBORG Sweden,2018-09-17
 SE-GBF,,,,EAA-PA25 Pawnee,25-7305529-1248,1973,"1000,0",2027-05-31,1974-03-08,1,Registrerad ägare,502564.0,Segelflygklubben i Karlstad,Sweden,1997-02-11
 SE-GBG,2009-10-20,Exported,Hungary,PIPER-PA31,31-7401234,1974,"2948,0",2009-09-27,1974-07-12,1,,,,,
-SE-GBH,,,,PIPER-PA28-151,28-7415307,1974,"1055,0",2026-09-24,1974-07-02,1,,,,,
+SE-GBH,,,,PIPER-PA28-151,28-7415307,1974,"1055,0",2027-09-24,1974-07-02,1,,,,,
 SE-GBK,2003-01-21,Exported,United Kingdom,PIPER-PA32-260,32-7400027,1974,"1540,0",,1974-04-24,1,Senast registrerad ägare,504583.0,Air-Unlimited Sweden AB,Sweden,2002-05-16
 SE-GBL,2025-12-03,Exported,Greece,PIPER-PA34-200,34-7450147,1974,"1905,0",2025-12-17,1974-07-01,1,Senast registrerad ägare,529000.0,Prokitor AB,Jönköpings Flygplats (Hangaren) 555 93 JÖNKÖPING Sweden,2020-12-21
 SE-GBM,2000-05-25,Exported,Denmark,PIPER-PA28-151,28-7415339,1974,"1055,0",,1974-07-25,1,Senast registrerad ägare,504374.0,Scandinavian Airleasing AB,Risebergavägen 62 212 30 MALMÖ Sweden,2000-02-25
@@ -3404,7 +3404,7 @@ SE-JOY,2020-06-09,Exported,Germany,ROBINSON-R44II,11224,2006,"1134,0",2018-12-11
 SE-JOZ,,,,EUROCOPTER-EC120B,1398,2005,"1715,0",2027-06-10,2005-10-06,1,Registrerad ägare,630202.0,Garraway Logistics AB,Sweden,2021-01-08
 SE-JPA,2023-08-24,Exported,Philippines,MCDONNELL DOUGLAS-369E,0358E,1986,"1360,0",2023-08-23,2011-05-02,1,Senast registrerad ägare,500468.0,Arctic Air AB,Vuoggatjålme 952 938 97 Arjeplog Sweden,2011-05-11
 SE-JPB,,,,BELL-206L1,45783,1983,"1882,0",2025-06-30,2011-06-20,1,Registrerad ägare,500468.0,Arctic Air AB,Vuoggatjålme 952 938 97 Arjeplog Sweden,2011-06-20
-SE-JPC,,,,MCDONNELL DOUGLAS-369E,0461E,1991,"1360,0",2026-09-13,2012-03-29,1,Registrerad ägare,500468.0,Arctic Air AB,Vuoggatjålme 952 938 97 Arjeplog Sweden,2012-04-03
+SE-JPC,,,,MCDONNELL DOUGLAS-369E,0461E,1991,"1360,0",2027-09-13,2012-03-29,1,Registrerad ägare,500468.0,Arctic Air AB,Vuoggatjålme 952 938 97 Arjeplog Sweden,2012-04-03
 SE-JPD,,,,ROBINSON-R44II,11787,2007,"1134,0",2027-06-26,2011-01-12,1,,,,,
 SE-JPE,2023-08-22,Exported,Australia,HUGHES-369D,1099D,1981,"1360,0",2024-04-11,2012-03-30,1,Senast registrerad ägare,500012.0,HeliAir Sweden AB,Lycksta Gård 1 725 94 VÄSTERÅS Sweden,2012-03-30
 SE-JPF,2025-03-14,Exported,Canada,EUROCOPTER-AS350B2,2880,1995,"2250,0",2025-08-19,2024-07-26,1,Senast registrerad ägare,500012.0,HeliAir Sweden AB,Lycksta Gård 1 725 94 VÄSTERÅS Sweden,2024-07-26
@@ -5328,8 +5328,8 @@ SE-SUC,2000-05-18,Owners request,,SCHEIBE-BERGFALKE II/55,211,1956,"440,0",,1956
 SE-SUF,2004-03-24,Owners request,,SCHEIBE-BERGFALKE II/55,215,1956,"440,0",,1956-06-29,1,Senast registrerad ägare,502542.0,Norbergs Flygklubb,Sweden,1992-03-18
 SE-SUI,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,217,1956,"440,0",,1956-08-07,1,Senast registrerad ägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1978-04-12
 SE-SUL,1996-02-28,Owners request,,SCHEIBE-BERGFALKE II/55,218,1956,"440,0",,1956-11-22,1,Senast registrerad ägare,502628.0,Östersunds Segelflygklubb,Sweden,1994-06-23
-SE-SUM,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,219,1956,"440,0",,1957-07-19,2,Senast registrerad ägare,502522.0,Ljusdals Flygklubb,Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden,1981-03-02
 SE-SUM,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,219,1956,"440,0",,1957-07-19,2,Senast registrerad delägare,502522.0,Ljusdals Flygklubb,Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden,1981-03-02
+SE-SUM,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,219,1956,"440,0",,1957-07-19,2,Senast registrerad ägare,502522.0,Ljusdals Flygklubb,Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden,1981-03-02
 SE-SUR,2015-11-05,Exported,Lithuania,SCHEIBE-BERGFALKE II/55,223,1956,"440,0",,1956-09-25,1,Senast registrerad ägare,502535.0,Motala Flygklubb,Skärstad Nedre Bostället 425 591 94 MOTALA Sweden,1992-03-18
 SE-SUT,2007-01-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,231,1957,"440,0",,1957-04-25,1,Senast registrerad ägare,502479.0,Falbygdens Flygklubb,Falköpings Flygplats 521 91 FALKÖPING Sweden,1992-12-07
 SE-SUU,2011-10-17,Owners request,,SCHEIBE-BERGFALKE II/55,232,1957,"440,0",2011-04-26,1957-05-17,1,,,,,
@@ -5356,8 +5356,8 @@ SE-SXK,2016-12-29,Scrapped,,SCHEIBE-BERGFALKE II/55,269,1958,"440,0",,1958-06-19
 SE-SXL,2007-01-24,Non-airworthy,,SCHEIBE-BERGFALKE II/55,270,1958,"440,0",,1958-06-19,1,Senast registrerad ägare,502603.0,Vilhelmina Flygklubb,BLACKE 121 930 10 LÖVÅNGER Sweden,1992-04-01
 SE-SXM,1992-11-12,Destroyed,,SCHEIBE-BERGFALKE II/55,271,1958,"440,0",,1958-06-19,2,Senast registrerad delägare,502557.0,Ovansiljans Segelflygklubb,Box 276 79201 MORA Sweden,1980-01-21
 SE-SXM,1992-11-12,Destroyed,,SCHEIBE-BERGFALKE II/55,271,1958,"440,0",,1958-06-19,2,Senast registrerad ägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1980-01-21
-SE-SXN,1992-10-22,Total write-off,,SCHEIBE-BERGFALKE II/55,281,1959,"440,0",,1960-04-11,2,Senast registrerad delägare,502822.0,Höganäs Segelflygklubb,Sweden,1984-08-27
 SE-SXN,1992-10-22,Total write-off,,SCHEIBE-BERGFALKE II/55,281,1959,"440,0",,1960-04-11,2,Senast registrerad ägare,502822.0,Höganäs Segelflygklubb,Sweden,1984-08-27
+SE-SXN,1992-10-22,Total write-off,,SCHEIBE-BERGFALKE II/55,281,1959,"440,0",,1960-04-11,2,Senast registrerad delägare,502822.0,Höganäs Segelflygklubb,Sweden,1984-08-27
 SE-SXO,2006-05-10,Owners request,,SCHEIBE-BERGFALKE II/55,282,1959,"440,0",,1959-06-12,1,Senast registrerad ägare,502544.0,Flygklubben Nordvingen,Box 146 982 21 GÄLLIVARE Sweden,1997-03-24
 SE-SXP,,,,SCHEIBE-BERGFALKE II/55,283,1959,"440,0",,1959-06-12,1,,,,,
 SE-SXU,2006-05-18,Non-airworthy,,SCHEIBE-BERGFALKE II/55,286,1959,"440,0",,1959-06-24,1,Senast registrerad ägare,503117.0,Svenska Segelflygförbundet,Box 750 521 22 FALKÖPING Sweden,2006-01-02
@@ -5478,10 +5478,10 @@ SE-TEN,2013-05-22,Exported,Hungary,SCHEIBE-BERGFALKE III,5579,1966,"465,0",,1967
 SE-TEO,,,,SCHEIBE-BERGFALKE III,5589,1966,"465,0",,1967-04-26,1,Registrerad ägare,502477.0,Eskilstuna Flygklubb,Ekeby Flygfält 632 23 ESKILSTUNA Sweden,1988-09-06
 SE-TEP,2007-01-19,Non-airworthy,,SCHEIBE-BERGFALKE III,5590,1966,"465,0",,1967-04-27,2,Senast registrerad ägare,502567.0,Siljansnäs Flygklubb,Vindmyrevägen 7 793 60 SILJANSNÄS Sweden,1979-04-23
 SE-TEP,2007-01-19,Non-airworthy,,SCHEIBE-BERGFALKE III,5590,1966,"465,0",,1967-04-27,2,Senast registrerad delägare,504122.0,Kungliga Svenska Aeroklubben,"Gustavslundsvägen 137, 5 tr 167 51 BROMMA Sweden",1979-04-23
-SE-TER,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5591,1966,"465,0",,1967-07-19,2,Senast registrerad delägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1973-08-23
 SE-TER,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5591,1966,"465,0",,1967-07-19,2,Senast registrerad ägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1973-08-23
-SE-TES,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5592,1967,"465,0",,1967-04-26,2,Senast registrerad ägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1967-04-26
+SE-TER,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5591,1966,"465,0",,1967-07-19,2,Senast registrerad delägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1973-08-23
 SE-TES,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5592,1967,"465,0",,1967-04-26,2,Senast registrerad delägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1967-04-26
+SE-TES,1989-07-26,Scrapped,,SCHEIBE-BERGFALKE III,5592,1967,"465,0",,1967-04-26,2,Senast registrerad ägare,502630.0,Östra Sörmlands Flygklubb,Box 78 646 21 GNESTA Sweden,1967-04-26
 SE-TEW,2007-10-30,Exported,Lithuania,SCHEIBE-BERGFALKE III,5600,1967,"465,0",,1967-07-12,1,Senast registrerad ägare,502579.0,Stockholms Segelflygklubb,Box 888 101 37 STOCKHOLM Sweden,1998-04-15
 SE-TEX,2012-06-19,Scrapped,,SCHEIBE-BERGFALKE III,5602,1967,"465,0",,1967-06-29,1,Senast registrerad ägare,502612.0,Västra Gästrike Flygklubb,Norvägen 37 812 90 STORVIK Sweden,1992-03-18
 SE-TEY,,,,SCHEIBE-BERGFALKE III,5604,1967,"465,0",2026-07-04,1967-09-01,1,Registrerad ägare,502619.0,Älvsby Flygklubb,Sweden,2015-07-17
@@ -7801,7 +7801,7 @@ SE-ZIC,,,,LBL-90A,786,2001,"900,0",2026-05-31,2018-10-12,1,,,,,
 SE-ZID,,,,BB-30Z,198,2002,"945,0",2009-06-30,2002-06-27,1,Registrerad ägare,503721.0,GE Credit Finans AB,Box 304 171 75 STOCKHOLM Sweden,2002-06-27
 SE-ZIE,2015-07-07,Exported,Czech Republic,ULTRAMAGIC-N300,300/05,2002,"2680,0",2016-07-12,2002-06-24,1,Senast registrerad ägare,500863.0,Ballongflyg Upp & Ner AB,Saltsjöbadsvägen 20 131 50 Saltsjö-Duvnäs Sweden,2012-05-07
 SE-ZIF,,,,LBL-600C,900,2003,"5100,0",2027-03-16,2003-06-17,1,Registrerad ägare,669141.0,DreamBalloon flights ApS,Svejsegangen 8 DK-2690 Karlslunde Denmark,2021-12-22
-SE-ZIH,,,,COLT-90A,4496,1998,"900,0",2025-12-29,1999-01-15,1,Registrerad ägare,711950.0,AeroWines SWE AB,Claesborgsvägen 41 541 53 Skövde Sweden,2023-12-28
+SE-ZIH,,,,COLT-90A,4496,1998,"900,0",2025-12-29,1999-01-15,1,,,,,
 SE-ZII,,,,ULTRAMAGIC-M130,130/14,1998,"1365,0",2024-02-10,1998-06-17,1,Registrerad ägare,504554.0,Oscair Project AB,Sweden,2005-07-21
 SE-ZIK,2017-03-06,Exported,France,LBL-105A,880,2002,"1050,0",2016-04-30,2003-04-16,1,,,,,
 SE-ZIL,2001-04-05,Exported,Belgium,CAMERON-A250,4821,2000,"2268,0",,2000-05-25,1,Senast registrerad ägare,504720.0,City Ballong AB,Gästrikegatan 8 113 62 STOCKHOLM Sweden,2000-05-25
