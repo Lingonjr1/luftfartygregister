@@ -12478,7 +12478,7 @@
         "Tillverkningsnummer": "46518",
         "Tillverkningsår": "1959",
         "Max startvikt (kg)": "998,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-01-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-19",
         "Registreringsdatum": "1959-08-14",
         "owners": [
             {
@@ -71780,10 +71780,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 752531,
+                "name": "Jan-Ove Rova Förvaltning AB",
+                "address": "Sweden",
+                "since": "2026-09-10"
             },
             {
                 "type": "Registrerad innehavare",
@@ -96779,10 +96779,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 500469,
-                "name": "Storm Heliworks AB",
-                "address": "Lägervägen 2 832 56 Frösön Sweden",
-                "since": "2022-01-05"
+                "id": 586870,
+                "name": "Bida Entreprenad AB",
+                "address": "Västbyggevägen 9 818 32  VALBO Sweden",
+                "since": "2026-09-10"
             },
             {
                 "type": "Registrerad innehavare",
@@ -139619,7 +139619,7 @@
         "Tillverkningsnummer": "9247",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-02",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-02",
         "Registreringsdatum": "2019-12-19",
         "owners": [
             {
@@ -144139,10 +144139,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "2026-09-10"
             },
             {
                 "type": "Registrerad innehavare",
