@@ -38770,7 +38770,7 @@
         "Tillverkningsnummer": "28-7715242",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-07",
         "Registreringsdatum": "1977-04-21",
         "owners_amount": 1,
         "owners": [
@@ -59701,7 +59701,7 @@
         "Tillverkningsnummer": "1062",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-24",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-24",
         "Registreringsdatum": "2000-03-31",
         "owners_amount": 1,
         "owners": [
@@ -70717,7 +70717,7 @@
         "Max startvikt (kg)": "1157,0",
         "Luftvärdighetshandling giltig t.o.m.": "2021-09-21",
         "Registreringsdatum": "1988-07-12",
-        "owners_amount": 1,
+        "owners_amount": 2,
         "owners": []
     },
     {
@@ -84153,7 +84153,7 @@
         "Tillverkningsnummer": "F-11-09-12",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-14",
         "Registreringsdatum": "2012-04-04",
         "owners_amount": 1,
         "owners": [
@@ -91112,6 +91112,25 @@
                 "name": "Avincis Aviation Sweden AB",
                 "address": "Stockevägen 68 832 56 FRÖSÖN Sweden",
                 "since": "2018-06-20"
+            }
+        ]
+    },
+    {
+        "code": "SE-MJK",
+        "Luftfartygstyp": "ICP SAVANNAH S",
+        "Tillverkningsnummer": "12-10-54-0219",
+        "Tillverkningsår": "2012",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-09-14",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 502486,
+                "name": "Gagnefs Flygklubb",
+                "address": "Sweden",
+                "since": "2026-09-14"
             }
         ]
     },
@@ -102539,14 +102558,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -105300,18 +105319,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1974-01-30"
-            },
-            {
                 "type": "Senast registrerad ägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1981-07-27"
+            },
+            {
+                "type": "Senast registrerad delägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1974-01-30"
             }
         ]
     },
@@ -106152,18 +106171,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502579,
-                "name": "Stockholms Segelflygklubb",
-                "address": "Box 888 101 37 STOCKHOLM Sweden",
-                "since": "1978-04-20"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1972-06-16"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502579,
+                "name": "Stockholms Segelflygklubb",
+                "address": "Box 888 101 37 STOCKHOLM Sweden",
+                "since": "1978-04-20"
             }
         ]
     },
@@ -125996,7 +126015,7 @@
         "Tillverkningsnummer": "36",
         "Tillverkningsår": "1983",
         "Max startvikt (kg)": "617,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-30",
         "Registreringsdatum": "1984-06-12",
         "owners_amount": 1,
         "owners": []
@@ -139145,7 +139164,7 @@
         "Tillverkningsnummer": "4496",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-13",
         "Registreringsdatum": "1999-01-15",
         "owners_amount": 1,
         "owners": []

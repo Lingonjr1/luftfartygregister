@@ -56978,7 +56978,7 @@
         "Tillverkningsnummer": "28-7715242",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1055,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-04-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-07",
         "Registreringsdatum": "1977-04-21",
         "owners": [
             {
@@ -86399,7 +86399,7 @@
         "Tillverkningsnummer": "1062",
         "Tillverkningsår": "1999",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-24",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-24",
         "Registreringsdatum": "2000-03-31",
         "owners": [
             {
@@ -100950,6 +100950,13 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            },
+            {
+                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -120109,7 +120116,7 @@
         "Tillverkningsnummer": "F-11-09-12",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-23",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-14",
         "Registreringsdatum": "2012-04-04",
         "owners": [
             {
@@ -129896,6 +129903,31 @@
             },
             {
                 "type": "Senast registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-MJK",
+        "Luftfartygstyp": "ICP SAVANNAH S",
+        "Tillverkningsnummer": "12-10-54-0219",
+        "Tillverkningsår": "2012",
+        "Max startvikt (kg)": "600,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-09-14",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 502486,
+                "name": "Gagnefs Flygklubb",
+                "address": "Sweden",
+                "since": "2026-09-14"
+            },
+            {
+                "type": "Registrerad innehavare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -185409,7 +185441,7 @@
         "Tillverkningsnummer": "36",
         "Tillverkningsår": "1983",
         "Max startvikt (kg)": "617,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-30",
         "Registreringsdatum": "1984-06-12",
         "owners": [
             {
@@ -210978,7 +211010,7 @@
         "Tillverkningsnummer": "4496",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-12-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-13",
         "Registreringsdatum": "1999-01-15",
         "owners": [
             {
