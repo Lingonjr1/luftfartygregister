@@ -11119,7 +11119,7 @@
         "Tillverkningsnummer": "18-5533-1179",
         "Tillverkningsår": "1957",
         "Max startvikt (kg)": "795,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-30",
         "Registreringsdatum": "1957-05-16",
         "owners": [
             {
@@ -30486,7 +30486,7 @@
         "Tillverkningsnummer": "17249678",
         "Tillverkningsår": "1962",
         "Max startvikt (kg)": "1045,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-19",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-19",
         "Registreringsdatum": "1963-01-30",
         "owners": [
             {
@@ -122997,7 +122997,7 @@
         "Tillverkningsnummer": "822508",
         "Tillverkningsår": "1982",
         "Max startvikt (kg)": "1305,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2025-09-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-06",
         "Registreringsdatum": "2020-12-14",
         "owners": [
             {
@@ -126277,7 +126277,7 @@
         "Tillverkningsnummer": "2011 1408",
         "Tillverkningsår": "2011",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-10",
         "Registreringsdatum": "2011-05-06",
         "owners": [
             {
@@ -128860,7 +128860,7 @@
         "Tillverkningsnummer": "2843056",
         "Tillverkningsår": "1996",
         "Max startvikt (kg)": "1157,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-03",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-03",
         "Registreringsdatum": "2016-03-04",
         "owners": [
             {
@@ -212226,6 +212226,31 @@
                 "name": "ANONYMOUS",
                 "address": null,
                 "since": null
+            },
+            {
+                "type": "Registrerad innehavare",
+                "id": null,
+                "name": "ANONYMOUS",
+                "address": null,
+                "since": null
+            }
+        ]
+    },
+    {
+        "code": "SE-ZLX",
+        "Luftfartygstyp": "CAMERON-Z90",
+        "Tillverkningsnummer": "12866",
+        "Tillverkningsår": "2026",
+        "Max startvikt (kg)": "816,0",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-10",
+        "Registreringsdatum": "2026-09-11",
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 504424,
+                "name": "Ballongfirman Far och Flyg Aktiebolag",
+                "address": "Baltzar von Platens gata 12c 112 42 Stockholm Sweden",
+                "since": "2026-09-11"
             },
             {
                 "type": "Registrerad innehavare",
