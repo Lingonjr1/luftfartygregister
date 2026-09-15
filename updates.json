@@ -1,10 +1,8 @@
 {
-    "added_count": 1,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7861,
-    "added": [
-        "SE-MJK"
-    ],
+    "changed_count": 7862,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -4732,6 +4730,7 @@
         "SE-MJH",
         "SE-MJI",
         "SE-MJJ",
+        "SE-MJK",
         "SE-MJL",
         "SE-MJM",
         "SE-MJN",

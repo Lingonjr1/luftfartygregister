@@ -84336,10 +84336,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 505066,
-                "name": "Norr Helikopter i Vilhelmina AB",
-                "address": "Volgsjövägen 31 912 32 VILHELMINA Sweden",
-                "since": "2021-06-15"
+                "id": 607071,
+                "name": "Bjair AB",
+                "address": "Ranarpsvägen 292 269 71 Förslöv Sweden",
+                "since": "2026-09-15"
             },
             {
                 "type": "Registrerad innehavare",
@@ -121825,7 +121825,7 @@
         "Tillverkningsnummer": "1541",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-10",
         "Registreringsdatum": "2024-09-30",
         "owners": [
             {
@@ -141997,7 +141997,7 @@
         "Tillverkningsnummer": "62904",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-11-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-11-14",
         "Registreringsdatum": "2023-11-15",
         "owners": [
             {
@@ -204571,13 +204571,6 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": null,
-                "name": "ANONYMOUS",
-                "address": null,
-                "since": null
-            },
-            {
-                "type": "Registrerad delägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,

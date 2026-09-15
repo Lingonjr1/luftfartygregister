@@ -58113,10 +58113,10 @@
         "owners": [
             {
                 "type": "Registrerad ägare",
-                "id": 505066,
-                "name": "Norr Helikopter i Vilhelmina AB",
-                "address": "Volgsjövägen 31 912 32 VILHELMINA Sweden",
-                "since": "2021-06-15"
+                "id": 607071,
+                "name": "Bjair AB",
+                "address": "Ranarpsvägen 292 269 71 Förslöv Sweden",
+                "since": "2026-09-15"
             }
         ]
     },
@@ -85345,7 +85345,7 @@
         "Tillverkningsnummer": "1541",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1361,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-10",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-10",
         "Registreringsdatum": "2024-09-30",
         "owners_amount": 1,
         "owners": [
@@ -100351,7 +100351,7 @@
         "Tillverkningsnummer": "62904",
         "Tillverkningsår": "2023",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-11-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-11-14",
         "Registreringsdatum": "2023-11-15",
         "owners_amount": 1,
         "owners": [
@@ -104616,14 +104616,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -104644,14 +104644,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
                 "since": "1967-04-26"
             },
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502630,
                 "name": "Östra Sörmlands Flygklubb",
                 "address": "Box 78 646 21 GNESTA Sweden",
@@ -105319,18 +105319,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -135147,7 +135147,7 @@
         "Max startvikt (kg)": "450,0",
         "Luftvärdighetshandling giltig t.o.m.": "2027-07-26",
         "Registreringsdatum": "2000-07-26",
-        "owners_amount": 2,
+        "owners_amount": 1,
         "owners": []
     },
     {
