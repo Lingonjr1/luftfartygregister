@@ -29236,7 +29236,7 @@
         "Tillverkningsnummer": "15-901-1318",
         "Tillverkningsår": "1976",
         "Max startvikt (kg)": "1200,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-30",
         "Registreringsdatum": "1989-09-04",
         "owners_amount": 1,
         "owners": []
@@ -48879,7 +48879,7 @@
     {
         "code": "SE-HYR",
         "Luftfartygstyp": "Sycamore Mk1",
-        "Tillverkningsnummer": "ZYCA 20-1116",
+        "Tillverkningsnummer": "SYCA 0020-1116",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "590,0",
         "Luftvärdighetshandling giltig t.o.m.": "2017-03-31",
@@ -65839,7 +65839,7 @@
         "Tillverkningsnummer": "1172",
         "Tillverkningsår": "2000",
         "Max startvikt (kg)": "1715,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-17",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-17",
         "Registreringsdatum": "2016-05-13",
         "owners_amount": 1,
         "owners": [
@@ -91448,7 +91448,7 @@
         "Tillverkningsnummer": "1357",
         "Tillverkningsår": "2016",
         "Max startvikt (kg)": "22800,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-06",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-06",
         "Registreringsdatum": "2016-10-07",
         "owners_amount": 1,
         "owners": [
@@ -93356,6 +93356,25 @@
         "owners": []
     },
     {
+        "code": "SE-MPI",
+        "Luftfartygstyp": "PIPER-PA28-161",
+        "Tillverkningsnummer": "2816112",
+        "Tillverkningsår": "1995",
+        "Max startvikt (kg)": "1107,0",
+        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Registreringsdatum": "2026-09-16",
+        "owners_amount": 1,
+        "owners": [
+            {
+                "type": "Registrerad ägare",
+                "id": 750422,
+                "name": "Aeroclub de Castellon",
+                "address": "Camino la Plana s/n ES-12100 Castellon de la Plana Spain",
+                "since": "2026-09-16"
+            }
+        ]
+    },
+    {
         "code": "SE-MSB",
         "Luftfartygstyp": "PIPER-PA46-500TP",
         "Tillverkningsnummer": "4697728",
@@ -93399,7 +93418,7 @@
         "Tillverkningsnummer": "64427",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "82190,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-09",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-09",
         "Registreringsdatum": "2025-10-09",
         "owners_amount": 1,
         "owners": [
@@ -96726,6 +96745,9 @@
     },
     {
         "code": "SE-RIV",
+        "Avregistrerad": "2026-09-16",
+        "Orsak": "Exported",
+        "Land": "United States of America",
         "Luftfartygstyp": "CESSNA-560XL",
         "Tillverkningsnummer": "560-5332",
         "Tillverkningsår": "2003",
@@ -96735,7 +96757,7 @@
         "owners_amount": 1,
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 500111,
                 "name": "Bromma Air Maintenance AB",
                 "address": "Hangar 4, Bromma Airport 168 67 Bromma Sweden",
@@ -102558,14 +102580,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -103849,14 +103871,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
                 "since": "1965-05-18"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502600,
                 "name": "Uppsala Flygklubb",
                 "address": "Sundbro Flygplats 743 05 BÄLINGE Sweden",
@@ -104616,14 +104638,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
                 "since": "1973-08-23"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502579,
                 "name": "Stockholms Segelflygklubb",
                 "address": "Box 888 101 37 STOCKHOLM Sweden",
@@ -106260,14 +106282,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
@@ -127070,7 +127092,7 @@
         "Tillverkningsnummer": "V-2302-44",
         "Tillverkningsår": "1990",
         "Max startvikt (kg)": "363,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-30",
         "Registreringsdatum": "2004-09-08",
         "owners_amount": 1,
         "owners": []
