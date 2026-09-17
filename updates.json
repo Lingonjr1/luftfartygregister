@@ -1,10 +1,8 @@
 {
-    "added_count": 1,
+    "added_count": 0,
     "removed_count": 0,
-    "changed_count": 7862,
-    "added": [
-        "SE-MPI"
-    ],
+    "changed_count": 7863,
+    "added": [],
     "removed": [],
     "changed": [
         "SE-001",
@@ -4853,6 +4851,7 @@
         "SE-MOX",
         "SE-MOY",
         "SE-MPF",
+        "SE-MPI",
         "SE-MSB",
         "SE-NAA",
         "SE-NAB",

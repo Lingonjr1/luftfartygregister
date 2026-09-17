@@ -30313,6 +30313,9 @@
     },
     {
         "code": "SE-EAC",
+        "Avregistrerad": "2026-09-17",
+        "Orsak": "Exported",
+        "Land": "Latvia",
         "Luftfartygstyp": "CESSNA-172C",
         "Tillverkningsnummer": "17249209",
         "Tillverkningsår": "1962",
@@ -30321,7 +30324,7 @@
         "Registreringsdatum": "1962-10-11",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 659148,
                 "name": "SIA ET Energija",
                 "address": "Strazdu iela 1-1 LV-1002 RIGA Latvia",
@@ -69235,6 +69238,9 @@
     },
     {
         "code": "SE-HTH",
+        "Avregistrerad": "2026-09-17",
+        "Orsak": "Exported",
+        "Land": "South Africa",
         "Luftfartygstyp": "AEROSPATIALE-SA316B",
         "Tillverkningsnummer": "1836",
         "Tillverkningsår": "1971",
@@ -69243,7 +69249,7 @@
         "Registreringsdatum": "2000-05-25",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 500479,
                 "name": "HeliNord Norden AB",
                 "address": "Stenberg 101 891 96 Arnäsvall Sweden",
@@ -98618,7 +98624,7 @@
         "Tillverkningsnummer": "1470",
         "Tillverkningsår": "1992",
         "Max startvikt (kg)": "1060,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-28",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-28",
         "Registreringsdatum": "2022-02-21",
         "owners": [
             {
@@ -112943,7 +112949,7 @@
         "Tillverkningsnummer": "4608016",
         "Tillverkningsår": "1986",
         "Max startvikt (kg)": "1860,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-24",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-24",
         "Registreringsdatum": "1998-10-15",
         "owners": [
             {
@@ -129916,7 +129922,7 @@
         "Tillverkningsnummer": "12-10-54-0219",
         "Tillverkningsår": "2012",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-05",
         "Registreringsdatum": "2026-09-14",
         "owners": [
             {
@@ -133014,7 +133020,7 @@
         "Tillverkningsnummer": "42.N564",
         "Tillverkningsår": "2024",
         "Max startvikt (kg)": "1999,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-17",
         "Registreringsdatum": "2026-08-12",
         "owners": [
             {
@@ -133039,7 +133045,7 @@
         "Tillverkningsnummer": "2816112",
         "Tillverkningsår": "1995",
         "Max startvikt (kg)": "1107,0",
-        "Luftvärdighetshandling giltig t.o.m.": null,
+        "Luftvärdighetshandling giltig t.o.m.": "2027-08-25",
         "Registreringsdatum": "2026-09-16",
         "owners": [
             {
@@ -143261,7 +143267,7 @@
         "Tillverkningsnummer": "12732",
         "Tillverkningsår": "2025",
         "Max startvikt (kg)": "77000,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-09-29",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-29",
         "Registreringsdatum": "2025-09-30",
         "owners": [
             {
@@ -148237,6 +148243,8 @@
     },
     {
         "code": "SE-TEO",
+        "Avregistrerad": "2026-09-17",
+        "Orsak": "Owners request",
         "Luftfartygstyp": "SCHEIBE-BERGFALKE III",
         "Tillverkningsnummer": "5589",
         "Tillverkningsår": "1966",
@@ -148245,7 +148253,7 @@
         "Registreringsdatum": "1967-04-26",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": 502477,
                 "name": "Eskilstuna Flygklubb",
                 "address": "Ekeby Flygfält 632 23 ESKILSTUNA Sweden",
@@ -179285,7 +179293,7 @@
         "Tillverkningsnummer": "01-02-01-04",
         "Tillverkningsår": "2001",
         "Max startvikt (kg)": "472,5",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-16",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-16",
         "Registreringsdatum": "2009-06-24",
         "owners": [
             {
@@ -181105,7 +181113,7 @@
         "Tillverkningsnummer": "DY-230/2008",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-05-31",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-05-31",
         "Registreringsdatum": "2008-04-22",
         "owners": [
             {
@@ -183553,7 +183561,7 @@
         "Tillverkningsnummer": "452/2019",
         "Tillverkningsår": "2019",
         "Max startvikt (kg)": "600,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-22",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-22",
         "Registreringsdatum": "2020-07-23",
         "owners": [
             {
@@ -183760,7 +183768,7 @@
         "Tillverkningsnummer": "2004 2020",
         "Tillverkningsår": "2004",
         "Max startvikt (kg)": "450,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-14",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-14",
         "Registreringsdatum": "2021-05-07",
         "owners": [
             {
@@ -184018,7 +184026,7 @@
         "Tillverkningsnummer": "M01908",
         "Tillverkningsår": "2020",
         "Max startvikt (kg)": "500,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-07-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-07-21",
         "Registreringsdatum": "2021-07-16",
         "owners": [
             {
@@ -185677,6 +185685,9 @@
     },
     {
         "code": "SE-XDY",
+        "Avregistrerad": "2026-09-17",
+        "Orsak": "Exported",
+        "Land": "France",
         "Luftfartygstyp": "JODEL-D112",
         "Tillverkningsnummer": "830-130",
         "Tillverkningsår": "1969",
@@ -185685,7 +185696,7 @@
         "Registreringsdatum": "1981-06-30",
         "owners": [
             {
-                "type": "Registrerad ägare",
+                "type": "Senast registrerad ägare",
                 "id": null,
                 "name": "ANONYMOUS",
                 "address": null,
@@ -188413,7 +188424,7 @@
         "Tillverkningsnummer": "2606-1404",
         "Tillverkningsår": "1998",
         "Max startvikt (kg)": "725,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-06-30",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-13",
         "Registreringsdatum": "2009-10-05",
         "owners": [
             {
