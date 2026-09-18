@@ -43802,7 +43802,7 @@
         "Tillverkningsnummer": "4277",
         "Tillverkningsår": "2008",
         "Max startvikt (kg)": "621,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-08-24",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-09-09",
         "Registreringsdatum": "2008-08-19",
         "owners_amount": 1,
         "owners": [
@@ -91650,7 +91650,7 @@
         "Tillverkningsnummer": "42.078",
         "Tillverkningsår": "2005",
         "Max startvikt (kg)": "1900,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-21",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-21",
         "Registreringsdatum": "2017-07-04",
         "owners_amount": 1,
         "owners": [
@@ -95574,7 +95574,7 @@
         "Tillverkningsnummer": "680-0276",
         "Tillverkningsår": "2009",
         "Max startvikt (kg)": "13743,0",
-        "Luftvärdighetshandling giltig t.o.m.": "2026-10-18",
+        "Luftvärdighetshandling giltig t.o.m.": "2027-10-18",
         "Registreringsdatum": "2019-02-20",
         "owners_amount": 1,
         "owners": [
@@ -102137,14 +102137,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
                 "since": "1981-03-02"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502522,
                 "name": "Ljusdals Flygklubb",
                 "address": "Forsnäset Färilavägen 40 827 94  LJUSDAL Sweden",
@@ -102586,14 +102586,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
                 "since": "1984-08-27"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502822,
                 "name": "Höganäs Segelflygklubb",
                 "address": "Sweden",
@@ -105349,18 +105349,18 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad ägare",
-                "id": 502628,
-                "name": "Östersunds Segelflygklubb",
-                "address": "Sweden",
-                "since": "1981-07-27"
-            },
-            {
                 "type": "Senast registrerad delägare",
                 "id": 502628,
                 "name": "Östersunds Segelflygklubb",
                 "address": "Sweden",
                 "since": "1974-01-30"
+            },
+            {
+                "type": "Senast registrerad ägare",
+                "id": 502628,
+                "name": "Östersunds Segelflygklubb",
+                "address": "Sweden",
+                "since": "1981-07-27"
             }
         ]
     },
@@ -106290,14 +106290,14 @@
         "owners_amount": 2,
         "owners": [
             {
-                "type": "Senast registrerad delägare",
+                "type": "Senast registrerad ägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
                 "since": "1982-07-20"
             },
             {
-                "type": "Senast registrerad ägare",
+                "type": "Senast registrerad delägare",
                 "id": 502573,
                 "name": "Skövde Flygklubb",
                 "address": "Flygplatsen 541 91 SKÖVDE Sweden",
